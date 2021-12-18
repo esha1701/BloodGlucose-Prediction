@@ -1,0 +1,1281 @@
+type,sourceName,value,unit,startDate,endDate,creationDate,com.loopkit.InsulinKit.MetadataKeyProgrammedTempBasalRate,com.loopkit.InsulinKit.MetadataKeyScheduledBasalRate,com.loudnate.CarbKit.HKMetadataKey.AbsorptionTimeMinutes,FitzpatrickSkinType,HKMetadataKeySyncVersion,CardioFitnessMedicationsUse,sourceVersion,HasLoopKitOrigin,Transmitter Time,Status,BloodType,BiologicalSex,Trend Arrow,HKInsulinDeliveryReason,HKMetadataKeyDevicePlacementSide,com.loudnate.GlucoseKit.HKMetadataKey.GlucoseIsDisplayOnly,HKFoodType,device,DateOfBirth,HKTimeZone,HKDeviceName,Trend Rate,HKWasUserEntered,HKMetadataKeySyncIdentifier
+DietaryCarbohydrates,Loop,113,g,10/31/21 22:10,10/31/21 22:10,10/31/21 22:10,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,FFA616A1-0FF5-42CE-8169-CFF32DDC5234
+DietaryCarbohydrates,Loop,41,g,10/31/21 19:00,10/31/21 19:00,10/31/21 19:00,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,F00BAD19-691F-40B0-89D0-6E494EA03E28
+DietaryCarbohydrates,Loop,41,g,10/31/21 10:02,10/31/21 10:02,10/31/21 10:02,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,A3AD5E02-9EDA-4B31-A75E-F79D28C761A8
+DietaryCarbohydrates,Loop,129,g,10/30/21 22:43,10/30/21 22:43,10/30/21 22:44,,,14400,,1,,57,,,,,,,,,,eggs rolls pbj,,,,,,,D449FC63-5104-4D4E-998D-44DCE4C89294
+DietaryCarbohydrates,Loop,41,g,10/30/21 18:53,10/30/21 18:53,10/30/21 18:54,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,646F79C0-A8B5-4132-8F8B-8BE5C3C892F6
+DietaryCarbohydrates,Loop,41,g,10/30/21 11:36,10/30/21 11:36,10/30/21 11:37,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,7FF7E5BE-57CB-440B-9999-6329BA3F4C12
+DietaryCarbohydrates,Loop,114,g,10/29/21 21:49,10/29/21 21:49,10/29/21 21:49,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,6B87E7CA-3001-4D11-9642-6038CF9D7AD0
+DietaryCarbohydrates,Loop,41,g,10/29/21 18:48,10/29/21 18:48,10/29/21 18:49,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,C9EC0A36-2DEF-4AC4-A185-E963A9DDBFC0
+DietaryCarbohydrates,Loop,41,g,10/29/21 10:16,10/29/21 10:16,10/29/21 10:16,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,AE626223-B20D-42FC-A710-057708FD8AEE
+DietaryCarbohydrates,Loop,8,g,10/29/21 8:35,10/29/21 8:35,10/29/21 8:35,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,1FDBB6E8-15C4-4CFD-BE27-AFBA95C2DD3E
+DietaryCarbohydrates,Loop,112,g,10/28/21 23:18,10/28/21 23:18,10/28/21 23:18,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,0EB428E4-2850-4E42-BE22-2C4B9F00D957
+DietaryCarbohydrates,Loop,41,g,10/28/21 19:07,10/28/21 19:07,10/28/21 19:07,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,97ED2CD7-66F7-411D-9BCA-BD441D8E3D80
+DietaryCarbohydrates,Loop,41,g,10/28/21 11:32,10/28/21 11:32,10/28/21 11:33,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,5C0077FA-B1CA-43AC-B2EF-8E5BB027532F
+DietaryCarbohydrates,Loop,8,g,10/28/21 8:23,10/28/21 8:23,10/28/21 8:23,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,A804796C-9502-4663-BE3F-AEA74E25D5F2
+DietaryCarbohydrates,Loop,115,g,10/27/21 22:36,10/27/21 22:36,10/27/21 22:37,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,F11E65E7-AA11-4613-BB72-76A6E2E1BDA0
+DietaryCarbohydrates,Loop,28,g,10/27/21 16:58,10/27/21 16:58,10/27/21 16:59,,,10800,,1,,57,,,,,,,,,,ccic,,,,,,,56C55C15-B016-42B8-BD41-EAF09B839C0A
+DietaryCarbohydrates,Loop,41,g,10/27/21 9:41,10/27/21 9:41,10/27/21 9:41,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,9C6B4074-7F8F-435F-9DAA-B2FEF03C0C49
+DietaryCarbohydrates,Loop,115,g,10/27/21 0:08,10/27/21 0:08,10/27/21 0:09,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,69468247-2FD7-464D-8ED0-E1956343FAB6
+DietaryCarbohydrates,Loop,41,g,10/26/21 19:01,10/26/21 19:01,10/26/21 19:02,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,75794081-F5A9-4424-B9AC-4D6E06695F95
+DietaryCarbohydrates,Loop,41,g,10/26/21 12:26,10/26/21 12:26,10/26/21 12:27,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,6AAACCD4-1F4F-4B7E-9DB8-47F532205D87
+DietaryCarbohydrates,Loop,114,g,10/25/21 23:35,10/25/21 23:35,10/25/21 23:36,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,07A2DE62-9FC7-43A3-94B4-E07B0D8567F6
+DietaryCarbohydrates,Loop,41,g,10/25/21 18:56,10/25/21 18:56,10/25/21 18:56,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,187376E5-AD94-4B7F-92E6-264D4C997B93
+DietaryCarbohydrates,Loop,41,g,10/25/21 12:03,10/25/21 12:03,10/25/21 12:04,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,837D08E3-A466-4000-9194-3EF7FF964ADE
+DietaryCarbohydrates,Loop,8,g,10/25/21 7:04,10/25/21 7:04,10/25/21 7:04,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,171D57C7-7CD0-4979-B458-9D733ECF65E0
+DietaryCarbohydrates,Loop,114,g,10/24/21 23:36,10/24/21 23:36,10/24/21 23:37,,,14400,,1,,57,,,,,,,,,,salad  roll,,,,,,,752BEC46-2D04-4F3A-B23D-D6A218722666
+DietaryCarbohydrates,Loop,41,g,10/24/21 18:21,10/24/21 18:21,10/24/21 18:22,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,BED39162-6414-43E3-9AC1-44BBA1D4EF78
+DietaryCarbohydrates,Loop,8,g,10/24/21 9:05,10/24/21 9:05,10/24/21 9:06,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,DE007FDF-AFBA-4015-AEC9-8C7BAFEFD6E6
+DietaryCarbohydrates,Loop,41,g,10/24/21 7:46,10/24/21 7:46,10/24/21 7:46,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,E394ACF1-CD90-4A49-BE27-C06B97A6C151
+DietaryCarbohydrates,Loop,8,g,10/24/21 3:36,10/24/21 3:36,10/24/21 3:36,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,E9CFDD2E-0E76-413A-BAA9-13C3716EAD6A
+DietaryCarbohydrates,Loop,128,g,10/23/21 23:16,10/23/21 23:16,10/23/21 23:17,,,14400,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,FC59DF34-87D8-4050-9B5A-13EB8DB6E0B4
+DietaryCarbohydrates,Loop,41,g,10/23/21 20:51,10/23/21 20:51,10/23/21 20:51,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,8714A195-CF04-4AB7-BB09-C8E766A24673
+DietaryCarbohydrates,Loop,16,g,10/23/21 16:48,10/23/21 16:48,10/23/21 16:48,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,55627D23-31FC-49D3-BA0C-3656A9E43CCD
+DietaryCarbohydrates,Loop,41,g,10/23/21 11:36,10/23/21 11:36,10/23/21 11:36,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,E7234B30-BBC7-4362-866B-568A5F0EBA57
+DietaryCarbohydrates,Loop,8,g,10/23/21 5:13,10/23/21 5:13,10/23/21 5:13,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,DBFAF0BB-6F06-420B-B582-8789B6A802A1
+DietaryCarbohydrates,Loop,8,g,10/23/21 0:49,10/23/21 0:49,10/23/21 0:49,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,D5528543-6BA8-4314-81B9-AFDD69882760
+DietaryCarbohydrates,Loop,116,g,10/23/21 0:11,10/23/21 0:11,10/23/21 0:11,,,14400,,1,,57,,,,,,,,,,salad roll,,,,,,,A0AF6131-2E1D-40D0-92FA-C980AB53E03B
+DietaryCarbohydrates,Loop,41,g,10/22/21 19:15,10/22/21 19:15,10/22/21 19:16,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,954E04FD-9D72-423B-B7AA-BA38123DCE1C
+DietaryCarbohydrates,Loop,41,g,10/22/21 11:26,10/22/21 11:26,10/22/21 11:26,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,7E841531-D0AE-4315-9635-9579F86C5F3C
+DietaryCarbohydrates,Loop,8,g,10/22/21 2:56,10/22/21 2:56,10/22/21 2:57,,,10800,,1,,57,,,,,,,,,,juice bottle ,,,,,,,CF3DEA37-E530-471B-ADA9-CFCB708F2A35
+DietaryCarbohydrates,Loop,18,g,10/21/21 23:11,10/21/21 23:11,10/21/21 23:11,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,40B2DDC7-55FB-4350-A19D-0EC50C00A2DB
+DietaryCarbohydrates,Loop,115,g,10/21/21 22:08,10/21/21 22:08,10/21/21 22:08,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,FE49D091-6175-40E1-811E-A9B36994B611
+DietaryCarbohydrates,Loop,41,g,10/21/21 18:54,10/21/21 18:54,10/21/21 18:54,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,A6A5FEE3-C04C-4969-97A7-658FFCF6D649
+DietaryCarbohydrates,Loop,41,g,10/21/21 9:10,10/21/21 9:10,10/21/21 9:11,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,9211CEFD-B568-4E28-B0F9-CF4B74C687F2
+DietaryCarbohydrates,Loop,8,g,10/21/21 6:11,10/21/21 6:11,10/21/21 6:12,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,15B25D44-FEF8-44BE-A902-CCCF73D98814
+DietaryCarbohydrates,Loop,1,g,10/21/21 6:07,10/21/21 6:07,10/21/21 6:11,,,10800,,2,,57,,,,,,,,,,grapes c&c ,,,,,,,FB9DD175-385F-41A2-9CF2-A383B6634908
+DietaryCarbohydrates,Loop,113,g,10/20/21 22:38,10/20/21 22:38,10/20/21 22:38,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,32FDB55C-A3CE-406D-B603-A604942CA9E6
+DietaryCarbohydrates,Loop,41,g,10/20/21 18:41,10/20/21 18:41,10/20/21 18:41,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,4E974A26-203C-4E5A-B7A7-8D8FC84DBABE
+DietaryCarbohydrates,Loop,41,g,10/20/21 10:28,10/20/21 10:28,10/20/21 10:29,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,C6ACE7C0-1773-4F80-BBF9-1DD4FA21D747
+DietaryCarbohydrates,Loop,107,g,10/19/21 23:28,10/19/21 23:28,10/19/21 23:29,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,A30718BC-6E46-40C7-9D21-48A8F7682C59
+DietaryCarbohydrates,Loop,41,g,10/19/21 18:09,10/19/21 18:09,10/19/21 18:10,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,D1616B60-B7C1-47B5-8303-46E792BF3858
+DietaryCarbohydrates,Loop,10,g,10/19/21 2:34,10/19/21 2:34,10/19/21 2:35,,,10800,,1,,57,,,,,,,,,,ccc,,,,,,,D1B4E272-3079-423A-A3A1-91F37D427985
+DietaryCarbohydrates,Loop,110,g,10/19/21 1:01,10/19/21 1:01,10/19/21 1:01,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,15405EE8-B8EF-4D88-AEC9-C8581D9DE1CF
+DietaryCarbohydrates,Loop,41,g,10/18/21 21:43,10/18/21 21:43,10/18/21 21:44,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,B4086616-AF99-4206-8D19-60BE8D0C82FB
+DietaryCarbohydrates,Loop,10,g,10/18/21 18:18,10/18/21 18:18,10/18/21 18:18,,,10800,,1,,57,,,,,,,,,,ccc,,,,,,,AC75940C-55E6-40CF-9068-52C84248930C
+DietaryCarbohydrates,Loop,8,g,10/18/21 14:53,10/18/21 14:53,10/18/21 14:53,,,10800,,1,,57,,,,,,,,,,,,,,,,,9187140B-284E-47E7-955B-96A53B7E4DE8
+DietaryCarbohydrates,Loop,41,g,10/18/21 10:09,10/18/21 10:09,10/18/21 10:09,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,026E23E6-B9B0-4209-B166-AC274348517B
+DietaryCarbohydrates,Loop,8,g,10/18/21 0:29,10/18/21 0:29,10/18/21 0:29,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,75A2477F-6007-4198-8D96-0D8A06EE62C6
+DietaryCarbohydrates,Loop,111,g,10/17/21 22:52,10/17/21 22:52,10/17/21 22:52,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,4BD2604A-5084-4682-8E5B-4316DBD874D7
+DietaryCarbohydrates,Loop,41,g,10/17/21 18:06,10/17/21 18:06,10/17/21 18:06,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,62D91EFA-31A5-403D-ABA0-B39A65C862D3
+DietaryCarbohydrates,Loop,41,g,10/17/21 11:10,10/17/21 11:10,10/17/21 11:10,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,BAD30151-CFF2-4CC6-BF5F-19510B73B7EF
+DietaryCarbohydrates,Loop,133,g,10/16/21 23:42,10/16/21 23:42,10/16/21 23:44,,,14400,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,0E57E09D-0E99-47E9-B021-E6A60FAA4DE2
+DietaryCarbohydrates,Loop,41,g,10/16/21 19:11,10/16/21 19:11,10/16/21 19:11,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,68A5B4F5-5B5B-4541-84D5-2F071BAE0690
+DietaryCarbohydrates,Loop,10,g,10/16/21 16:16,10/16/21 16:16,10/16/21 16:16,,,10800,,1,,57,,,,,,,,,,cc,,,,,,,CF380C87-E079-498B-8E82-F0A4F7D8C847
+DietaryCarbohydrates,Loop,8,g,10/16/21 12:47,10/16/21 12:47,10/16/21 12:47,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,A548680E-FEDA-420D-B606-E8E254E7A093
+DietaryCarbohydrates,Loop,41,g,10/16/21 10:57,10/16/21 10:57,10/16/21 10:57,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,2B71120E-6C97-434D-9C85-1F181FD69F39
+DietaryCarbohydrates,Loop,112,g,10/15/21 23:25,10/15/21 23:25,10/15/21 23:25,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,5C949552-A549-447C-BA2D-36689E4C990B
+DietaryCarbohydrates,Loop,41,g,10/15/21 18:46,10/15/21 18:46,10/15/21 18:47,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,726F91B0-2828-4F7B-9F0A-42C68FB1FD99
+DietaryCarbohydrates,Loop,8,g,10/15/21 13:27,10/15/21 13:27,10/15/21 13:27,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,4A6B4423-53A9-4582-B32A-6ADA231AB713
+DietaryCarbohydrates,Loop,10,g,10/15/21 13:25,10/15/21 13:25,10/15/21 13:25,,,10800,,1,,57,,,,,,,,,,cc,,,,,,,71F500EA-F234-4BC3-AA1F-C5925E272751
+DietaryCarbohydrates,Loop,41,g,10/15/21 10:16,10/15/21 10:16,10/15/21 10:17,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,3DA44FCA-4403-4D8E-8272-F482307F123D
+DietaryCarbohydrates,Loop,110,g,10/14/21 23:54,10/14/21 23:54,10/14/21 23:54,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,4332F842-18C7-4B24-9468-7CD186B15E81
+DietaryCarbohydrates,Loop,41,g,10/14/21 10:19,10/14/21 10:19,10/14/21 10:19,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,59B0FCC5-0E13-49F7-B437-3F5E7BFA2D14
+DietaryCarbohydrates,Loop,112,g,10/13/21 23:59,10/13/21 23:59,10/14/21 0:00,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,976BCE26-0D16-4596-B215-59EB3C0BE00A
+DietaryCarbohydrates,Loop,10,g,10/13/21 15:15,10/13/21 15:15,10/13/21 15:15,,,10800,,1,,57,,,,,,,,,,cc,,,,,,,47C43FD1-0BD7-4045-93EE-5D6B8E11BE96
+DietaryCarbohydrates,Loop,41,g,10/13/21 12:42,10/13/21 12:42,10/13/21 12:42,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,81F1DE8E-257F-4364-BE87-7BFC01474983
+DietaryCarbohydrates,Loop,8,g,10/13/21 11:01,10/13/21 11:01,10/13/21 11:01,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,F6C0308A-C969-4CCB-8F7D-C049D9655E30
+DietaryCarbohydrates,Loop,110,g,10/12/21 23:01,10/12/21 23:01,10/12/21 23:01,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,0919415B-5CAF-4ED3-8574-EA2231D2BD7F
+DietaryCarbohydrates,Loop,41,g,10/12/21 20:29,10/12/21 20:29,10/12/21 20:29,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,61EFB9CC-E186-4DE7-935C-663F15B790E9
+DietaryCarbohydrates,Loop,41,g,10/12/21 12:42,10/12/21 12:42,10/12/21 12:42,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,78DAC506-687F-441E-A4B4-B55B14682493
+DietaryCarbohydrates,Loop,111,g,10/12/21 0:15,10/12/21 0:15,10/12/21 0:15,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,2C329C72-C8EB-42BB-87AF-3710CA74C9BE
+DietaryCarbohydrates,Loop,41,g,10/11/21 10:43,10/11/21 10:43,10/11/21 10:43,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,C7799B6C-613E-4005-AA08-4C5E98A16B31
+DietaryCarbohydrates,Loop,113,g,10/11/21 0:21,10/11/21 0:21,10/11/21 0:21,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,A717F487-2DD1-434B-BD0E-EF34D48C93C1
+DietaryCarbohydrates,Loop,41,g,10/10/21 19:08,10/10/21 19:08,10/10/21 19:08,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,806FD929-EFC8-425E-A5C1-A8AE1B18E03B
+DietaryCarbohydrates,Loop,41,g,10/10/21 12:17,10/10/21 12:17,10/10/21 12:18,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,69F6C8FF-08D2-4243-95DB-6DB555CF944D
+DietaryCarbohydrates,Loop,125,g,10/9/21 22:50,10/9/21 22:50,10/9/21 22:52,,,14400,,2,,57,,,,,,,,,,eggs cb pbj ,,,,,,,C83F8558-7250-421B-9DFD-90009AC4823F
+DietaryCarbohydrates,Loop,18,g,10/9/21 18:56,10/9/21 18:56,10/9/21 18:57,,,10800,,1,,57,,,,,,,,,,ice cream ,,,,,,,32AA509B-854D-430A-8F81-2509C18BD938
+DietaryCarbohydrates,Loop,41,g,10/9/21 12:16,10/9/21 12:16,10/9/21 12:16,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,57CDA6D9-EC88-4747-9F56-1F198BE9C5BD
+DietaryCarbohydrates,Loop,109,g,10/8/21 23:15,10/8/21 23:15,10/8/21 23:16,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,B9F93891-0CFF-45ED-B295-60EC337252D3
+DietaryCarbohydrates,Loop,41,g,10/8/21 18:52,10/8/21 18:52,10/8/21 18:52,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,3E517340-C90E-4446-B159-C93411CFEF4D
+DietaryCarbohydrates,Loop,41,g,10/8/21 11:50,10/8/21 11:50,10/8/21 11:50,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,3A1F07AC-9039-414F-9697-8D5EDC836AB0
+DietaryCarbohydrates,Loop,113,g,10/7/21 22:30,10/7/21 22:30,10/7/21 22:30,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,F24D8481-BE19-490B-A3A1-18578DE0287C
+DietaryCarbohydrates,Loop,41,g,10/7/21 19:09,10/7/21 19:09,10/7/21 19:09,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,81D00AF2-9216-4F4A-B5AF-1851C11533C9
+DietaryCarbohydrates,Loop,41,g,10/7/21 10:04,10/7/21 10:04,10/7/21 10:04,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,642FA55D-351E-4E5B-AE8C-E3F1EC351430
+DietaryCarbohydrates,Loop,115,g,10/6/21 23:03,10/6/21 23:03,10/6/21 23:04,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,2D3892CC-94B7-4EF6-A593-350B7CF087BE
+DietaryCarbohydrates,Loop,8,g,10/6/21 19:21,10/6/21 19:21,10/6/21 19:21,,,7200,,1,,57,,,,,,,,,,,,,,,,,5497F90F-934C-40DD-AA5C-963507B11FC9
+DietaryCarbohydrates,Loop,41,g,10/6/21 19:11,10/6/21 19:11,10/6/21 19:11,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,4120F47C-A4C2-4107-BCF1-6A4718185E99
+DietaryCarbohydrates,Loop,41,g,10/6/21 12:27,10/6/21 12:27,10/6/21 12:27,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,A83E7D27-1018-4623-81A1-2B7CDAA6CB5C
+DietaryCarbohydrates,Loop,115,g,10/5/21 22:27,10/5/21 22:27,10/5/21 22:28,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,FA5E2A48-A72E-419C-876E-AC2FF5C7A0CA
+DietaryCarbohydrates,Loop,41,g,10/5/21 19:22,10/5/21 19:22,10/5/21 19:22,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,2A713FE9-B977-477B-9E80-083A8F85F4D1
+DietaryCarbohydrates,Loop,41,g,10/5/21 10:32,10/5/21 10:32,10/5/21 10:32,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,C309F95C-76A9-422A-882A-2CAE5517005B
+DietaryCarbohydrates,Loop,8,g,10/5/21 4:33,10/5/21 4:33,10/5/21 4:33,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,13314E25-975B-41C0-8CF9-1412C9A9F2D4
+DietaryCarbohydrates,Loop,115,g,10/4/21 23:24,10/4/21 23:24,10/4/21 23:24,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,94118F28-9045-4325-A7D4-BD773D8A97FC
+DietaryCarbohydrates,Loop,41,g,10/4/21 19:55,10/4/21 19:55,10/4/21 19:55,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,9BA8BAC8-DB33-4FA7-89E1-0BB1814F9BB2
+DietaryCarbohydrates,Loop,41,g,10/4/21 10:16,10/4/21 10:16,10/4/21 10:16,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,1B49546D-70F6-4E5B-8AC6-A71547B997F8
+DietaryCarbohydrates,Loop,110,g,10/3/21 23:13,10/3/21 23:13,10/3/21 23:13,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,BF93C540-6C2C-4500-BDCC-9AC415897689
+DietaryCarbohydrates,Loop,41,g,10/3/21 20:09,10/3/21 20:09,10/3/21 20:09,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,DDD9EBA4-26B6-4DB1-A7F9-3DE9BF4C605C
+DietaryCarbohydrates,Loop,128,g,10/2/21 23:10,10/2/21 23:10,10/2/21 23:11,,,14400,,1,,57,,,,,,,,,,eggs   cb pbj ,,,,,,,77DA5B88-2222-43A5-82B3-F459ECC9C9A7
+DietaryCarbohydrates,Loop,41,g,10/2/21 19:14,10/2/21 19:14,10/2/21 19:14,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,41260129-683E-4F02-B7F4-E6E41B34BAB9
+DietaryCarbohydrates,Loop,41,g,10/2/21 11:57,10/2/21 11:57,10/2/21 11:57,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,EA568610-5AFF-49C3-ABB6-08F874B84B68
+DietaryCarbohydrates,Loop,125,g,10/1/21 21:58,10/1/21 21:58,10/1/21 21:58,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,BDA75639-0171-41B7-901E-C4E21003C5CF
+DietaryCarbohydrates,Loop,41,g,10/1/21 18:49,10/1/21 18:49,10/1/21 18:49,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,6732D52D-8F98-4DBF-B404-122753E68D28
+DietaryCarbohydrates,Loop,41,g,10/1/21 11:05,10/1/21 11:05,10/1/21 11:05,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,6BD82EFD-CF78-4D1B-AB29-4ED6E7BC6274
+DietaryCarbohydrates,Loop,120,g,9/30/21 22:23,9/30/21 22:23,9/30/21 22:24,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,D3861457-8910-4AE3-9161-C1F94B8568A8
+DietaryCarbohydrates,Loop,41,g,9/30/21 20:01,9/30/21 20:01,9/30/21 20:01,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,75DCF803-6C0C-487B-BF7D-48845F79D8CB
+DietaryCarbohydrates,Loop,41,g,9/30/21 12:34,9/30/21 12:34,9/30/21 12:34,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,C1C4B7F3-FF2E-4DEF-9EF7-4CA93B1157A4
+DietaryCarbohydrates,Loop,8,g,9/30/21 10:32,9/30/21 10:32,9/30/21 10:32,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,D6B6E10C-E417-4B0D-95A5-F4C3FF97F2B1
+DietaryCarbohydrates,Loop,120,g,9/29/21 23:33,9/29/21 23:33,9/29/21 23:34,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,1AA52F82-C388-4939-92CA-6893A295B1B7
+DietaryCarbohydrates,Loop,48,g,9/29/21 19:45,9/29/21 19:45,9/29/21 19:46,,,10800,,1,,57,,,,,,,,,,ice cream ,,,,,,,F5BC8AB5-16D4-4726-BF1F-D880EAA5559E
+DietaryCarbohydrates,Loop,41,g,9/29/21 13:52,9/29/21 13:52,9/29/21 13:52,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,7154C2EE-3DA8-4AC3-901D-CD83F65AC674
+DietaryCarbohydrates,Loop,120,g,9/28/21 23:31,9/28/21 23:31,9/28/21 23:32,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,0E6F929E-00D4-427E-B741-543F2E7E6F4F
+DietaryCarbohydrates,Loop,41,g,9/28/21 19:30,9/28/21 19:30,9/28/21 19:30,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,DD2DF094-AFB0-4374-9DA3-2C63ABA58B93
+DietaryCarbohydrates,Loop,41,g,9/28/21 9:26,9/28/21 9:26,9/28/21 9:26,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,5E0254DE-C143-4243-BB40-AD6847BEE07A
+DietaryCarbohydrates,Loop,110,g,9/27/21 23:30,9/27/21 23:30,9/27/21 23:30,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,04138B03-D036-43CD-9A51-049E617BFD70
+DietaryCarbohydrates,Loop,41,g,9/27/21 16:54,9/27/21 16:54,9/27/21 16:55,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,495A6E7C-8FE3-4529-B255-3785DB22E593
+DietaryCarbohydrates,Loop,41,g,9/27/21 10:20,9/27/21 10:20,9/27/21 10:20,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,3326FAB4-338F-48FF-8F83-D5E912E1068E
+DietaryCarbohydrates,Loop,8,g,9/27/21 9:50,9/27/21 9:50,9/27/21 9:50,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,557DF2F5-F196-4BAA-8F6E-868D59F61CEC
+DietaryCarbohydrates,Loop,98,g,9/26/21 22:53,9/26/21 22:53,9/26/21 22:54,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,F91B8813-1539-460E-B39D-A4183AAA6981
+DietaryCarbohydrates,Loop,8,g,9/26/21 22:04,9/26/21 22:04,9/26/21 22:04,,,7200,,1,,57,,,,,,,,,,,,,,,,,56A957DC-5A1D-4808-8F6A-693306CC9C09
+DietaryCarbohydrates,Loop,8,g,9/26/21 19:42,9/26/21 19:42,9/26/21 19:43,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,CD8074BF-9137-4C79-AB3E-3CC3051A605F
+DietaryCarbohydrates,Loop,41,g,9/26/21 16:22,9/26/21 16:22,9/26/21 16:22,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,FF0BD69B-E7FA-48A9-AA23-F52B6279089D
+DietaryCarbohydrates,Loop,115,g,9/25/21 23:18,9/25/21 23:18,9/25/21 23:19,,,14400,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,F3703C6E-E591-4C29-AF81-4BD60BE6312E
+DietaryCarbohydrates,Loop,41,g,9/25/21 19:46,9/25/21 19:46,9/25/21 19:46,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,B47D8433-8C4B-4628-A3E9-54EEA9FDBA67
+DietaryCarbohydrates,Loop,41,g,9/25/21 11:37,9/25/21 11:37,9/25/21 11:37,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,7D813E83-C3D4-47FC-B6E7-1B0583372EC3
+DietaryCarbohydrates,Loop,90,g,9/24/21 22:46,9/24/21 22:46,9/24/21 22:46,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,7DA78A13-6F20-4381-AE24-BCA839B9254E
+DietaryCarbohydrates,Loop,41,g,9/24/21 18:04,9/24/21 18:04,9/24/21 18:04,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,D5F8E490-7561-43DB-B97B-7BE575721E64
+DietaryCarbohydrates,Loop,41,g,9/24/21 10:50,9/24/21 10:50,9/24/21 10:50,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,1677E9B4-E57F-4AE2-B214-8292805DDCEF
+DietaryCarbohydrates,Loop,92,g,9/23/21 23:44,9/23/21 23:44,9/23/21 23:45,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,70C70DEC-CD79-4893-90AF-294D9A540C10
+DietaryCarbohydrates,Loop,41,g,9/23/21 19:30,9/23/21 19:30,9/23/21 19:30,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,51C07BFF-40FC-453F-AB8C-47E84849E742
+DietaryCarbohydrates,Loop,41,g,9/23/21 10:18,9/23/21 10:18,9/23/21 10:18,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,7AEC5EBF-87FF-4F5A-A63C-B506D2FB1FBA
+DietaryCarbohydrates,Loop,94,g,9/22/21 22:36,9/22/21 22:36,9/22/21 22:36,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,6CDD9DF8-9D45-4CFB-ACB9-EC51B527CA19
+DietaryCarbohydrates,Loop,41,g,9/22/21 20:36,9/22/21 20:36,9/22/21 20:36,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,A6E529AD-E965-4175-A7CE-54ABDDED903F
+DietaryCarbohydrates,Loop,41,g,9/22/21 13:45,9/22/21 13:45,9/22/21 13:45,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,E123173F-2A01-4D1F-8A43-757ABC779FCF
+DietaryCarbohydrates,Loop,8,g,9/22/21 12:49,9/22/21 12:49,9/22/21 12:50,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,B5802D25-98ED-49CA-9DC4-B069974B7011
+DietaryCarbohydrates,Loop,94,g,9/21/21 23:42,9/21/21 23:42,9/21/21 23:43,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,EDCDF758-AF99-40D3-A7B8-36C957B13865
+DietaryCarbohydrates,Loop,41,g,9/21/21 18:52,9/21/21 18:52,9/21/21 18:52,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,C0D4AFD8-D83D-4FC0-9080-F299ADA8C60C
+DietaryCarbohydrates,Loop,41,g,9/21/21 10:47,9/21/21 10:47,9/21/21 10:47,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,B2129844-DEDD-43EB-9FB5-8BE0F4BB8C35
+DietaryCarbohydrates,Loop,92,g,9/20/21 22:47,9/20/21 22:47,9/20/21 22:47,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,8CF3092E-86E0-41ED-9E9A-82A9957FC2C8
+DietaryCarbohydrates,Loop,41,g,9/20/21 18:18,9/20/21 18:18,9/20/21 18:18,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,C588C430-0D04-4490-B74A-AD58BADCC740
+DietaryCarbohydrates,Loop,8,g,9/20/21 9:53,9/20/21 9:53,9/20/21 9:53,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,5EB73230-6C22-4E44-A51B-5EB5C55DDFF2
+DietaryCarbohydrates,Loop,41,g,9/20/21 9:47,9/20/21 9:47,9/20/21 9:47,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,C33BBD86-BFE9-45B9-87F0-97AD4D7FE78E
+DietaryCarbohydrates,Loop,90,g,9/19/21 22:42,9/19/21 22:42,9/19/21 22:43,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,8F52BDA7-F96C-487A-9FE7-C10DE1D78126
+DietaryCarbohydrates,Loop,41,g,9/19/21 13:26,9/19/21 13:26,9/19/21 13:27,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,FCF6C1AD-851A-4539-845D-B438FC3C0DD5
+DietaryCarbohydrates,Loop,109,g,9/18/21 23:49,9/18/21 23:49,9/18/21 23:50,,,14400,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,1F9E2F6C-629F-4902-A954-CD10124F4F3E
+DietaryCarbohydrates,Loop,41,g,9/18/21 19:07,9/18/21 19:07,9/18/21 19:08,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,A491A9A2-E6A1-4AE2-BF67-0217D8B362CE
+DietaryCarbohydrates,Loop,41,g,9/18/21 11:00,9/18/21 11:00,9/18/21 11:00,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,10ECD615-0B69-4C17-8AA3-8DFA5EBDB0AB
+DietaryCarbohydrates,Loop,8,g,9/18/21 5:18,9/18/21 5:18,9/18/21 5:18,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,0C589BE8-7C54-4C22-AC0E-15AB1A45D0A9
+DietaryCarbohydrates,Loop,90,g,9/17/21 23:35,9/17/21 23:35,9/17/21 23:36,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,ECDF401C-D70C-4C36-8FFC-AF03E68CA6B6
+DietaryCarbohydrates,Loop,41,g,9/17/21 19:30,9/17/21 19:30,9/17/21 19:30,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,C89E5305-C436-4C82-AEBD-0620E7D00242
+DietaryCarbohydrates,Loop,41,g,9/17/21 12:40,9/17/21 12:40,9/17/21 12:41,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,AC560438-6DC2-4750-94AE-F9856EB71906
+DietaryCarbohydrates,Loop,8,g,9/17/21 6:37,9/17/21 6:37,9/17/21 6:37,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,FDA8F2FD-222F-4556-8071-935FE3778EF6
+DietaryCarbohydrates,Loop,90,g,9/16/21 23:15,9/16/21 23:15,9/16/21 23:15,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,D2B9CF72-234C-4B0A-8CC8-CE95848C1C30
+DietaryCarbohydrates,Loop,41,g,9/16/21 17:12,9/16/21 17:12,9/16/21 17:12,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,EB384252-ED70-4FCB-9AE6-C015892E01F7
+DietaryCarbohydrates,Loop,41,g,9/16/21 10:51,9/16/21 10:51,9/16/21 10:51,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,7F4089BC-0C42-464D-A375-E7E0BDF39950
+DietaryCarbohydrates,Loop,93,g,9/15/21 23:13,9/15/21 23:13,9/15/21 23:13,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,C7918D0E-D31C-4883-B8B8-4106DBE3BE8B
+DietaryCarbohydrates,Loop,41,g,9/15/21 8:42,9/15/21 8:42,9/15/21 8:42,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,6469BA6D-DE01-47ED-B7EA-FFA2E5194049
+DietaryCarbohydrates,Loop,92,g,9/14/21 21:36,9/14/21 21:36,9/14/21 21:37,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,9D0D0659-D3C1-4FE1-B806-61B6C5805D3D
+DietaryCarbohydrates,Loop,41,g,9/14/21 18:07,9/14/21 18:07,9/14/21 18:08,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,FCB7DBE7-E81A-42C3-9FCA-0362BAB14395
+DietaryCarbohydrates,Loop,41,g,9/14/21 9:58,9/14/21 9:58,9/14/21 9:59,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,9B39AAD4-6B9C-431D-ABFE-09857DAA3B5D
+DietaryCarbohydrates,Loop,91,g,9/13/21 22:56,9/13/21 22:56,9/13/21 22:56,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,8477F8F7-3EE4-4D91-9C2B-45AEF6DFCCBF
+DietaryCarbohydrates,Loop,41,g,9/13/21 18:49,9/13/21 18:49,9/13/21 18:49,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,3C7FEB73-690C-40F0-8F50-5C598334878B
+DietaryCarbohydrates,Loop,41,g,9/13/21 13:02,9/13/21 13:02,9/13/21 13:02,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,412B9C2F-CFA3-4F6A-A7A4-0AC8A72E2E49
+DietaryCarbohydrates,Loop,8,g,9/13/21 4:10,9/13/21 4:10,9/13/21 4:10,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,52CD1CFF-0A8B-415E-9CFA-700A9514B997
+DietaryCarbohydrates,Loop,92,g,9/12/21 23:04,9/12/21 23:04,9/12/21 23:04,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,10D5207E-B73E-472A-BF0E-A46F8ACD3F04
+DietaryCarbohydrates,Loop,41,g,9/12/21 19:55,9/12/21 19:55,9/12/21 19:56,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,E9A5D24F-1B0C-4362-BE37-C6CC623521F6
+DietaryCarbohydrates,Loop,41,g,9/12/21 11:44,9/12/21 11:44,9/12/21 11:44,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,37C9F64E-FDE5-428B-9523-79B681358BB4
+DietaryCarbohydrates,Loop,120,g,9/11/21 23:54,9/11/21 23:54,9/11/21 23:55,,,14400,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,38C604D6-7D35-498A-8490-32CA771D83FE
+DietaryCarbohydrates,Loop,41,g,9/11/21 16:12,9/11/21 16:12,9/11/21 16:12,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,B595426F-E16C-43F2-B6EA-027FC5B4FE41
+DietaryCarbohydrates,Loop,18,g,9/11/21 1:18,9/11/21 1:18,9/11/21 1:18,,,7200,,1,,57,,,,,,,,,,ðŸ,,,,,,,F02C316D-2E72-47B9-8FA4-16D90616E6DD
+DietaryCarbohydrates,Loop,93,g,9/10/21 23:26,9/10/21 23:26,9/10/21 23:26,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,A830FC63-F743-4C4E-AC60-3DD3E2BC714B
+DietaryCarbohydrates,Loop,41,g,9/10/21 18:03,9/10/21 18:03,9/10/21 18:04,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,5258F7AB-CDE4-41B6-ADD7-6BA887DC7DFD
+DietaryCarbohydrates,Loop,41,g,9/10/21 9:07,9/10/21 9:07,9/10/21 9:07,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,DB0B2674-9E10-4ECD-9EA6-C7563DA94CE2
+DietaryCarbohydrates,Loop,8,g,9/10/21 3:36,9/10/21 3:36,9/10/21 3:36,,,10800,,1,,57,,,,,,,,,,juice bottle ,,,,,,,CA3FB351-40C7-4D28-A1B8-60BE6EEAD8EE
+DietaryCarbohydrates,Loop,90,g,9/9/21 23:45,9/9/21 23:45,9/9/21 23:45,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,076CACB6-45C0-4F2B-8165-C38D45BFABD8
+DietaryCarbohydrates,Loop,41,g,9/9/21 19:30,9/9/21 19:30,9/9/21 19:30,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,C7F43784-6E47-43E8-98B3-EB4217D84B17
+DietaryCarbohydrates,Loop,41,g,9/9/21 10:20,9/9/21 10:20,9/9/21 10:20,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,0AE45282-1708-4FAE-8C24-7E8F0C931322
+DietaryCarbohydrates,Loop,92,g,9/8/21 23:46,9/8/21 23:46,9/8/21 23:46,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,9AC77DB3-420B-4B0D-B89E-E34B11B57DB3
+DietaryCarbohydrates,Loop,41,g,9/8/21 18:40,9/8/21 18:40,9/8/21 18:40,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,DE2DBF02-3D9B-455A-A92E-2F2E81679B67
+DietaryCarbohydrates,Loop,8,g,9/8/21 11:51,9/8/21 11:51,9/8/21 11:51,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,8A9E1D8C-B768-464F-8B4A-4D115B23EF5B
+DietaryCarbohydrates,Loop,41,g,9/8/21 9:41,9/8/21 9:41,9/8/21 9:41,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,20A70ADD-1C45-45C4-9C64-4E34FB025660
+DietaryCarbohydrates,Loop,8,g,9/8/21 3:39,9/8/21 3:39,9/8/21 3:39,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,4F916A23-E7BB-4DB4-9E44-7F5DA43B30D6
+DietaryCarbohydrates,Loop,90,g,9/7/21 23:27,9/7/21 23:27,9/7/21 23:27,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,B1660C68-6868-4524-9A72-48570C8B5A4A
+DietaryCarbohydrates,Loop,8,g,9/7/21 22:19,9/7/21 22:19,9/7/21 22:19,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,14F8822A-203B-4419-81F6-3EEA256CD012
+DietaryCarbohydrates,Loop,41,g,9/7/21 10:30,9/7/21 10:30,9/7/21 10:30,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,9C4606A2-A7B4-4DEB-ACE0-2E87BEDC9C5D
+DietaryCarbohydrates,Loop,96,g,9/6/21 22:52,9/6/21 22:52,9/6/21 22:53,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,4F05FC6A-CF57-443A-957D-D195CB2AC231
+DietaryCarbohydrates,Loop,41,g,9/6/21 18:45,9/6/21 18:45,9/6/21 18:45,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,4EA668AD-D23D-4E7D-9825-F8A8B8F7DF9D
+DietaryCarbohydrates,Loop,8,g,9/6/21 12:46,9/6/21 12:46,9/6/21 12:46,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,5E8091C1-0F3A-4DD4-9AF0-A082A344E6B3
+DietaryCarbohydrates,Loop,41,g,9/6/21 9:54,9/6/21 9:54,9/6/21 9:54,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,C3DCAE6B-5132-4EE8-B748-ADF67AF9A2EF
+DietaryCarbohydrates,Loop,94,g,9/5/21 22:58,9/5/21 22:58,9/5/21 22:59,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,CEB1BDAF-D560-4865-A7AC-8269FFD93A9E
+DietaryCarbohydrates,Loop,41,g,9/5/21 19:49,9/5/21 19:49,9/5/21 19:49,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,6B91A37C-ED2B-4674-9D27-22C991826517
+DietaryCarbohydrates,Loop,115,g,9/4/21 23:30,9/4/21 23:30,9/4/21 23:31,,,14400,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,073CB82E-DACB-4E5A-AAED-D82BD93D3537
+DietaryCarbohydrates,Loop,41,g,9/4/21 18:00,9/4/21 18:00,9/4/21 18:00,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,71415CAB-D9D0-4D16-AE43-8191C81C7ACD
+DietaryCarbohydrates,Loop,41,g,9/4/21 11:19,9/4/21 11:19,9/4/21 11:19,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,532D9AE2-986D-48F7-8FA7-C870192EC5AE
+DietaryCarbohydrates,Loop,94,g,9/3/21 23:45,9/3/21 23:45,9/3/21 23:45,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,5F45576F-65C3-4BF5-859A-BD1B9B4C2197
+DietaryCarbohydrates,Loop,41,g,9/3/21 18:25,9/3/21 18:25,9/3/21 18:26,,,10800,,1,,57,,,,,,,,,,grapes c&c lemon,,,,,,,9FE5B721-FC94-4A73-A5E1-E8447FEC2B1F
+DietaryCarbohydrates,Loop,8,g,9/3/21 17:10,9/3/21 17:10,9/3/21 17:10,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,B7CC0DFE-EEB5-473B-829E-3688296A49F2
+DietaryCarbohydrates,Loop,41,g,9/3/21 10:49,9/3/21 10:49,9/3/21 10:49,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,01ED635A-C3C3-4083-9F7E-9611960AE625
+DietaryCarbohydrates,Loop,91,g,9/2/21 22:53,9/2/21 22:53,9/2/21 22:54,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,AB994D59-05BB-4F38-8D3E-54A5B46BE685
+DietaryCarbohydrates,Loop,41,g,9/2/21 19:59,9/2/21 19:59,9/2/21 19:59,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,731AE7C8-7B23-4DE7-96D2-2DBD037F6208
+DietaryCarbohydrates,Loop,8,g,9/2/21 19:27,9/2/21 19:27,9/2/21 19:27,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,B2781D4F-E4A4-40A7-A445-78D779516BDA
+DietaryCarbohydrates,Loop,41,g,9/2/21 9:26,9/2/21 9:26,9/2/21 9:27,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,8220553A-9AD2-4B45-B7BD-72943DEE46A0
+DietaryCarbohydrates,Loop,8,g,9/2/21 2:10,9/2/21 2:10,9/2/21 2:10,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,2DA2047D-B784-4ACC-A126-05C4D2DEFC89
+DietaryCarbohydrates,Loop,8,g,9/1/21 23:54,9/1/21 23:54,9/1/21 23:54,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,AE1323E6-D8E6-44C7-ABC4-2FD720706010
+DietaryCarbohydrates,Loop,90,g,9/1/21 23:01,9/1/21 23:01,9/1/21 23:01,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,5B74DAD6-4B1D-49FA-A725-D782BE5854E9
+DietaryCarbohydrates,Loop,30,g,9/1/21 18:53,9/1/21 18:53,9/1/21 18:54,,,7200,,1,,57,,,,,,,,,,biscuit ,,,,,,,99833F07-4B28-440F-A1D5-D172E843EAE0
+DietaryCarbohydrates,Loop,41,g,9/1/21 12:15,9/1/21 12:15,9/1/21 12:15,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,F33BD49E-A894-4AA7-99AC-98CA8A0DC615
+DietaryCarbohydrates,Loop,92,g,8/31/21 23:19,8/31/21 23:19,8/31/21 23:20,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,06560AA9-05FD-47B8-B7BC-D8974FF4FC3F
+DietaryCarbohydrates,Loop,41,g,8/31/21 17:17,8/31/21 17:17,8/31/21 17:18,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,5C196994-3C0F-4F14-911D-1787834D6704
+DietaryCarbohydrates,Loop,41,g,8/31/21 11:07,8/31/21 11:07,8/31/21 11:07,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,E30DE46D-6CC9-43D1-BD03-96CF82C6D2A8
+DietaryCarbohydrates,Loop,8,g,8/31/21 3:29,8/31/21 3:29,8/31/21 3:29,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,494D016B-5A39-4C33-BA43-785F7ED55D8C
+DietaryCarbohydrates,Loop,90,g,8/30/21 23:51,8/30/21 23:51,8/30/21 23:51,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,2381C3E3-AAEB-41F3-A0B0-04713CC6F76E
+DietaryCarbohydrates,Loop,8,g,8/30/21 20:27,8/30/21 20:27,8/30/21 20:27,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,26F7E5E7-9507-4CD9-9DFB-2ED054C8126D
+DietaryCarbohydrates,Loop,40,g,8/30/21 19:35,8/30/21 19:35,8/30/21 19:35,,,10800,,1,,57,,,,,,,,,,scone,,,,,,,0A5DB356-E93E-4C55-AE5D-AE74F6FFC9C9
+DietaryCarbohydrates,Loop,41,g,8/30/21 10:52,8/30/21 10:52,8/30/21 10:52,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,F1281F25-324A-4BB5-89FB-09D0A91C7469
+DietaryCarbohydrates,Loop,8,g,8/30/21 9:17,8/30/21 9:17,8/30/21 9:17,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,975F0E90-85E8-4CF0-BD52-6E90E353F989
+DietaryCarbohydrates,Loop,89,g,8/29/21 22:11,8/29/21 22:11,8/29/21 22:12,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,B6C4C028-1676-419B-801C-A18F69A2F74B
+DietaryCarbohydrates,Loop,41,g,8/29/21 18:45,8/29/21 18:45,8/29/21 18:45,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,4D1EA824-FDBE-4CDB-9A90-CF9FEA8B80A2
+DietaryCarbohydrates,Loop,8,g,8/29/21 3:45,8/29/21 3:45,8/29/21 3:45,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,BD0F8C9F-27B7-4D5C-86D6-F28BE494CDD3
+DietaryCarbohydrates,Loop,104,g,8/28/21 23:35,8/28/21 23:35,8/28/21 23:35,,,14400,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,82F92713-1EDB-42F0-BBC4-6CB47D12100C
+DietaryCarbohydrates,Loop,8,g,8/28/21 21:53,8/28/21 21:53,8/28/21 21:54,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,53D5FAD3-75DE-432F-8FB0-C1C56FE7F3F9
+DietaryCarbohydrates,Loop,41,g,8/28/21 18:41,8/28/21 18:41,8/28/21 18:41,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,2D56A976-9166-4161-BCE1-D9806385D19A
+DietaryCarbohydrates,Loop,8,g,8/28/21 13:13,8/28/21 13:13,8/28/21 13:13,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,8E01D7D1-EFC9-4A34-BAC9-47039ADE4A49
+DietaryCarbohydrates,Loop,41,g,8/28/21 10:18,8/28/21 10:18,8/28/21 10:19,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,9F9C5571-17C1-41DB-AD20-3FBBA40D3EDC
+DietaryCarbohydrates,Loop,8,g,8/28/21 9:36,8/28/21 9:36,8/28/21 9:36,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,D4C7FE96-4BCA-4BA6-8041-CECA858685C6
+DietaryCarbohydrates,Loop,91,g,8/27/21 23:00,8/27/21 23:00,8/27/21 23:01,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,EDD671FD-E8ED-4456-BFC8-E2DB3B955971
+DietaryCarbohydrates,Loop,16,g,8/27/21 12:05,8/27/21 12:05,8/27/21 12:05,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,1D7AB15F-2399-41B0-96D5-8BC2D155A4F0
+DietaryCarbohydrates,Loop,91,g,8/26/21 23:18,8/26/21 23:18,8/26/21 23:19,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,277B02EF-5B1D-4ED7-B0CB-B68670FE9A03
+DietaryCarbohydrates,Loop,41,g,8/26/21 10:44,8/26/21 10:44,8/26/21 10:44,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,5CD9FEA1-2BAE-42CD-B76A-2A9B02DBE46F
+DietaryCarbohydrates,Loop,94,g,8/25/21 22:54,8/25/21 22:54,8/25/21 22:54,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,FF243102-17FB-46D0-B27D-A11E22727D58
+DietaryCarbohydrates,Loop,41,g,8/25/21 20:10,8/25/21 20:10,8/25/21 20:10,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,7D16D0BB-398D-4371-B890-A104E023C023
+DietaryCarbohydrates,Loop,41,g,8/25/21 8:40,8/25/21 8:40,8/25/21 8:41,,,10800,,1,,57,,,,,,,,,,grapes w,,,,,,,CB612CA5-C5F6-4B43-BBA4-1B7B27EC5763
+DietaryCarbohydrates,Loop,95,g,8/24/21 22:24,8/24/21 22:24,8/24/21 22:24,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,2E77E514-25AA-4BF1-9934-5DE21174566E
+DietaryCarbohydrates,Loop,41,g,8/24/21 19:25,8/24/21 19:25,8/24/21 19:25,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,227202A2-D7E2-43E3-B218-BA0BC95F7483
+DietaryCarbohydrates,Loop,41,g,8/24/21 13:37,8/24/21 13:37,8/24/21 13:37,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,8F5290A3-1703-40CF-8FB5-623273C1DBE9
+DietaryCarbohydrates,Loop,16,g,8/24/21 10:01,8/24/21 10:01,8/24/21 10:01,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,153BD4EF-3727-4606-BBAF-7B659796D5EA
+DietaryCarbohydrates,Loop,16,g,8/24/21 0:22,8/24/21 0:22,8/24/21 0:22,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,A441B202-D981-48C4-84FA-D71AE3694DB0
+DietaryCarbohydrates,Loop,91,g,8/23/21 23:21,8/23/21 23:21,8/23/21 23:22,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,272FB998-303A-48B3-9641-EB26DECE9285
+DietaryCarbohydrates,Loop,41,g,8/23/21 19:47,8/23/21 19:47,8/23/21 19:47,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,8850A8DD-B34D-4641-B8F1-E69A0D9EBB79
+DietaryCarbohydrates,Loop,16,g,8/23/21 17:09,8/23/21 17:09,8/23/21 17:10,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,0771BCF8-1854-488B-828B-D996AC5BE4EE
+DietaryCarbohydrates,Loop,41,g,8/23/21 11:31,8/23/21 11:31,8/23/21 11:31,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,FC41937E-AAAC-4276-B3D7-D009A4F2B3F2
+DietaryCarbohydrates,Loop,88,g,8/22/21 22:52,8/22/21 22:52,8/22/21 22:53,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,29A8A485-6802-47DF-A983-9B6CA741B5E6
+DietaryCarbohydrates,Loop,41,g,8/22/21 19:13,8/22/21 19:13,8/22/21 19:13,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,DFFD311C-1771-4368-B869-1FFD2DC3203A
+DietaryCarbohydrates,Loop,41,g,8/22/21 9:42,8/22/21 9:42,8/22/21 9:42,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,C34A92D7-C739-44F3-A961-D577F575BE14
+DietaryCarbohydrates,Loop,99,g,8/22/21 0:07,8/22/21 0:07,8/22/21 0:08,,,14400,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,340F7EEB-3A15-403E-9937-F1D4AFDBF90D
+DietaryCarbohydrates,Loop,41,g,8/21/21 18:45,8/21/21 18:45,8/21/21 18:45,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,757CAB8D-231E-48B9-A190-2DE692710572
+DietaryCarbohydrates,Loop,16,g,8/21/21 12:36,8/21/21 12:36,8/21/21 12:36,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,CCAF9AB3-4F36-4EE0-A181-D879B12210EB
+DietaryCarbohydrates,Loop,41,g,8/21/21 10:21,8/21/21 10:21,8/21/21 10:22,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,F649AA3B-C887-4F9A-AE3A-77C92F83BFA6
+DietaryCarbohydrates,Loop,93,g,8/20/21 23:35,8/20/21 23:35,8/20/21 23:37,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,FC6F5131-7BF9-4AC0-BB4B-7C36E84ED2DE
+DietaryCarbohydrates,Loop,41,g,8/20/21 17:25,8/20/21 17:25,8/20/21 17:25,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,D3C7F0E6-9159-43B5-B1B2-24FF7449F8F0
+DietaryCarbohydrates,Loop,88,g,8/19/21 23:56,8/19/21 23:56,8/19/21 23:56,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,BF021482-210F-40D9-B438-411C7996BE7C
+DietaryCarbohydrates,Loop,27.5,g,8/19/21 16:42,8/19/21 16:42,8/19/21 16:43,,,10800,,1,,57,,,,,,,,,,scones ,,,,,,,9FDCB37E-BFE2-435B-B714-A936F40E0D93
+DietaryCarbohydrates,Loop,41,g,8/19/21 9:03,8/19/21 9:03,8/19/21 9:04,,,10800,,1,,57,,,,,,,,,,c&c grapes pie,,,,,,,A1A21E48-581E-476D-ABCC-E7D54E59ED1E
+DietaryCarbohydrates,Loop,92,g,8/18/21 22:38,8/18/21 22:38,8/18/21 22:38,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,8E8C6EF0-7561-4E40-B157-BBF442423FB7
+DietaryCarbohydrates,Loop,41,g,8/18/21 17:29,8/18/21 17:29,8/18/21 17:29,,,10800,,1,,57,,,,,,,,,,grapes pie,,,,,,,B3C13FE7-3A97-47A2-9973-4CD7374D437E
+DietaryCarbohydrates,Loop,40,g,8/18/21 13:06,8/18/21 13:06,8/18/21 13:07,,,10800,,1,,57,,,,,,,,,,ice cream ,,,,,,,2D0FBFA0-8750-4B3A-A4C8-AEA1275B490F
+DietaryCarbohydrates,Loop,99,g,8/17/21 21:44,8/17/21 21:44,8/17/21 21:45,,,14400,,1,,57,,,,,,,,,,salad cb gazpacho,,,,,,,F84E2277-E3CD-4B7D-AC2A-37048B1C9FB6
+DietaryCarbohydrates,Loop,41,g,8/17/21 11:45,8/17/21 11:45,8/17/21 11:46,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,1A7805C5-8D6D-4F76-93D2-558BA3906E55
+DietaryCarbohydrates,Loop,8,g,8/17/21 10:32,8/17/21 10:32,8/17/21 10:32,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,B7DD553F-376C-45FE-A22E-845F18CE473D
+DietaryCarbohydrates,Loop,92,g,8/16/21 22:19,8/16/21 22:19,8/16/21 22:20,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,6D79E05B-242E-4F04-801E-B77218023DB0
+DietaryCarbohydrates,Loop,8,g,8/16/21 14:55,8/16/21 14:55,8/16/21 14:55,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,B4BBBCD3-F897-4A5C-8DA5-8E91963F25CB
+DietaryCarbohydrates,Loop,41,g,8/16/21 10:46,8/16/21 10:46,8/16/21 10:46,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,AA8A39BC-6F86-45F3-BD00-383144E1070D
+DietaryCarbohydrates,Loop,16,g,8/15/21 23:13,8/15/21 23:13,8/15/21 23:13,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,71E28B02-C0C2-4BA8-94FA-D7E1A5B07FCA
+DietaryCarbohydrates,Loop,89,g,8/15/21 22:25,8/15/21 22:25,8/15/21 22:25,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,A741ABB9-0B55-418C-ABD1-EE816CD95759
+DietaryCarbohydrates,Loop,41,g,8/15/21 19:57,8/15/21 19:57,8/15/21 19:57,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,EC3B18BA-14A9-4E26-BD91-AF5687F1AF0B
+DietaryCarbohydrates,Loop,41,g,8/15/21 14:16,8/15/21 14:16,8/15/21 14:16,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,F8DF7D39-D6D2-4FD8-8AF2-AF5983A07EAB
+DietaryCarbohydrates,Loop,101,g,8/14/21 23:48,8/14/21 23:48,8/14/21 23:48,,,14400,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,2A6683D1-023F-444A-8EC8-104F9ADB0525
+DietaryCarbohydrates,Loop,41,g,8/14/21 18:40,8/14/21 18:40,8/14/21 18:40,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,9252E7F5-0C5C-4E07-B361-85CE48223BF0
+DietaryCarbohydrates,Loop,92,g,8/13/21 23:30,8/13/21 23:30,8/13/21 23:30,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,DD20ACE5-F915-4F4E-A4A2-4C17BAF8AD4A
+DietaryCarbohydrates,Loop,8,g,8/13/21 22:35,8/13/21 22:35,8/13/21 22:36,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,3B1AE3B4-94A2-4C3B-B1BA-5D18018728E2
+DietaryCarbohydrates,Loop,16,g,8/13/21 18:44,8/13/21 18:44,8/13/21 18:45,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,7FF0FCDF-4477-4151-9407-DE7A8F812C87
+DietaryCarbohydrates,Loop,8,g,8/13/21 12:30,8/13/21 12:30,8/13/21 12:30,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,519E29B4-3166-4E11-9AF7-59890FA73AA3
+DietaryCarbohydrates,Loop,41,g,8/13/21 10:13,8/13/21 10:13,8/13/21 10:14,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,6D03B951-8796-4CEE-867D-867EB92BDA91
+DietaryCarbohydrates,Loop,16,g,8/12/21 22:34,8/12/21 22:34,8/12/21 22:34,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,9439FB72-7434-446D-95FD-A87AE7AF4CE9
+DietaryCarbohydrates,Loop,94,g,8/12/21 21:52,8/12/21 21:52,8/12/21 21:53,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,32D32C09-A6BF-460B-80A5-44A186D22A89
+DietaryCarbohydrates,Loop,41,g,8/12/21 19:15,8/12/21 19:15,8/12/21 19:15,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,CF2BC377-6F70-4EEA-9A6C-197F8F92DAD6
+DietaryCarbohydrates,Loop,8,g,8/12/21 17:19,8/12/21 17:19,8/12/21 17:19,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,1DD1BB5C-DA17-42C9-B7D1-8A2F194B4754
+DietaryCarbohydrates,Loop,41,g,8/12/21 11:15,8/12/21 11:15,8/12/21 11:15,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,C3448810-A687-47C9-9496-17ADDB0AE97B
+DietaryCarbohydrates,Loop,8,g,8/12/21 10:49,8/12/21 10:49,8/12/21 10:49,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,666B39FB-71AD-42C1-A625-5E6348647E61
+DietaryCarbohydrates,Loop,92,g,8/11/21 23:47,8/11/21 23:47,8/11/21 23:47,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,EB6CC0A7-2E9D-422A-9283-F16666636BF8
+DietaryCarbohydrates,Loop,13.5,g,8/11/21 20:45,8/11/21 20:45,8/11/21 20:46,,,14400,,1,,57,,,,,,,,,,ice cream,,,,,,,D81DE847-6122-40BF-BE42-A904C3B99091
+DietaryCarbohydrates,Loop,16,g,8/11/21 19:54,8/11/21 19:54,8/11/21 19:55,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,C79A1363-B5E7-48EE-9548-0FA283542EF6
+DietaryCarbohydrates,Loop,8,g,8/11/21 17:44,8/11/21 17:44,8/11/21 17:44,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,6A576104-79E8-4E26-B9F4-D534506F1B8A
+DietaryCarbohydrates,Loop,41,g,8/11/21 10:33,8/11/21 10:33,8/11/21 10:33,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,A0E286CD-0033-417F-A7F8-8D915728B292
+DietaryCarbohydrates,Loop,95,g,8/10/21 22:40,8/10/21 22:40,8/10/21 22:41,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,A8E5834D-38E3-438A-ACEB-3455DF08F59C
+DietaryCarbohydrates,Loop,41,g,8/10/21 19:50,8/10/21 19:50,8/10/21 19:50,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,92875E7F-5CD2-4CA6-8A48-B0E311FED69D
+DietaryCarbohydrates,Loop,41,g,8/10/21 10:44,8/10/21 10:44,8/10/21 10:44,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,DD5604DE-8CFB-40DE-A789-97D1859FC35C
+DietaryCarbohydrates,Loop,8,g,8/10/21 3:54,8/10/21 3:54,8/10/21 3:54,,,10800,,1,,57,,,,,,,,,,juice bottle ,,,,,,,F5416EC4-3B1B-43FE-A3F9-B09742C95665
+DietaryCarbohydrates,Loop,8,g,8/10/21 2:58,8/10/21 2:58,8/10/21 2:58,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,B36FFA29-F21C-4508-B9BF-40291FBCAAF1
+DietaryCarbohydrates,Loop,93,g,8/9/21 23:53,8/9/21 23:53,8/9/21 23:53,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,B6D87762-A050-4848-B606-FCEC9625FF35
+DietaryCarbohydrates,Loop,8,g,8/9/21 21:13,8/9/21 21:13,8/9/21 21:13,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,3C411EF6-EA02-4C88-ADDB-FDF84349F70A
+DietaryCarbohydrates,Loop,41,g,8/9/21 18:11,8/9/21 18:11,8/9/21 18:12,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,73D776A4-6505-40CE-B853-A2AA83D0203D
+DietaryCarbohydrates,Loop,41,g,8/9/21 11:27,8/9/21 11:27,8/9/21 11:27,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,D5A52EC8-2C24-4816-991B-9341AEE7E761
+DietaryCarbohydrates,Loop,8,g,8/9/21 3:53,8/9/21 3:53,8/9/21 3:53,,,10800,,1,,57,,,,,,,,,,juice bottle ,,,,,,,8749FA47-3C7C-4426-8485-F43A5ABD0FE5
+DietaryCarbohydrates,Loop,95,g,8/8/21 22:15,8/8/21 22:15,8/8/21 22:15,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,60429FE8-26B5-47F2-BEA7-98EDD2249297
+DietaryCarbohydrates,Loop,41,g,8/8/21 17:14,8/8/21 17:14,8/8/21 17:15,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,C6537F78-EEFE-4A44-A6FE-BB9B7404286A
+DietaryCarbohydrates,Loop,41,g,8/8/21 10:24,8/8/21 10:24,8/8/21 10:24,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,67369F94-BD01-458F-9E12-D3D4926A0F10
+DietaryCarbohydrates,Loop,99,g,8/7/21 22:52,8/7/21 22:52,8/7/21 22:52,,,14400,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,20AB198B-CCE4-4E6E-95EA-F502999AE368
+DietaryCarbohydrates,Loop,41,g,8/7/21 16:38,8/7/21 16:38,8/7/21 16:38,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,B1B5AC4C-5E40-4482-906C-8C43C4AB6A81
+DietaryCarbohydrates,Loop,41,g,8/7/21 9:24,8/7/21 9:24,8/7/21 9:24,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,9137789D-1ED5-41AE-AA93-46EADE032D28
+DietaryCarbohydrates,Loop,96,g,8/6/21 22:39,8/6/21 22:39,8/6/21 22:39,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,9F156A33-5FA5-4714-8426-281617EC1441
+DietaryCarbohydrates,Loop,41,g,8/6/21 19:44,8/6/21 19:44,8/6/21 19:44,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,17635123-AD46-4BAC-AC6B-599E6146DC06
+DietaryCarbohydrates,Loop,41,g,8/6/21 10:40,8/6/21 10:40,8/6/21 10:41,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,648E749F-ED45-492F-95D6-40B43B8999D4
+DietaryCarbohydrates,Loop,8,g,8/6/21 4:29,8/6/21 4:29,8/6/21 4:29,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,4EBB1FA6-38CB-43AB-8741-9FEF73C3637A
+DietaryCarbohydrates,Loop,95,g,8/5/21 23:05,8/5/21 23:05,8/5/21 23:05,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,5C27C330-4D9C-496E-955B-A15B77A7FB64
+DietaryCarbohydrates,Loop,41,g,8/5/21 17:48,8/5/21 17:48,8/5/21 17:48,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj,,,,,,,8AB1DF21-3314-4CDC-B0F9-8F33FE1B0FE8
+DietaryCarbohydrates,Loop,41,g,8/5/21 11:29,8/5/21 11:29,8/5/21 11:29,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,7FE1B280-8914-40C2-AFE6-211A811FF69D
+DietaryCarbohydrates,Loop,8,g,8/5/21 10:22,8/5/21 10:22,8/5/21 10:23,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,6F592B9D-825B-43E4-AE0E-00D2D45E8EDA
+DietaryCarbohydrates,Loop,91,g,8/4/21 23:05,8/4/21 23:05,8/4/21 23:05,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,215BC638-FBBD-4760-8024-0EC60DA0CCA7
+DietaryCarbohydrates,Loop,41,g,8/4/21 18:12,8/4/21 18:12,8/4/21 18:13,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj,,,,,,,0D332F99-2635-401A-844C-E1BBC903199A
+DietaryCarbohydrates,Loop,41,g,8/4/21 11:13,8/4/21 11:13,8/4/21 11:13,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,EB30C36D-F1A9-41F0-AF11-E46C8FC08CEB
+DietaryCarbohydrates,Loop,8,g,8/4/21 9:33,8/4/21 9:33,8/4/21 9:34,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,55B184A9-FCA6-4FDB-8D39-609123A56B23
+DietaryCarbohydrates,Loop,8,g,8/4/21 7:49,8/4/21 7:49,8/4/21 7:49,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,1EB5681C-975D-4E3E-8CA1-81F79E89AF5A
+DietaryCarbohydrates,Loop,92,g,8/3/21 22:10,8/3/21 22:10,8/3/21 22:10,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,4BD7B10C-D86A-4742-85BD-8EC5127B5A9B
+DietaryCarbohydrates,Loop,41,g,8/3/21 18:27,8/3/21 18:27,8/3/21 18:27,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj,,,,,,,116960AB-10AA-4971-B678-8E62F363B949
+DietaryCarbohydrates,Loop,41,g,8/3/21 9:53,8/3/21 9:53,8/3/21 9:54,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,B3D9816C-1FAE-4384-A67F-00A0E68372EF
+DietaryCarbohydrates,Loop,16,g,8/2/21 23:48,8/2/21 23:48,8/2/21 23:49,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,2D0123D1-4504-4CCE-ADD6-EC1E30D44336
+DietaryCarbohydrates,Loop,94,g,8/2/21 22:58,8/2/21 22:58,8/2/21 22:59,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,F6E4F5DF-DE11-4E6E-ACD9-43ED314110E7
+DietaryCarbohydrates,Loop,8,g,8/2/21 21:53,8/2/21 21:53,8/2/21 21:53,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,2522375E-5C19-401B-92E3-10A967503F10
+DietaryCarbohydrates,Loop,14,g,8/2/21 21:36,8/2/21 21:36,8/2/21 21:38,,,10800,,1,,57,,,,,,,,,,ice cream,,,,,,,219263A9-460E-43AC-A1D7-C82C7FF7B1E7
+DietaryCarbohydrates,Loop,16,g,8/2/21 19:49,8/2/21 19:49,8/2/21 19:49,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,1EE8BDC7-12D7-4D64-985D-54F81133994E
+DietaryCarbohydrates,Loop,16,g,8/2/21 18:18,8/2/21 18:18,8/2/21 18:18,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,F54C6DEE-2601-4E8B-96D1-0AA5A22FE4EF
+DietaryCarbohydrates,Loop,16,g,8/2/21 15:49,8/2/21 15:49,8/2/21 15:49,,,10800,,1,,57,,,,,,,,,,juice ,,,,,,,FB4CF0E8-3854-4786-BA04-4231E75A66AD
+DietaryCarbohydrates,Loop,16,g,8/2/21 9:49,8/2/21 9:49,8/2/21 9:50,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,A33F62D3-30B4-42E0-84E6-256A1987F102
+DietaryCarbohydrates,Loop,41,g,8/2/21 7:59,8/2/21 7:59,8/2/21 7:59,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,38780967-2DB1-45E5-8119-7F34BB2294DA
+DietaryCarbohydrates,Loop,90,g,8/1/21 22:42,8/1/21 22:42,8/1/21 22:43,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,E0DDF4E3-9016-4F65-A8C2-55B6830B85A3
+DietaryCarbohydrates,Loop,41,g,8/1/21 18:20,8/1/21 18:20,8/1/21 18:20,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,FFF62DEE-13EC-4352-A392-A5ABD11C7402
+DietaryCarbohydrates,Loop,8,g,8/1/21 4:24,8/1/21 4:24,8/1/21 4:25,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,1F394E64-53BA-4AEE-BA2C-E3DCB54556E0
+DietaryCarbohydrates,Loop,101,g,7/31/21 23:12,7/31/21 23:12,7/31/21 23:13,,,14400,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,08F7C7F8-EF7D-48D0-97A4-7E537F8DFC94
+DietaryCarbohydrates,Loop,8,g,7/31/21 22:53,7/31/21 22:53,7/31/21 22:53,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,91435EC4-E4C5-4A01-BEC7-2F55182428C7
+DietaryCarbohydrates,Loop,8,g,7/31/21 20:18,7/31/21 20:18,7/31/21 20:18,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,54C20A1F-CE3A-4C6A-A63B-78897BD88597
+DietaryCarbohydrates,Loop,41,g,7/31/21 19:47,7/31/21 19:47,7/31/21 19:48,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,32916048-5B0A-4C13-8D19-96EEEC60DD2F
+DietaryCarbohydrates,Loop,8,g,7/31/21 18:01,7/31/21 18:01,7/31/21 18:02,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,EE9D0441-8974-40B8-A1E8-E0F42CF92ED9
+DietaryCarbohydrates,Loop,41,g,7/31/21 11:15,7/31/21 11:15,7/31/21 11:15,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,8B29551B-B9B8-4790-B0C4-E2CA44DF34FB
+DietaryCarbohydrates,Loop,8,g,7/31/21 4:01,7/31/21 4:01,7/31/21 4:02,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,E5F22E66-02E6-4EA1-B3F7-E023D80B3301
+DietaryCarbohydrates,Loop,94,g,7/30/21 22:55,7/30/21 22:55,7/30/21 22:55,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,FD792860-B8A3-47DA-8DED-9EAA8A995583
+DietaryCarbohydrates,Loop,41,g,7/30/21 18:20,7/30/21 18:20,7/30/21 18:20,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj,,,,,,,246253E6-AFE2-4A14-AF2B-5BF287705F1C
+DietaryCarbohydrates,Loop,41,g,7/30/21 10:16,7/30/21 10:16,7/30/21 10:16,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,9FDD437D-8FBB-4A7A-AB6F-01B92EC1F940
+DietaryCarbohydrates,Loop,93,g,7/29/21 22:45,7/29/21 22:45,7/29/21 22:45,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,D21CF608-40CE-41D9-A087-C66B4BB95DB7
+DietaryCarbohydrates,Loop,51,g,7/29/21 18:33,7/29/21 18:33,7/29/21 18:34,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj  cc,,,,,,,65657437-3F9B-4C4D-B48B-80C2D7B6D370
+DietaryCarbohydrates,Loop,41,g,7/29/21 9:44,7/29/21 9:44,7/29/21 9:44,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,677151D5-FF51-400E-BA99-E3310A51CAF0
+DietaryCarbohydrates,Loop,93,g,7/28/21 22:21,7/28/21 22:21,7/28/21 22:22,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,0216A702-6B79-44D1-8C43-F3350C7F6D04
+DietaryCarbohydrates,Loop,41,g,7/28/21 18:01,7/28/21 18:01,7/28/21 18:01,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,A867C89E-7B73-4BB0-AEB5-EF8B8A2CE78D
+DietaryCarbohydrates,Loop,41,g,7/28/21 9:20,7/28/21 9:20,7/28/21 9:20,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,814A788A-634A-42B3-A185-0029968E5AA3
+DietaryCarbohydrates,Loop,95,g,7/27/21 22:28,7/27/21 22:28,7/27/21 22:28,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,B904FA49-DD1B-44B0-A34C-0F539F437797
+DietaryCarbohydrates,Loop,8,g,7/27/21 17:10,7/27/21 17:10,7/27/21 17:10,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,01FB7ECB-0F68-4F03-8767-550180FB36BF
+DietaryCarbohydrates,Loop,41,g,7/27/21 10:17,7/27/21 10:17,7/27/21 10:17,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,D12620E0-C4E7-4971-A3C3-F7281FD0D419
+DietaryCarbohydrates,Loop,93,g,7/26/21 22:40,7/26/21 22:40,7/26/21 22:41,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,8FEA3D1A-AB4F-4FDE-92A9-838887FC03FF
+DietaryCarbohydrates,Loop,41,g,7/26/21 18:03,7/26/21 18:03,7/26/21 18:03,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,A81A4F13-6338-439F-8B8C-67E55C09F463
+DietaryCarbohydrates,Loop,41,g,7/26/21 10:43,7/26/21 10:43,7/26/21 10:44,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,14F18E00-3970-4D1B-A2AE-8E5A8E782400
+DietaryCarbohydrates,Loop,93,g,7/25/21 23:48,7/25/21 23:48,7/25/21 23:48,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,4574586C-7B7D-4E94-B25F-35BADE05B288
+DietaryCarbohydrates,Loop,41,g,7/25/21 18:50,7/25/21 18:50,7/25/21 18:50,,,10800,,1,,57,,,,,,,,,,c&c pbj grapes ,,,,,,,A736633E-9D14-48F1-9A7A-50CA35FC403D
+DietaryCarbohydrates,Loop,28,g,7/25/21 10:32,7/25/21 10:32,7/25/21 10:33,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,C53B0A17-91AA-42FA-ACEF-9DE5C3FDD6BA
+DietaryCarbohydrates,Loop,95,g,7/24/21 22:55,7/24/21 22:55,7/24/21 22:55,,,14400,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,03D412A2-EC09-4394-80B3-37C56A41EECA
+DietaryCarbohydrates,Loop,28,g,7/24/21 18:52,7/24/21 18:52,7/24/21 18:53,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,8250B6FB-94ED-482E-AB81-9F5C25FDF4AA
+DietaryCarbohydrates,Loop,28,g,7/24/21 10:18,7/24/21 10:18,7/24/21 10:18,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,CB220928-A5A4-47E5-BEB0-0BFDB00C420B
+DietaryCarbohydrates,Loop,8,g,7/24/21 5:15,7/24/21 5:15,7/24/21 5:16,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,34584A7E-8919-4490-9CDE-0131A34AEE0B
+DietaryCarbohydrates,Loop,92,g,7/23/21 22:07,7/23/21 22:07,7/23/21 22:07,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,F293DEA3-EB95-49DB-A895-14E04A80243F
+DietaryCarbohydrates,Loop,28,g,7/23/21 18:21,7/23/21 18:21,7/23/21 18:22,,,10800,,1,,57,,,,,,,,,,c&c pbj grapes ,,,,,,,EFA19227-9B88-4F78-9449-EABC95BE69A1
+DietaryCarbohydrates,Loop,28,g,7/23/21 9:50,7/23/21 9:50,7/23/21 9:50,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,1AEEAD4D-DE79-48CA-8D02-CBBDCE5D9AFA
+DietaryCarbohydrates,Loop,95,g,7/22/21 21:52,7/22/21 21:52,7/22/21 21:52,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,4F416F22-7A22-491C-8D4B-07BBCC43C4F2
+DietaryCarbohydrates,Loop,31,g,7/22/21 17:49,7/22/21 17:49,7/22/21 17:49,,,10800,,1,,57,,,,,,,,,,c&c pbj grapes ,,,,,,,9E28FFD0-3E77-49D6-849C-00D0D131865B
+DietaryCarbohydrates,Loop,28,g,7/22/21 9:22,7/22/21 9:22,7/22/21 9:23,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,EE28F089-476E-429F-A9EB-AEBCC90A8B5E
+DietaryCarbohydrates,Loop,91,g,7/21/21 22:47,7/21/21 22:47,7/21/21 22:47,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,6659BAFD-791B-4940-A2D3-CF9186D81E20
+DietaryCarbohydrates,Loop,28,g,7/21/21 18:42,7/21/21 18:42,7/21/21 18:42,,,10800,,1,,57,,,,,,,,,,c&c pbj ,,,,,,,1CEE1DE5-FFF0-4FE4-B479-D2A8B6955BBB
+DietaryCarbohydrates,Loop,28,g,7/21/21 11:22,7/21/21 11:22,7/21/21 11:23,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,1B04D872-1244-428D-9674-E3FA18F99D76
+DietaryCarbohydrates,Loop,8,g,7/21/21 9:39,7/21/21 9:39,7/21/21 9:39,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,A3B35E3A-5421-41A1-B230-C711169D6D0F
+DietaryCarbohydrates,Loop,94,g,7/20/21 23:18,7/20/21 23:18,7/20/21 23:18,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,1CDE5DC8-B119-4A6E-B570-DA2537FAEE21
+DietaryCarbohydrates,Loop,8,g,7/20/21 22:57,7/20/21 22:57,7/20/21 22:57,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,85D49088-2127-4169-AEA1-9DDA1CF1D5CA
+DietaryCarbohydrates,Loop,8,g,7/20/21 22:32,7/20/21 22:32,7/20/21 22:32,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,F0D1DF4B-2EBD-4FFD-A0CA-AF9B1D518FE7
+DietaryCarbohydrates,Loop,28,g,7/20/21 17:31,7/20/21 17:31,7/20/21 17:31,,,10800,,1,,57,,,,,,,,,,c&c pbj ,,,,,,,A55D5BCA-8CDE-4BFB-8D04-E801187BD4AA
+DietaryCarbohydrates,Loop,28,g,7/20/21 11:11,7/20/21 11:11,7/20/21 11:11,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,96B2DB61-AB10-4215-8074-D815CC971544
+DietaryCarbohydrates,Loop,96,g,7/19/21 22:31,7/19/21 22:31,7/19/21 22:31,,,14400,,1,,57,,,,,,,,,,salad cardamom bread,,,,,,,58A9A9FE-4881-4413-87AC-085E9EDEBB6A
+DietaryCarbohydrates,Loop,28,g,7/19/21 19:16,7/19/21 19:16,7/19/21 19:17,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj ,,,,,,,E886C47D-9DA3-4EBC-924D-7B63F2150BD4
+DietaryCarbohydrates,Loop,8,g,7/19/21 9:56,7/19/21 9:56,7/19/21 9:57,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,16C31BA2-8407-429B-9969-03C85DD43B38
+DietaryCarbohydrates,Loop,25,g,7/19/21 8:17,7/19/21 8:17,7/19/21 8:17,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,112FBDD2-5E15-4D20-A0A4-D6F652748724
+DietaryCarbohydrates,Loop,8,g,7/19/21 2:37,7/19/21 2:37,7/19/21 2:38,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,367FE5EF-906D-4308-923A-84CBF6709A0F
+DietaryCarbohydrates,Loop,88,g,7/18/21 21:26,7/18/21 21:26,7/18/21 21:27,,,14400,,1,,57,,,,,,,,,,salad cardamom bread ,,,,,,,D74B12AE-D017-44E4-8285-61D316D9C569
+DietaryCarbohydrates,Loop,28,g,7/18/21 18:33,7/18/21 18:33,7/18/21 18:33,,,10800,,1,,57,,,,,,,,,,c&c pbj ,,,,,,,CB7C5D2A-55F5-434A-AACE-755BAA947C71
+DietaryCarbohydrates,Loop,21,g,7/18/21 10:21,7/18/21 10:21,7/18/21 10:22,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,90210E72-19AE-4571-82B7-106C96669F45
+DietaryCarbohydrates,Loop,8,g,7/18/21 4:32,7/18/21 4:32,7/18/21 4:33,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,61281416-0FBF-4E5C-99DE-54692D8AABA9
+DietaryCarbohydrates,Loop,97,g,7/17/21 22:31,7/17/21 22:31,7/17/21 22:32,,,14400,,1,,57,,,,,,,,,,eggs cardamom bread,,,,,,,228F8580-1D1D-4038-B5B2-EAF11937E44E
+DietaryCarbohydrates,Loop,28,g,7/17/21 18:09,7/17/21 18:09,7/17/21 18:10,,,10800,,1,,57,,,,,,,,,,c&c pbj ,,,,,,,8AA3D89A-E8EB-48EF-8E99-AA67D8553314
+DietaryCarbohydrates,Loop,21,g,7/17/21 11:07,7/17/21 11:07,7/17/21 11:07,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,E7E82DED-0E3F-48A8-B800-33CA5A9E454E
+DietaryCarbohydrates,Loop,90,g,7/16/21 22:03,7/16/21 22:03,7/16/21 22:03,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,AC74AFC2-3625-4F0C-9D71-2325BBB6AE47
+DietaryCarbohydrates,Loop,8,g,7/16/21 18:32,7/16/21 18:32,7/16/21 18:32,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,671D1AA5-F65E-47F5-A5B9-CFBFE126462B
+DietaryCarbohydrates,Loop,16,g,7/16/21 11:25,7/16/21 11:25,7/16/21 11:25,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,F2F8AC3C-B19C-467A-922F-E7CBC27B90CB
+DietaryCarbohydrates,Loop,16,g,7/16/21 9:27,7/16/21 9:27,7/16/21 9:28,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,DBE79D3C-5A77-4D2E-ABB5-CC301CB87F8E
+DietaryCarbohydrates,Loop,28,g,7/16/21 9:10,7/16/21 9:10,7/16/21 9:11,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,BA807E7F-8E8F-4CF6-ADA0-3D552BDB704D
+DietaryCarbohydrates,Loop,16,g,7/16/21 3:28,7/16/21 3:28,7/16/21 3:28,,,7200,,1,,57,,,,,,,,,,,,,,,,,AECC80CA-7AAF-464C-B430-1E77A9281B87
+DietaryCarbohydrates,Loop,16,g,7/16/21 1:42,7/16/21 1:42,7/16/21 1:42,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,4484B80F-7696-4C3F-BBCD-9E6980930071
+DietaryCarbohydrates,Loop,93,g,7/15/21 22:26,7/15/21 22:26,7/15/21 22:26,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,5B333A50-AEF5-49C9-B121-4D05A7C9B8F2
+DietaryCarbohydrates,Loop,16,g,7/15/21 19:35,7/15/21 19:35,7/15/21 19:35,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,CA55678C-6087-4634-93B0-C8211F6B7AD3
+DietaryCarbohydrates,Loop,28,g,7/15/21 17:20,7/15/21 17:20,7/15/21 17:21,,,10800,,1,,57,,,,,,,,,,c&c pbj ,,,,,,,D9ADA4EF-5160-49F2-B442-F80BA3C7B7A4
+DietaryCarbohydrates,Loop,8,g,7/15/21 10:02,7/15/21 10:02,7/15/21 10:02,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,ACD44F42-C231-42E0-A813-2CFBF98539C1
+DietaryCarbohydrates,Loop,28,g,7/15/21 9:36,7/15/21 9:36,7/15/21 9:36,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,AF266263-D8AA-42B5-A254-FA0666588DF9
+DietaryCarbohydrates,Loop,8,g,7/15/21 3:54,7/15/21 3:54,7/15/21 3:55,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,B8597ACA-6AA8-4360-9983-2A6C57658995
+DietaryCarbohydrates,Loop,100,g,7/14/21 22:34,7/14/21 22:34,7/14/21 22:34,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,CC77EA82-13B2-4B4D-B1A4-E61414FF92C0
+DietaryCarbohydrates,Loop,10,g,7/14/21 17:36,7/14/21 17:36,7/14/21 17:36,,,7200,,1,,57,,,,,,,,,,carbs,,,,,,,4E729823-8E40-454B-9E22-2D5C7F32A9E3
+DietaryCarbohydrates,Loop,21,g,7/14/21 15:08,7/14/21 15:08,7/14/21 15:08,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,491A59CF-C78F-42F1-AF6B-7B0E6236D794
+DietaryCarbohydrates,Loop,8,g,7/14/21 10:22,7/14/21 10:22,7/14/21 10:23,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,5A0B9AC8-367E-49EA-A992-58F93AE7DC59
+DietaryCarbohydrates,Loop,8,g,7/14/21 5:09,7/14/21 5:09,7/14/21 5:09,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,4555EC1E-A3A0-4DC3-A067-B30FD5C68D1D
+DietaryCarbohydrates,Loop,101,g,7/13/21 22:43,7/13/21 22:43,7/13/21 22:44,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,C31249CE-102D-47C1-8E36-2262828E8916
+DietaryCarbohydrates,Loop,16,g,7/13/21 21:56,7/13/21 21:56,7/13/21 21:56,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,248F34A3-7AEE-4B62-980F-89F63741BE0B
+DietaryCarbohydrates,Loop,16,g,7/13/21 19:56,7/13/21 19:56,7/13/21 19:57,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,F7EB9AFA-0FE4-436B-85DA-36E3B5364177
+DietaryCarbohydrates,Loop,16,g,7/13/21 18:29,7/13/21 18:29,7/13/21 18:29,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,10D5E097-AEA7-4B14-AA83-D986EABC1FF9
+DietaryCarbohydrates,Loop,15,g,7/13/21 17:20,7/13/21 17:20,7/13/21 17:20,,,10800,,1,,57,,,,,,,,,,blueberries ice cream ,,,,,,,F4527173-60B7-4AF3-BC3D-7E0719DB7322
+DietaryCarbohydrates,Loop,21,g,7/13/21 9:56,7/13/21 9:56,7/13/21 9:56,,,10800,,1,,57,,,,,,,,,,,,,,,,,FC3880F6-3773-4E06-8776-B3D6BC98AFEB
+DietaryCarbohydrates,Loop,8,g,7/13/21 3:12,7/13/21 3:12,7/13/21 3:12,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,CB0B5659-E07F-4F83-8427-B832DAE8FE85
+DietaryCarbohydrates,Loop,102.5,g,7/12/21 22:24,7/12/21 22:24,7/12/21 22:24,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,51E7E2E0-ADAC-438C-B18D-D023A5FD0B38
+DietaryCarbohydrates,Loop,21,g,7/12/21 10:24,7/12/21 10:24,7/12/21 10:24,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,EC9CD24F-8478-42B1-AAA0-60CAF3B906BA
+DietaryCarbohydrates,Loop,16,g,7/11/21 23:53,7/11/21 23:53,7/11/21 23:53,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,BDBFA1E3-3BBF-4602-9EAF-22BCD6A4FC56
+DietaryCarbohydrates,Loop,102,g,7/11/21 22:47,7/11/21 22:47,7/11/21 22:48,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,A3B27981-012B-44D8-B616-BD0014B8ACE3
+DietaryCarbohydrates,Loop,28,g,7/11/21 16:45,7/11/21 16:45,7/11/21 16:46,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj crackers ,,,,,,,EA3FC936-0189-4F9B-8151-311AA0AA74C3
+DietaryCarbohydrates,Loop,21,g,7/11/21 14:38,7/11/21 14:38,7/11/21 14:38,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,E2FADD50-76D2-445C-998E-9513883C33CB
+DietaryCarbohydrates,Loop,8,g,7/11/21 2:03,7/11/21 2:03,7/11/21 2:03,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,8EFC856E-5D17-49EB-AAB5-6358C9594EAA
+DietaryCarbohydrates,Loop,107,g,7/10/21 23:11,7/10/21 23:11,7/10/21 23:11,,,14400,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,D833A6BC-60CC-405D-A72F-9033F621F843
+DietaryCarbohydrates,Loop,20,g,7/10/21 9:35,7/10/21 9:35,7/10/21 9:36,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,F3A598EC-E2BD-46C2-9228-25566CB44E95
+DietaryCarbohydrates,Loop,32,g,7/9/21 23:31,7/9/21 23:31,7/9/21 23:32,,,7200,,1,,57,,,,,,,,,,juice bottle grapes ,,,,,,,4C581AD5-F832-4D26-BB43-BE90C763A608
+DietaryCarbohydrates,Loop,99,g,7/9/21 22:27,7/9/21 22:27,7/9/21 22:28,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,92E16ACC-4BC3-48B5-9F36-55A649F0F4E3
+DietaryCarbohydrates,Loop,21,g,7/9/21 18:28,7/9/21 18:28,7/9/21 18:29,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj crackers ,,,,,,,736A8776-0293-411F-86A3-F3E2575C1B8E
+DietaryCarbohydrates,Loop,16,g,7/9/21 12:52,7/9/21 12:52,7/9/21 12:52,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,BD5EF739-107C-4158-8C51-247A733A5656
+DietaryCarbohydrates,Loop,8,g,7/9/21 3:06,7/9/21 3:06,7/9/21 3:06,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,AD8535EB-432D-4C25-BF34-5D521C970257
+DietaryCarbohydrates,Loop,98,g,7/8/21 23:37,7/8/21 23:37,7/8/21 23:37,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,AD160F45-F61E-44A3-A109-F156B6C4AD63
+DietaryCarbohydrates,Loop,16,g,7/8/21 20:02,7/8/21 20:02,7/8/21 20:03,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj,,,,,,,354F6DC2-80E0-4C1D-9482-C9453F377C31
+DietaryCarbohydrates,Loop,16,g,7/8/21 12:47,7/8/21 12:47,7/8/21 12:48,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,49C0987F-F74D-48D5-923C-646B5553742F
+DietaryCarbohydrates,Loop,8,g,7/8/21 3:58,7/8/21 3:58,7/8/21 3:58,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,77688EB4-12B6-4415-B9F0-47878957675D
+DietaryCarbohydrates,Loop,80,g,7/7/21 22:54,7/7/21 22:54,7/7/21 22:54,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,20FE98A2-C056-41F1-BBBB-6FF1B8CC7E5B
+DietaryCarbohydrates,Loop,16,g,7/7/21 16:10,7/7/21 16:10,7/7/21 16:11,,,10800,,1,,57,,,,,,,,,,c&c pbj crackers ,,,,,,,EB8E7295-CAF7-4C09-9621-C7ABA6A96018
+DietaryCarbohydrates,Loop,16,g,7/7/21 10:20,7/7/21 10:20,7/7/21 10:20,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,C313EA28-1550-462C-9366-2B750B055E84
+DietaryCarbohydrates,Loop,16,g,7/7/21 3:52,7/7/21 3:52,7/7/21 3:52,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,BB3210E8-A3E6-4972-80B3-9D0D00A387BA
+DietaryCarbohydrates,Loop,16,g,7/7/21 1:49,7/7/21 1:49,7/7/21 1:50,,,7200,,1,,57,,,,,,,,,,juice bottle grapes ,,,,,,,37AECC92-CA71-4094-9C8D-9ACDAB588135
+DietaryCarbohydrates,Loop,88,g,7/6/21 22:08,7/6/21 22:08,7/6/21 22:09,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,CBBC9430-C647-4D20-8EA6-592AC7AC8601
+DietaryCarbohydrates,Loop,16,g,7/6/21 18:17,7/6/21 18:17,7/6/21 18:17,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj crackers ,,,,,,,DAE8F06D-B97F-4489-A68A-6D1C727CF340
+DietaryCarbohydrates,Loop,16,g,7/6/21 11:03,7/6/21 11:03,7/6/21 11:04,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,8A869E2D-33F7-4407-AE16-FCA5CF1105A1
+DietaryCarbohydrates,Loop,8,g,7/6/21 5:02,7/6/21 5:02,7/6/21 5:02,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,815CC4EF-DAD9-427C-A443-94FDBC71C001
+DietaryCarbohydrates,Loop,108,g,7/5/21 22:55,7/5/21 22:55,7/5/21 22:56,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,C44D91B2-333A-4AB1-AC4E-A304816A8896
+DietaryCarbohydrates,Loop,21,g,7/5/21 19:18,7/5/21 19:18,7/5/21 19:19,,,10800,,1,,57,,,,,,,,,,grapes c&c pbj crackers ,,,,,,,5CE48BF9-68DF-4D74-B6E8-1FA333DF094B
+DietaryCarbohydrates,Loop,16,g,7/5/21 12:26,7/5/21 12:26,7/5/21 12:26,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,92373776-E257-46DA-8218-2BEC547E4FA6
+DietaryCarbohydrates,Loop,8,g,7/5/21 4:48,7/5/21 4:48,7/5/21 4:48,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,ACB1F24D-187F-45CC-8448-B1DC6937B789
+DietaryCarbohydrates,Loop,79,g,7/4/21 21:41,7/4/21 21:41,7/4/21 21:42,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,0556BB88-2361-4C7E-B935-D2B338C4C605
+DietaryCarbohydrates,Loop,16,g,7/4/21 19:39,7/4/21 19:39,7/4/21 19:39,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,33D6A26A-BF80-4B59-ACE5-93588CA504D6
+DietaryCarbohydrates,Loop,16,g,7/4/21 12:55,7/4/21 12:55,7/4/21 12:55,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,AA9ABB79-613C-4218-8B7E-001D04E996EC
+DietaryCarbohydrates,Loop,75,g,7/3/21 23:17,7/3/21 23:17,7/3/21 23:18,,,14400,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,14AA8D04-15D5-4EB3-831B-794454480FE6
+DietaryCarbohydrates,Loop,16,g,7/3/21 12:33,7/3/21 12:33,7/3/21 12:34,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,577D2E41-3F48-4AEB-9D06-BA1A8C439AE4
+DietaryCarbohydrates,Loop,8,g,7/3/21 3:19,7/3/21 3:19,7/3/21 3:20,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,859033C8-5311-4E1D-9AC5-C929304AE284
+DietaryCarbohydrates,Loop,8,g,7/2/21 23:52,7/2/21 23:52,7/2/21 23:52,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,E66EDE04-E3AE-48D4-AEC1-F24365B0AFB5
+DietaryCarbohydrates,Loop,8,g,7/2/21 23:33,7/2/21 23:33,7/2/21 23:33,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,204F6375-48DE-44E7-BA0F-D69EC550AE89
+DietaryCarbohydrates,Loop,108,g,7/2/21 22:40,7/2/21 22:40,7/2/21 22:41,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,71B93D20-FA2B-4B70-99F7-E2756448BD68
+DietaryCarbohydrates,Loop,16,g,7/2/21 19:12,7/2/21 19:12,7/2/21 19:13,,,7200,,1,,57,,,,,,,,,,grapes pbj crackers ,,,,,,,29DBCA28-BD73-4AC7-97F8-6A47248B6CCE
+DietaryCarbohydrates,Loop,16,g,7/2/21 11:30,7/2/21 11:30,7/2/21 11:30,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,92AEECC7-5E1B-4DBE-97BF-82AAFDD74B5E
+DietaryCarbohydrates,Loop,16,g,7/2/21 3:53,7/2/21 3:53,7/2/21 3:53,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,4EA15977-6A68-46AC-87A5-39D951DB4F76
+DietaryCarbohydrates,Loop,8,g,7/1/21 23:42,7/1/21 23:42,7/1/21 23:42,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,7CF0A680-8C93-4171-BF0A-4EE150949617
+DietaryCarbohydrates,Loop,107,g,7/1/21 22:59,7/1/21 22:59,7/1/21 22:59,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,77D6B4FC-2F51-4A77-8907-31DA46DC8A6F
+DietaryCarbohydrates,Loop,21,g,7/1/21 17:05,7/1/21 17:05,7/1/21 17:06,,,7200,,1,,57,,,,,,,,,,grapes pbj crackers ,,,,,,,C3CDA513-A7F6-403D-95CD-48FFD37A68D4
+DietaryCarbohydrates,Loop,16,g,7/1/21 9:56,7/1/21 9:56,7/1/21 9:56,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,75FDF0F3-B878-4D4E-B303-11E864E10A7F
+DietaryCarbohydrates,Loop,8,g,7/1/21 7:35,7/1/21 7:35,7/1/21 7:35,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,316D5C3D-90F2-4EC1-ADB1-F5670F38869E
+DietaryCarbohydrates,Loop,103,g,6/30/21 21:17,6/30/21 21:17,6/30/21 21:17,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,D33E67AE-FA53-44D1-8E7A-6E7A4A0328BC
+DietaryCarbohydrates,Loop,16,g,6/30/21 9:37,6/30/21 9:37,6/30/21 9:38,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,120E18C8-3F87-4EBF-B699-496012AE79FC
+DietaryCarbohydrates,Loop,8,g,6/30/21 1:55,6/30/21 1:55,6/30/21 1:55,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,13071BF8-6249-4D3D-A7CD-B2F3D86F8932
+DietaryCarbohydrates,Loop,105,g,6/29/21 22:55,6/29/21 22:55,6/29/21 22:55,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,AAA09E33-B412-4404-9F35-99AA21089B6B
+DietaryCarbohydrates,Loop,21,g,6/29/21 19:14,6/29/21 19:14,6/29/21 19:15,,,7200,,1,,57,,,,,,,,,,,,,,,,,57669F7C-90F1-41C9-8613-4EF31975DD7F
+DietaryCarbohydrates,Loop,21,g,6/29/21 10:21,6/29/21 10:21,6/29/21 10:21,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,FB66AA6D-4427-4717-A070-D05471100FA6
+DietaryCarbohydrates,Loop,8,g,6/29/21 2:37,6/29/21 2:37,6/29/21 2:37,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,E7B0A0F2-A3A9-402F-B91E-FEBF64E2B485
+DietaryCarbohydrates,Loop,8,g,6/29/21 0:33,6/29/21 0:33,6/29/21 0:34,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,E4F03520-EC90-445D-94C9-BAF360D4DC92
+DietaryCarbohydrates,Loop,110,g,6/28/21 22:47,6/28/21 22:47,6/28/21 22:47,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,5531F425-5293-4730-9DAC-38F9E7AADEE3
+DietaryCarbohydrates,Loop,21,g,6/28/21 19:18,6/28/21 19:18,6/28/21 19:19,,,7200,,1,,57,,,,,,,,,,grapes pbj crackers,,,,,,,B6B7E0EB-74D1-42A9-84F7-61F4CDEED826
+DietaryCarbohydrates,Loop,16,g,6/28/21 12:55,6/28/21 12:55,6/28/21 12:56,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,110311C0-2E42-4378-9E03-44D68E0B6BF0
+DietaryCarbohydrates,Loop,8,g,6/28/21 3:11,6/28/21 3:11,6/28/21 3:11,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,84E857C9-3A33-4B1D-B38C-9BC2568E7902
+DietaryCarbohydrates,Loop,8,g,6/28/21 2:51,6/28/21 2:51,6/28/21 2:51,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,D0F379F4-51C8-4B16-8CBB-707149FA0E2E
+DietaryCarbohydrates,Loop,109,g,6/27/21 22:52,6/27/21 22:52,6/27/21 22:52,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,731EAABD-9236-458C-BBAF-2895A76231BF
+DietaryCarbohydrates,Loop,16,g,6/27/21 11:23,6/27/21 11:23,6/27/21 11:23,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,52148A58-2A4D-4AE9-8627-B89B51B529AE
+DietaryCarbohydrates,Loop,16,g,6/26/21 23:58,6/26/21 23:58,6/26/21 23:58,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,5A0FD168-0265-47C9-92DB-30971408D9F5
+DietaryCarbohydrates,Loop,109,g,6/26/21 23:09,6/26/21 23:09,6/26/21 23:10,,,14400,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,55DC3CB5-092D-477E-A86A-C3CF5A50CCE2
+DietaryCarbohydrates,Loop,16,g,6/26/21 11:44,6/26/21 11:44,6/26/21 11:45,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,E35E0C9F-D9B5-41C6-9213-4D8B47347BC9
+DietaryCarbohydrates,Loop,8,g,6/26/21 3:47,6/26/21 3:47,6/26/21 3:47,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,E4D6D1E7-394F-4709-8115-83612863FF9E
+DietaryCarbohydrates,Loop,16,g,6/25/21 22:57,6/25/21 22:57,6/25/21 22:57,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,406BC5A6-5B0E-4041-8ED6-A060DCE21623
+DietaryCarbohydrates,Loop,108,g,6/25/21 21:57,6/25/21 21:57,6/25/21 21:58,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,AC9E8223-30F2-4254-A1E5-CCD95B43ACA9
+DietaryCarbohydrates,Loop,16,g,6/25/21 10:08,6/25/21 10:08,6/25/21 10:08,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,188CD6A4-BE5D-4AC2-AC3D-6882F4C60F8A
+DietaryCarbohydrates,Loop,16,g,6/25/21 9:02,6/25/21 9:02,6/25/21 9:02,,,10800,,1,,57,,,,,,,,,,,,,,,,,8BF02BB7-6034-4D2C-951B-6C4CB414BA16
+DietaryCarbohydrates,Loop,8,g,6/25/21 7:17,6/25/21 7:17,6/25/21 7:18,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,FCE6E17D-8D96-472B-A479-B358F1ACF2EA
+DietaryCarbohydrates,Loop,8,g,6/25/21 2:26,6/25/21 2:26,6/25/21 2:27,,,10800,,1,,57,,,,,,,,,,juice bottle ,,,,,,,562B2114-D03E-4355-84B3-B02CF9292E2F
+DietaryCarbohydrates,Loop,16,g,6/25/21 0:47,6/25/21 0:47,6/25/21 0:47,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,9A47C30B-28AE-46C3-A43B-6080DE716A2B
+DietaryCarbohydrates,Loop,105,g,6/24/21 23:43,6/24/21 23:43,6/24/21 23:43,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,395F538E-A025-4C30-969C-73426E371D63
+DietaryCarbohydrates,Loop,8,g,6/24/21 19:20,6/24/21 19:20,6/24/21 19:20,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,2A9E73C6-AFC5-4D18-B1E7-C57AC4AA9847
+DietaryCarbohydrates,Loop,8,g,6/24/21 12:32,6/24/21 12:32,6/24/21 12:32,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,ABBA2DE7-9902-4012-8A27-4FA6522F401B
+DietaryCarbohydrates,Loop,16,g,6/24/21 6:56,6/24/21 6:56,6/24/21 6:56,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,78247AC1-F190-417A-93E2-A9916425C0C0
+DietaryCarbohydrates,Loop,16,g,6/23/21 23:35,6/23/21 23:35,6/23/21 23:36,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,0CAE6203-78A7-4558-B364-640981B24983
+DietaryCarbohydrates,Loop,105,g,6/23/21 22:29,6/23/21 22:29,6/23/21 22:29,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,83D78423-AE24-4E57-9B1D-51F18F2C1C47
+DietaryCarbohydrates,Loop,8,g,6/23/21 0:19,6/23/21 0:19,6/23/21 0:20,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,A3196657-F686-471D-A738-8B0B8B588651
+DietaryCarbohydrates,Loop,110,g,6/22/21 23:14,6/22/21 23:14,6/22/21 23:14,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,FF73B902-8774-4B18-901A-C98FC216A794
+DietaryCarbohydrates,Loop,16,g,6/22/21 13:13,6/22/21 13:13,6/22/21 13:14,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,209C9F33-D931-4E63-9207-890FB38B24B7
+DietaryCarbohydrates,Loop,16,g,6/22/21 0:13,6/22/21 0:13,6/22/21 0:13,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,82FABE73-F0D8-4EA9-831D-585FD267FC07
+DietaryCarbohydrates,Loop,105,g,6/21/21 23:15,6/21/21 23:15,6/21/21 23:16,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,371B2D52-4846-4FA5-88FC-4282DFB6670A
+DietaryCarbohydrates,Loop,16,g,6/21/21 20:22,6/21/21 20:22,6/21/21 20:23,,,7200,,1,,57,,,,,,,,,,c pbj ,,,,,,,0A5777CB-78C9-4BA4-9CF4-FC7790039319
+DietaryCarbohydrates,Loop,16,g,6/21/21 15:50,6/21/21 15:50,6/21/21 15:50,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,E6DC3D6C-DC3D-4BBB-BD7B-EFA57AC1DC0B
+DietaryCarbohydrates,Loop,8,g,6/21/21 2:15,6/21/21 2:15,6/21/21 2:16,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,01FE2706-FBC5-4122-AB6A-5EAAB226DD70
+DietaryCarbohydrates,Loop,104,g,6/20/21 22:46,6/20/21 22:46,6/20/21 22:47,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,B78E4D34-833E-4F53-8BCF-9344DE658B39
+DietaryCarbohydrates,Loop,10,g,6/20/21 20:42,6/20/21 20:42,6/20/21 20:42,,,7200,,1,,57,,,,,,,,,,cc pbj ,,,,,,,17267A28-706F-4BDB-B04D-DF2BFC30E5DF
+DietaryCarbohydrates,Loop,8,g,6/20/21 20:32,6/20/21 20:32,6/20/21 20:33,,,10800,,1,,57,,,,,,,,,,juice bottle ,,,,,,,9A2F370F-EF5B-4E87-A139-160FB6F62E2E
+DietaryCarbohydrates,Loop,105,g,6/19/21 23:19,6/19/21 23:19,6/19/21 23:19,,,14400,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,679F5116-8FAA-4509-B46C-5B9D3438522F
+DietaryCarbohydrates,Loop,16,g,6/19/21 11:02,6/19/21 11:02,6/19/21 11:02,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,30C709E6-5C7C-4F06-B1CF-93854FF879D9
+DietaryCarbohydrates,Loop,8,g,6/19/21 4:43,6/19/21 4:43,6/19/21 4:43,,,10800,,1,,57,,,,,,,,,,juice bottle ,,,,,,,DE1285A5-1E5C-44E9-A7B0-91DA5A9BE18A
+DietaryCarbohydrates,Loop,111,g,6/18/21 22:01,6/18/21 22:01,6/18/21 22:02,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,13D11F8A-2F54-407A-A43D-237EA1CC9F3C
+DietaryCarbohydrates,Loop,16,g,6/18/21 10:55,6/18/21 10:55,6/18/21 10:56,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,DBC020EE-F374-49C9-BBA4-0A46A0321DAB
+DietaryCarbohydrates,Loop,8,g,6/18/21 3:51,6/18/21 3:51,6/18/21 3:51,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,EB65D672-D303-450C-BBD6-E82887274BFB
+DietaryCarbohydrates,Loop,8,g,6/18/21 0:37,6/18/21 0:37,6/18/21 0:38,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,28F43558-4029-4FB3-9698-F140C04FBD92
+DietaryCarbohydrates,Loop,109,g,6/17/21 22:29,6/17/21 22:29,6/17/21 22:29,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,310C8458-83D9-4C16-81EF-9D0AE79582C2
+DietaryCarbohydrates,Loop,16,g,6/17/21 11:03,6/17/21 11:03,6/17/21 11:04,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,84FF4AA3-83E6-4330-B671-3C249FB4222F
+DietaryCarbohydrates,Loop,16,g,6/17/21 3:46,6/17/21 3:46,6/17/21 3:46,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,04FE30D6-8EB8-429F-8BCB-9A03071DC061
+DietaryCarbohydrates,Loop,8,g,6/16/21 23:17,6/16/21 23:17,6/16/21 23:18,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,7ED58A78-AD47-4572-B9CC-88BFD0C5BEC5
+DietaryCarbohydrates,Loop,107,g,6/16/21 22:15,6/16/21 22:15,6/16/21 22:16,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,23803816-DFD9-47D1-8F8B-775696B18B96
+DietaryCarbohydrates,Loop,16,g,6/16/21 8:25,6/16/21 8:25,6/16/21 8:25,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,2C17E456-C168-4B05-AE57-B87692B1C212
+DietaryCarbohydrates,Loop,8,g,6/16/21 1:56,6/16/21 1:56,6/16/21 1:56,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,39FEF859-3A62-4324-A4E4-2BC18EE42770
+DietaryCarbohydrates,Loop,8,g,6/15/21 23:12,6/15/21 23:12,6/15/21 23:12,,,10800,,1,,57,,,,,,,,,,juice bottle ,,,,,,,26AD234C-7ADD-40A5-8F0A-49FCCDDDD952
+DietaryCarbohydrates,Loop,105,g,6/15/21 22:27,6/15/21 22:27,6/15/21 22:27,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,BE43C4D1-A4E6-47A7-8B7F-EB0C8439E5D7
+DietaryCarbohydrates,Loop,20,g,6/15/21 19:04,6/15/21 19:04,6/15/21 19:05,,,7200,,1,,57,,,,,,,,,,c pbj ,,,,,,,570F4E5A-82E6-4E26-8C9E-C5F4BAD81B85
+DietaryCarbohydrates,Loop,16,g,6/15/21 10:56,6/15/21 10:56,6/15/21 10:56,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,B7A9E046-CCCA-43F8-84A0-1307B61D171E
+DietaryCarbohydrates,Loop,8,g,6/15/21 0:20,6/15/21 0:20,6/15/21 0:20,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,872A698D-927B-4879-9DF4-82AF323E8231
+DietaryCarbohydrates,Loop,107,g,6/14/21 23:20,6/14/21 23:20,6/14/21 23:20,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,FF885E53-5587-4A4D-9BEE-5FC060EB63E1
+DietaryCarbohydrates,Loop,16,g,6/14/21 19:30,6/14/21 19:30,6/14/21 19:30,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,B828B261-3667-4F7C-88DF-18007B7784D5
+DietaryCarbohydrates,Loop,8,g,6/14/21 13:34,6/14/21 13:34,6/14/21 13:34,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,CCD20C27-D460-45C6-810A-2909AC943BD1
+DietaryCarbohydrates,Loop,8,g,6/14/21 3:41,6/14/21 3:41,6/14/21 3:41,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,A7081983-6B12-4E74-9E0D-9B3AF5FC6E88
+DietaryCarbohydrates,Loop,108,g,6/13/21 23:56,6/13/21 23:56,6/13/21 23:57,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,0BD65EC7-A66C-4E70-8EBF-6F6AEEB6C317
+DietaryCarbohydrates,Loop,16,g,6/13/21 18:01,6/13/21 18:01,6/13/21 18:01,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,2D0977CD-7DEB-4048-8238-64D51BC65271
+DietaryCarbohydrates,Loop,8,g,6/13/21 4:13,6/13/21 4:13,6/13/21 4:13,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,70DD9799-8F4F-4AFA-8994-1995865748D6
+DietaryCarbohydrates,Loop,8,g,6/13/21 0:10,6/13/21 0:10,6/13/21 0:11,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,C7C11035-66E1-42AB-B566-E8803A176350
+DietaryCarbohydrates,Loop,110,g,6/12/21 22:45,6/12/21 22:45,6/12/21 22:45,,,14400,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,E212CFD5-BEB4-4011-9C75-4F51EF244EE7
+DietaryCarbohydrates,Loop,16,g,6/12/21 19:55,6/12/21 19:55,6/12/21 19:55,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,3658F35C-A7AE-46AD-8B09-8EA2234C8B25
+DietaryCarbohydrates,Loop,16,g,6/12/21 12:15,6/12/21 12:15,6/12/21 12:16,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,CC0CFDBD-9F18-48D8-8ED2-1F8F0952DDFA
+DietaryCarbohydrates,Loop,8,g,6/12/21 2:48,6/12/21 2:48,6/12/21 2:48,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,E0A6CB67-0E69-43F4-A7E1-85DB94062B75
+DietaryCarbohydrates,Loop,107,g,6/11/21 22:36,6/11/21 22:36,6/11/21 22:37,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,B6DED7B9-4B43-4077-B4CD-483F4369F895
+DietaryCarbohydrates,Loop,10,g,6/11/21 20:11,6/11/21 20:11,6/11/21 20:12,,,10800,,1,,57,,,,,,,,,,c&c pbj ,,,,,,,82712DFB-C561-4448-A74C-6E3FEE0C6329
+DietaryCarbohydrates,Loop,16,g,6/11/21 11:26,6/11/21 11:26,6/11/21 11:26,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,E76A406E-B473-495C-A550-863EF7DB9696
+DietaryCarbohydrates,Loop,8,g,6/11/21 4:06,6/11/21 4:06,6/11/21 4:06,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,0B3E92AA-BD51-4931-8081-EC5E5D048B4B
+DietaryCarbohydrates,Loop,106,g,6/10/21 22:36,6/10/21 22:36,6/10/21 22:37,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,878F6845-8EE7-48A8-A87C-4A6631B7267D
+DietaryCarbohydrates,Loop,8,g,6/10/21 21:01,6/10/21 21:01,6/10/21 21:01,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,8569358B-7E00-48D4-B311-E1F82C877F4C
+DietaryCarbohydrates,Loop,16,g,6/10/21 10:54,6/10/21 10:54,6/10/21 10:54,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,869FD635-725B-4D30-872C-2E9344CCC8BA
+DietaryCarbohydrates,Loop,8,g,6/10/21 4:57,6/10/21 4:57,6/10/21 4:58,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,2DE45871-660F-45AF-8D7E-FFC01984E908
+DietaryCarbohydrates,Loop,107,g,6/9/21 22:16,6/9/21 22:16,6/9/21 22:16,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,4E2A6277-A84B-4A56-B1C4-571CE2912E2E
+DietaryCarbohydrates,Loop,16,g,6/9/21 10:40,6/9/21 10:40,6/9/21 10:41,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,46DBFB2F-6D37-427B-B332-2F69BF23EACB
+DietaryCarbohydrates,Loop,114,g,6/8/21 22:08,6/8/21 22:08,6/8/21 22:08,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,4C178A33-4535-4496-B030-4A59F6026204
+DietaryCarbohydrates,Loop,16,g,6/8/21 16:03,6/8/21 16:03,6/8/21 16:04,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,FD341065-0928-4420-90FA-01012180B0C9
+DietaryCarbohydrates,Loop,8,g,6/8/21 8:19,6/8/21 8:19,6/8/21 8:19,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,E0C9E3A6-ADA9-4C93-B6C4-01C75439F3F5
+DietaryCarbohydrates,Loop,8,g,6/8/21 0:14,6/8/21 0:14,6/8/21 0:14,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,60993E86-615C-4AFE-B6D4-AF0FACE59FC2
+DietaryCarbohydrates,Loop,104,g,6/7/21 22:54,6/7/21 22:54,6/7/21 22:54,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,F29F9D40-C9AF-405E-A253-F3F3687818C1
+DietaryCarbohydrates,Loop,16,g,6/7/21 18:03,6/7/21 18:03,6/7/21 18:03,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,0FB6E7B8-0BA2-4A70-8E48-F90710120F91
+DietaryCarbohydrates,Loop,16,g,6/7/21 15:17,6/7/21 15:17,6/7/21 15:17,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,F3A97D0E-FC69-4248-BAEC-432DF68E28CE
+DietaryCarbohydrates,Loop,16,g,6/7/21 10:24,6/7/21 10:24,6/7/21 10:25,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,8B62F4D2-EC84-483C-9331-EA745ECE27FD
+DietaryCarbohydrates,Loop,8,g,6/7/21 2:13,6/7/21 2:13,6/7/21 2:13,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,31E3CC7B-055A-4FBE-9B48-C48B57A2A938
+DietaryCarbohydrates,Loop,107,g,6/6/21 22:17,6/6/21 22:17,6/6/21 22:17,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,C0017721-E37D-4CA2-A6F2-03841D43EE4A
+DietaryCarbohydrates,Loop,16,g,6/6/21 17:18,6/6/21 17:18,6/6/21 17:18,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,E6E636EC-20DE-4CFF-ADFD-3C03224D60CA
+DietaryCarbohydrates,Loop,16,g,6/6/21 2:39,6/6/21 2:39,6/6/21 2:39,,,7200,,1,,57,,,,,,,,,,grapes cc,,,,,,,BA80D5F4-28FF-4DD5-B6C4-4D8F3E0F9FE4
+DietaryCarbohydrates,Loop,104,g,6/5/21 22:33,6/5/21 22:33,6/5/21 22:33,,,14400,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,1D1BB45C-1F25-4CEA-BCF9-E2CF59498C37
+DietaryCarbohydrates,Loop,13,g,6/5/21 12:22,6/5/21 12:22,6/5/21 12:22,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,9697D3F8-E6E7-48E5-9731-0FAFC36112D8
+DietaryCarbohydrates,Loop,8,g,6/5/21 2:04,6/5/21 2:04,6/5/21 2:04,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,2C1BC904-B0ED-4C3F-B008-82A9F8481767
+DietaryCarbohydrates,Loop,107,g,6/4/21 22:42,6/4/21 22:42,6/4/21 22:42,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,BFE9A380-178B-41C4-AE45-E07A55EC3886
+DietaryCarbohydrates,Loop,16,g,6/4/21 17:18,6/4/21 17:18,6/4/21 17:18,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,49A3CC5B-46F2-4231-B647-A84B59844098
+DietaryCarbohydrates,Loop,8,g,6/4/21 9:16,6/4/21 9:16,6/4/21 9:17,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,5922866F-04D0-443C-8275-D5AEC49ED8CA
+DietaryCarbohydrates,Loop,16,g,6/4/21 3:53,6/4/21 3:53,6/4/21 3:53,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,FB94E940-3621-4E98-85A4-994A606A0AB5
+DietaryCarbohydrates,Loop,16,g,6/4/21 1:47,6/4/21 1:47,6/4/21 1:47,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,98C95C96-016D-438F-BED8-366D459CD0D2
+DietaryCarbohydrates,Loop,105,g,6/3/21 22:15,6/3/21 22:15,6/3/21 22:16,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,FBFE0F3A-B2D7-427F-A65A-C6B89EAAA407
+DietaryCarbohydrates,Loop,16,g,6/3/21 20:03,6/3/21 20:03,6/3/21 20:03,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,9A4500B7-8611-4F08-BBC9-859DA9BA5742
+DietaryCarbohydrates,Loop,16,g,6/3/21 18:32,6/3/21 18:32,6/3/21 18:32,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,8AAB09AE-E98B-4C2B-83F8-F2A9D4F58651
+DietaryCarbohydrates,Loop,16,g,6/3/21 10:20,6/3/21 10:20,6/3/21 10:20,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,78C45863-AB6E-476A-9271-3BDCCBF1CFCA
+DietaryCarbohydrates,Loop,8,g,6/3/21 3:23,6/3/21 3:23,6/3/21 3:23,,,10800,,1,,57,,,,,,,,,,juice bottle ,,,,,,,66D96B5E-71F0-4559-B902-0B7DFADDE7B2
+DietaryCarbohydrates,Loop,8,g,6/3/21 1:58,6/3/21 1:58,6/3/21 1:58,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,338CDBEB-93F8-4509-8EA3-504BD5DEC2EB
+DietaryCarbohydrates,Loop,100,g,6/2/21 23:49,6/2/21 23:49,6/2/21 23:49,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,B6C83723-8B3B-467E-8C52-BDD55E0B8141
+DietaryCarbohydrates,Loop,8,g,6/2/21 21:12,6/2/21 21:12,6/2/21 21:12,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,4A986D7F-B70A-4E5D-B260-67C3FA108181
+DietaryCarbohydrates,Loop,8,g,6/2/21 10:31,6/2/21 10:31,6/2/21 10:31,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,3F18B5F8-6DE7-4239-A2EB-A7BD9A8A0889
+DietaryCarbohydrates,Loop,16,g,6/2/21 10:23,6/2/21 10:23,6/2/21 10:24,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,E16FC48F-59AF-4A79-9121-4D38734C7FDA
+DietaryCarbohydrates,Loop,8,g,6/2/21 1:19,6/2/21 1:19,6/2/21 1:19,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,ADB163BC-FBEA-4C6B-BF25-5DB6DC97721D
+DietaryCarbohydrates,Loop,103,g,6/1/21 23:15,6/1/21 23:15,6/1/21 23:15,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,51BC4A18-E26D-4B9E-8612-637F1F57A0F0
+DietaryCarbohydrates,Loop,8,g,6/1/21 22:08,6/1/21 22:08,6/1/21 22:08,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,85E38B49-3FAA-4E9C-A2B1-91D0DA6E5194
+DietaryCarbohydrates,Loop,8,g,6/1/21 19:28,6/1/21 19:28,6/1/21 19:28,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,869AE40A-35C8-459D-81DE-B1F285345FFC
+DietaryCarbohydrates,Loop,8,g,6/1/21 18:58,6/1/21 18:58,6/1/21 18:58,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,9208B6BC-F03F-4392-9D85-D626D81B12BA
+DietaryCarbohydrates,Loop,8,g,6/1/21 8:48,6/1/21 8:48,6/1/21 8:48,,,10800,,1,,57,,,,,,,,,,,,,,,,,A9606D60-EEA6-4803-8A18-5DCFD41C9F11
+DietaryCarbohydrates,Loop,16,g,6/1/21 8:37,6/1/21 8:37,6/1/21 8:38,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,325F4A03-5EC4-4E3A-91CE-293FD7FC4881
+DietaryCarbohydrates,Loop,8,g,6/1/21 3:21,6/1/21 3:21,6/1/21 3:22,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,FCC91F44-8184-414F-B534-4B6194940C86
+DietaryCarbohydrates,Loop,106,g,5/31/21 21:03,5/31/21 21:03,5/31/21 21:03,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,53672898-D906-4D8E-BD47-8E589C71DAFC
+DietaryCarbohydrates,Loop,8,g,5/31/21 12:31,5/31/21 12:31,5/31/21 12:32,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,DDC842B8-3017-4440-ABD7-DEA93BB6E1AF
+DietaryCarbohydrates,Loop,16,g,5/31/21 10:04,5/31/21 10:04,5/31/21 10:05,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,B5915883-5BB0-44A3-BB69-F54E271FC1CE
+DietaryCarbohydrates,Loop,8,g,5/31/21 3:46,5/31/21 3:46,5/31/21 3:47,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,CEB5AD73-9972-47F4-8F3D-8FECE4D7C483
+DietaryCarbohydrates,Loop,103,g,5/30/21 21:55,5/30/21 21:55,5/30/21 21:55,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,0E0925DB-6CAA-4547-B150-5273826FA53A
+DietaryCarbohydrates,Loop,16,g,5/30/21 14:40,5/30/21 14:40,5/30/21 14:41,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,E1D0142B-88D6-48BC-BA5E-542F64D27E5B
+DietaryCarbohydrates,Loop,16,g,5/30/21 9:12,5/30/21 9:12,5/30/21 9:13,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,A15E4823-F1EC-4815-939E-F6DBB4EA04C1
+DietaryCarbohydrates,Loop,106,g,5/29/21 21:33,5/29/21 21:33,5/29/21 21:34,,,14400,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,5796C96F-112D-415A-888E-9C2908BC18E6
+DietaryCarbohydrates,Loop,16,g,5/29/21 12:48,5/29/21 12:48,5/29/21 12:49,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,EB031528-113C-4704-BE38-062BC87D8F71
+DietaryCarbohydrates,Loop,8,g,5/29/21 5:09,5/29/21 5:09,5/29/21 5:09,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,F3C1DF61-D088-43BF-89D4-23096D166571
+DietaryCarbohydrates,Loop,108,g,5/28/21 20:32,5/28/21 20:32,5/28/21 20:32,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,FCB2D5AA-4F8B-42D3-8E43-7503D9FF4249
+DietaryCarbohydrates,Loop,13,g,5/28/21 11:31,5/28/21 11:31,5/28/21 11:31,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,1E37574B-41C8-48F9-81F5-272EC41B8CC8
+DietaryCarbohydrates,Loop,111,g,5/27/21 21:49,5/27/21 21:49,5/27/21 21:49,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,89A550D9-675D-463F-A0B2-813BA72FEACA
+DietaryCarbohydrates,Loop,24,g,5/27/21 9:32,5/27/21 9:32,5/27/21 9:33,,,7200,,1,,57,,,,,,,,,,juice bottle grapes c&c ,,,,,,,9FE4FF8C-486B-4734-B205-DC98090E336D
+DietaryCarbohydrates,Loop,8,g,5/26/21 23:05,5/26/21 23:05,5/26/21 23:06,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,437E9BE9-E7B8-4AED-978C-930AAD4C3E83
+DietaryCarbohydrates,Loop,109,g,5/26/21 22:13,5/26/21 22:13,5/26/21 22:13,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,21836F3F-E32E-4C77-BEBB-7F3275DD4601
+DietaryCarbohydrates,Loop,16,g,5/26/21 8:06,5/26/21 8:06,5/26/21 8:06,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,2C8C6980-EE89-4A57-9DDE-60F658C6A245
+DietaryCarbohydrates,Loop,8,g,5/25/21 22:33,5/25/21 22:33,5/25/21 22:33,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,76D4B400-22E1-4BF4-BDBA-6CD5F6E6D72D
+DietaryCarbohydrates,Loop,107,g,5/25/21 21:52,5/25/21 21:52,5/25/21 21:52,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,213DF06F-E883-4629-B969-5F171A8C724A
+DietaryCarbohydrates,Loop,8,g,5/25/21 11:56,5/25/21 11:56,5/25/21 11:57,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,98B0E0F5-E523-4254-89A0-45C509A5DE5A
+DietaryCarbohydrates,Loop,8,g,5/25/21 9:40,5/25/21 9:40,5/25/21 9:41,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,36B63E55-84CB-41E2-A2DC-2983E7236487
+DietaryCarbohydrates,Loop,8,g,5/25/21 7:34,5/25/21 7:34,5/25/21 7:35,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,3CE96487-EFF9-4209-9BEA-6A13AA9A1AE0
+DietaryCarbohydrates,Loop,109,g,5/24/21 20:35,5/24/21 20:35,5/24/21 20:35,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,54E72525-0719-4560-90F3-D57724D21687
+DietaryCarbohydrates,Loop,16,g,5/24/21 9:04,5/24/21 9:04,5/24/21 9:04,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,61A9AB2E-2937-48DE-A9DB-BC5EA934E895
+DietaryCarbohydrates,Loop,24,g,5/23/21 22:29,5/23/21 22:29,5/23/21 22:30,,,7200,,1,,57,,,,,,,,,,juice bottle grapes ,,,,,,,6AF94578-A6BB-4A9D-975D-15727A9F6A87
+DietaryCarbohydrates,Loop,102,g,5/23/21 20:51,5/23/21 20:51,5/23/21 20:51,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,FA9EA054-8B90-4772-A21D-700B068D9827
+DietaryCarbohydrates,Loop,8,g,5/22/21 23:23,5/22/21 23:23,5/22/21 23:23,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,4032F16F-37F6-46C2-BD55-7341FCAFF2F5
+DietaryCarbohydrates,Loop,108,g,5/22/21 21:53,5/22/21 21:53,5/22/21 21:54,,,14400,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,38C01E96-CD05-463F-B0A1-6AAD0AE6C280
+DietaryCarbohydrates,Loop,16,g,5/22/21 9:12,5/22/21 9:12,5/22/21 9:12,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,EC2CA726-AB66-4E11-8709-2108B7DAD01C
+DietaryCarbohydrates,Loop,8,g,5/22/21 2:18,5/22/21 2:18,5/22/21 2:18,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,BEC3FA8B-1E76-4DF4-87F9-0FEF650ED4DF
+DietaryCarbohydrates,Loop,8,g,5/22/21 0:37,5/22/21 0:37,5/22/21 0:38,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,50D7ECC1-6184-499B-BAB3-771AF58CC94D
+DietaryCarbohydrates,Loop,107,g,5/21/21 22:07,5/21/21 22:07,5/21/21 22:07,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,C264615E-56FF-454B-A09F-ACDB1A7D3089
+DietaryCarbohydrates,Loop,8,g,5/21/21 21:22,5/21/21 21:22,5/21/21 21:22,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,444F434D-E1BA-4FE9-908F-C5E0B8952035
+DietaryCarbohydrates,Loop,8,g,5/21/21 21:05,5/21/21 21:05,5/21/21 21:05,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,93FC401F-2937-4155-99FB-E63FD800CAC9
+DietaryCarbohydrates,Loop,18,g,5/21/21 17:08,5/21/21 17:08,5/21/21 17:08,,,7200,,1,,57,,,,,,,,,,juice bottle pbj ,,,,,,,AB4C405F-1FC3-42D2-8A4B-75E7C1D4B8F7
+DietaryCarbohydrates,Loop,16,g,5/21/21 9:43,5/21/21 9:43,5/21/21 9:43,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,68742617-B048-4A70-9A7E-B1F8F9F09A7E
+DietaryCarbohydrates,Loop,8,g,5/21/21 6:10,5/21/21 6:10,5/21/21 6:10,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,54FFDC2B-AFEC-4A79-8FF4-A83C9B232763
+DietaryCarbohydrates,Loop,106,g,5/20/21 20:53,5/20/21 20:53,5/20/21 20:54,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,3C16A6C7-58BF-40C4-8550-FA38BDF8EFA6
+DietaryCarbohydrates,Loop,16,g,5/20/21 9:16,5/20/21 9:16,5/20/21 9:16,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,D12AA708-71BF-4598-BFA7-F73BD9B6D762
+DietaryCarbohydrates,Loop,109,g,5/19/21 21:59,5/19/21 21:59,5/19/21 22:00,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,0E5833DD-A504-4D64-A1F4-2C3175A3B986
+DietaryCarbohydrates,Loop,6,g,5/19/21 8:36,5/19/21 8:36,5/19/21 8:37,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,F310113B-9E96-41C7-AEDA-6459A8E36B6F
+DietaryCarbohydrates,Loop,8,g,5/19/21 6:51,5/19/21 6:51,5/19/21 6:51,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,5BDBF2A1-6983-4415-9386-B8C354271401
+DietaryCarbohydrates,Loop,16,g,5/19/21 0:08,5/19/21 0:08,5/19/21 0:08,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,09D2FBD5-2873-482D-B05C-0C5350593C54
+DietaryCarbohydrates,Loop,16,g,5/18/21 21:20,5/18/21 21:20,5/18/21 21:20,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,E15D9B39-747E-4231-B11B-8BCE1F25BFB7
+DietaryCarbohydrates,Loop,110,g,5/18/21 20:34,5/18/21 20:34,5/18/21 20:35,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,C2451087-B513-4212-9238-D419E8308EFE
+DietaryCarbohydrates,Loop,16,g,5/18/21 14:37,5/18/21 14:37,5/18/21 14:37,,,7200,,1,,57,,,,,,,,,,,,,,,,,E4F919A9-D247-47E3-B5F5-59A0508DC091
+DietaryCarbohydrates,Loop,8,g,5/18/21 12:44,5/18/21 12:44,5/18/21 12:44,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,7737F995-B5C6-4AB5-83A0-BD75D6C21E8F
+DietaryCarbohydrates,Loop,16,g,5/18/21 9:02,5/18/21 9:02,5/18/21 9:02,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,649C71BA-2037-4401-A2CD-E07A7CC2541B
+DietaryCarbohydrates,Loop,8,g,5/18/21 4:27,5/18/21 4:27,5/18/21 4:27,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,76B41F67-3EE6-499C-A841-B2683780EA59
+DietaryCarbohydrates,Loop,108,g,5/17/21 20:29,5/17/21 20:29,5/17/21 20:29,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,FBF16BA0-EE36-4CDD-AEF2-883CC5A4F5DF
+DietaryCarbohydrates,Loop,18,g,5/17/21 14:17,5/17/21 14:17,5/17/21 14:18,,,7200,,1,,57,,,,,,,,,,juice cc,,,,,,,CE89943B-C512-4916-8527-734B4C1F2291
+DietaryCarbohydrates,Loop,18,g,5/17/21 10:00,5/17/21 10:00,5/17/21 10:00,,,7200,,1,,57,,,,,,,,,,juice cc,,,,,,,9CBFD21D-7F20-4976-96E9-5E4282DFA930
+DietaryCarbohydrates,Loop,16,g,5/17/21 7:03,5/17/21 7:03,5/17/21 7:03,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,0782DA16-47D1-4B3C-8E1C-5F14E1FA13C5
+DietaryCarbohydrates,Loop,8,g,5/17/21 6:05,5/17/21 6:05,5/17/21 6:05,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,E23EB7EE-C426-45AB-81AF-7BC03AA5F93A
+DietaryCarbohydrates,Loop,26,g,5/16/21 22:05,5/16/21 22:05,5/16/21 22:06,,,7200,,1,,57,,,,,,,,,,juice bottle grapes ,,,,,,,F463C431-2A98-496A-BBF7-440C61F209C7
+DietaryCarbohydrates,Loop,104,g,5/16/21 21:12,5/16/21 21:12,5/16/21 21:12,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,0F809AB2-AF44-427D-B75E-9898A75ED978
+DietaryCarbohydrates,Loop,16,g,5/16/21 9:27,5/16/21 9:27,5/16/21 9:27,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,8BA086DD-77D3-4C4F-B964-E828700C5DB9
+DietaryCarbohydrates,Loop,16,g,5/16/21 2:02,5/16/21 2:02,5/16/21 2:03,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,916AEE87-0B65-480C-A2EB-6F86AC342F89
+DietaryCarbohydrates,Loop,18,g,5/16/21 0:17,5/16/21 0:17,5/16/21 0:17,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,45F7459C-04CA-4FE2-9D66-2751A0007AAF
+DietaryCarbohydrates,Loop,103,g,5/15/21 21:51,5/15/21 21:51,5/15/21 21:52,,,10800,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,9B2B1BBB-98EE-4AD2-9F1A-AE50E343AACF
+DietaryCarbohydrates,Loop,8,g,5/15/21 19:45,5/15/21 19:45,5/15/21 19:45,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,0E9F7D89-1153-4CC9-B34D-096B1E1E5707
+DietaryCarbohydrates,Loop,26,g,5/15/21 12:44,5/15/21 12:44,5/15/21 12:45,,,7200,,1,,57,,,,,,,,,,juice bottle   cc,,,,,,,3CCF7620-65B8-4892-A656-43AEE8408134
+DietaryCarbohydrates,Loop,8,g,5/15/21 10:43,5/15/21 10:43,5/15/21 10:44,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,935212D6-4F71-4CAB-992D-7260EC4F9A4E
+DietaryCarbohydrates,Loop,16,g,5/15/21 10:30,5/15/21 10:30,5/15/21 10:31,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,78318CA9-324C-4502-9D16-9BE6DDADA6A9
+DietaryCarbohydrates,Loop,16,g,5/14/21 22:38,5/14/21 22:38,5/14/21 22:38,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,85D0B549-DD20-492E-B5B5-621A71341D60
+DietaryCarbohydrates,Loop,110,g,5/14/21 21:46,5/14/21 21:46,5/14/21 21:46,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,C80994D5-B39A-41BC-BFCE-9B8574BB11EB
+DietaryCarbohydrates,Loop,16,g,5/14/21 18:01,5/14/21 18:01,5/14/21 18:01,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,CBA0A21D-79A3-4B4C-A117-9BB20F81B5E5
+DietaryCarbohydrates,Loop,8,g,5/14/21 12:19,5/14/21 12:19,5/14/21 12:19,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,6F2D641B-A395-4B3B-ABC8-3E668BE8D7E4
+DietaryCarbohydrates,Loop,8,g,5/14/21 6:19,5/14/21 6:19,5/14/21 6:20,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,28BB6896-1110-4C5D-9A59-D076A4B586CB
+DietaryCarbohydrates,Loop,16,g,5/14/21 5:53,5/14/21 5:53,5/14/21 5:53,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,BE270FA6-1D4F-4ACF-BA9B-35F192958CA8
+DietaryCarbohydrates,Loop,8,g,5/13/21 22:58,5/13/21 22:58,5/13/21 22:59,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,9BBA553E-B8C2-455E-A915-D31A1282AAF3
+DietaryCarbohydrates,Loop,16,g,5/13/21 21:13,5/13/21 21:13,5/13/21 21:13,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,D8147B85-C8BB-471B-8285-6D8021AC29AB
+DietaryCarbohydrates,Loop,110,g,5/13/21 20:19,5/13/21 20:19,5/13/21 20:19,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,E39B0AD1-8BEA-4692-8826-E98F17DB1A06
+DietaryCarbohydrates,Loop,8,g,5/13/21 17:36,5/13/21 17:36,5/13/21 17:37,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,95BE888B-A25F-4472-BC97-B98C484575B4
+DietaryCarbohydrates,Loop,16,g,5/13/21 10:13,5/13/21 10:13,5/13/21 10:14,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,597E2761-F24F-4158-AB41-57D08E909F22
+DietaryCarbohydrates,Loop,8,g,5/13/21 8:57,5/13/21 8:57,5/13/21 8:57,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,8DC930E0-490D-4AED-86AA-9235869EDCEA
+DietaryCarbohydrates,Loop,8,g,5/13/21 0:38,5/13/21 0:38,5/13/21 0:38,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,6B6C747E-C474-4E38-AF61-EA56530CB045
+DietaryCarbohydrates,Loop,8,g,5/12/21 22:22,5/12/21 22:22,5/12/21 22:22,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,32D13404-F36B-439D-9E92-2CA3950FE858
+DietaryCarbohydrates,Loop,107,g,5/12/21 20:46,5/12/21 20:46,5/12/21 20:46,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,0BAB761E-5D76-46F9-AC64-0A04EAEDFE21
+DietaryCarbohydrates,Loop,16,g,5/12/21 19:43,5/12/21 19:43,5/12/21 19:43,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,3A47809A-B393-4D67-9C7A-59D533354A68
+DietaryCarbohydrates,Loop,18,g,5/12/21 17:31,5/12/21 17:31,5/12/21 17:31,,,7200,,1,,57,,,,,,,,,,juice bottle cc,,,,,,,B7EF30A7-2B38-48E9-A929-9B3C79D8EB04
+DietaryCarbohydrates,Loop,8,g,5/12/21 12:50,5/12/21 12:50,5/12/21 12:51,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,7873E595-02A3-4EB0-8E59-AC10EDAD0682
+DietaryCarbohydrates,Loop,19,g,5/12/21 9:40,5/12/21 9:40,5/12/21 9:40,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,48037ED8-4BA5-41D5-9528-DA4A339E2276
+DietaryCarbohydrates,Loop,8,g,5/12/21 5:11,5/12/21 5:11,5/12/21 5:11,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,CAE8AB1C-77D3-497D-8230-63B24D49B3C9
+DietaryCarbohydrates,Loop,8,g,5/12/21 3:49,5/12/21 3:49,5/12/21 3:49,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,F74B4C41-E362-4D50-BA2C-3654494E7896
+DietaryCarbohydrates,Loop,109,g,5/11/21 21:02,5/11/21 21:02,5/11/21 21:03,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,651FCCB5-498E-41CB-B4B5-9D86FDEE1FE4
+DietaryCarbohydrates,Loop,8,g,5/11/21 19:50,5/11/21 19:50,5/11/21 19:50,,,10800,,1,,57,,,,,,,,,,juice bottle ,,,,,,,BBD2972B-932B-42D3-AC2B-B9F342554BD6
+DietaryCarbohydrates,Loop,8,g,5/11/21 19:19,5/11/21 19:19,5/11/21 19:19,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,1FEF5A36-1B11-43EE-89FA-48AAA0077DAC
+DietaryCarbohydrates,Loop,16,g,5/11/21 12:18,5/11/21 12:18,5/11/21 12:19,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,60E47B4F-9D9B-4F25-83B7-EF270A1DC3FB
+DietaryCarbohydrates,Loop,8,g,5/11/21 9:10,5/11/21 9:10,5/11/21 9:10,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,9F50EACF-D89A-4B6F-A71A-C6894C6C92D1
+DietaryCarbohydrates,Loop,8,g,5/11/21 4:48,5/11/21 4:48,5/11/21 4:48,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,92E89EB8-216B-4D01-8A80-5CADDA5D7B40
+DietaryCarbohydrates,Loop,16,g,5/10/21 23:07,5/10/21 23:07,5/10/21 23:08,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,C1DC94DA-F94B-499D-A7F9-884497A754E7
+DietaryCarbohydrates,Loop,109,g,5/10/21 21:30,5/10/21 21:30,5/10/21 21:30,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,721BC15A-1628-460F-8192-5A0F49AD9076
+DietaryCarbohydrates,Loop,10,g,5/10/21 19:25,5/10/21 19:25,5/10/21 19:25,,,7200,,1,,57,,,,,,,,,,pbj ,,,,,,,495CBF4D-924A-4B5C-8140-4A3B57BEE2C4
+DietaryCarbohydrates,Loop,16,g,5/10/21 11:26,5/10/21 11:26,5/10/21 11:26,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,0EA6156A-FC63-4E36-BF13-770F64A2AA5E
+DietaryCarbohydrates,Loop,16,g,5/10/21 9:55,5/10/21 9:55,5/10/21 9:55,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,FC489957-E934-4656-A41C-9ED0E0F40E1F
+DietaryCarbohydrates,Loop,8,g,5/10/21 5:04,5/10/21 5:04,5/10/21 5:04,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,DB2C88AE-61DE-424E-87E0-D05923823C37
+DietaryCarbohydrates,Loop,8,g,5/10/21 4:13,5/10/21 4:13,5/10/21 4:13,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,DDFDC7D3-25D4-4AC4-8B88-1DF8A88ECCBC
+DietaryCarbohydrates,Loop,110,g,5/9/21 21:27,5/9/21 21:27,5/9/21 21:27,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,89ECCA27-6DB4-427A-A20A-70349AAA0B81
+DietaryCarbohydrates,Loop,10,g,5/9/21 18:50,5/9/21 18:50,5/9/21 18:51,,,7200,,1,,57,,,,,,,,,,crackers,,,,,,,1510B05C-FC31-4A39-BCAD-C5B0C2A68FCC
+DietaryCarbohydrates,Loop,16,g,5/9/21 10:08,5/9/21 10:08,5/9/21 10:08,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,A7B2C7CA-4D80-47B5-BA77-C0468B61314E
+DietaryCarbohydrates,Loop,8,g,5/9/21 4:00,5/9/21 4:00,5/9/21 4:00,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,9F5DE791-4976-42B1-82A5-97A0B0132B53
+DietaryCarbohydrates,Loop,100,g,5/8/21 22:29,5/8/21 22:29,5/8/21 22:30,,,10800,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,3E71670A-81BA-4E42-A0EF-6527804B3DD6
+DietaryCarbohydrates,Loop,8,g,5/8/21 13:27,5/8/21 13:27,5/8/21 13:27,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,9A98CE32-AFCA-4F0E-BB29-65B5E10F8E84
+DietaryCarbohydrates,Loop,16,g,5/8/21 11:09,5/8/21 11:09,5/8/21 11:10,,,10800,,1,,57,,,,,,,,,,grapes cc,,,,,,,90B13296-4D23-4146-BA9B-DCF41D6F0677
+DietaryCarbohydrates,Loop,16,g,5/8/21 9:42,5/8/21 9:42,5/8/21 9:42,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,0B224E44-324C-4370-ADDB-9FF1EC36EFF4
+DietaryCarbohydrates,Loop,8,g,5/8/21 8:26,5/8/21 8:26,5/8/21 8:26,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,6039ACF0-31D0-427A-BB7C-551D5EFE3953
+DietaryCarbohydrates,Loop,8,g,5/8/21 6:33,5/8/21 6:33,5/8/21 6:33,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,03A7C6B4-AA11-4146-A7C9-C8AA5023ADDA
+DietaryCarbohydrates,Loop,8,g,5/8/21 4:33,5/8/21 4:33,5/8/21 4:33,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,111D8741-4352-4056-8C6F-06F61121C60F
+DietaryCarbohydrates,Loop,105,g,5/7/21 20:42,5/7/21 20:42,5/7/21 20:43,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,2889271C-49F2-4D0B-AEC7-C2451996C832
+DietaryCarbohydrates,Loop,16,g,5/7/21 11:20,5/7/21 11:20,5/7/21 11:20,,,7200,,1,,57,,,,,,,,,,grapes cc,,,,,,,73D36815-B14F-4FE9-81E0-67E24D00937D
+DietaryCarbohydrates,Loop,16,g,5/7/21 8:38,5/7/21 8:38,5/7/21 8:38,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,EA822EC3-9972-485D-A986-D2125F2A01D5
+DietaryCarbohydrates,Loop,8,g,5/6/21 23:06,5/6/21 23:06,5/6/21 23:07,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,1679657A-7243-4881-959C-D20A10456E45
+DietaryCarbohydrates,Loop,108,g,5/6/21 22:28,5/6/21 22:28,5/6/21 22:29,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,7DA06AEA-3975-4518-8EC1-424F320B60BC
+DietaryCarbohydrates,Loop,8,g,5/6/21 10:43,5/6/21 10:43,5/6/21 10:43,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,9237C00F-6C82-4680-A51F-00F1C8AD2E99
+DietaryCarbohydrates,Loop,16,g,5/6/21 7:42,5/6/21 7:42,5/6/21 7:42,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,1ABB3DB4-1C73-438A-BC82-DF58DEEF1A92
+DietaryCarbohydrates,Loop,8,g,5/6/21 6:40,5/6/21 6:40,5/6/21 6:40,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,8B8CDCB9-1891-45D4-AE54-3059E6A9425F
+DietaryCarbohydrates,Loop,111,g,5/5/21 20:34,5/5/21 20:34,5/5/21 20:34,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,459C7E13-B8F8-4D6D-AD11-ED5731E62F29
+DietaryCarbohydrates,Loop,16,g,5/5/21 9:26,5/5/21 9:26,5/5/21 9:27,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,5BFF5E89-277C-406B-8DB2-AB98275AE6B8
+DietaryCarbohydrates,Loop,8,g,5/5/21 3:03,5/5/21 3:03,5/5/21 3:03,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,6731E16D-98C6-4E36-8C34-8873C10F72BA
+DietaryCarbohydrates,Loop,112,g,5/4/21 22:43,5/4/21 22:43,5/4/21 22:44,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,CEE08989-5213-4949-88A0-3817E2D63D65
+DietaryCarbohydrates,Loop,8,g,5/4/21 19:17,5/4/21 19:17,5/4/21 19:18,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,B5D1370D-FB5E-4839-97A6-CF25BB16FE86
+DietaryCarbohydrates,Loop,10,g,5/4/21 9:46,5/4/21 9:46,5/4/21 9:52,,,7200,,1,,57,,,,,,,,,,cookie,,,,,,,D38463FF-C34C-4F23-B914-BBA6C28A3A77
+DietaryCarbohydrates,Loop,16,g,5/4/21 9:31,5/4/21 9:31,5/4/21 9:50,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,43F8D526-687F-4887-825E-3A1F90AC97A5
+DietaryCarbohydrates,Loop,16,g,5/4/21 9:09,5/4/21 9:09,5/4/21 9:49,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,3EE03A4F-7AB6-4C81-905B-E5795B0E7D0A
+DietaryCarbohydrates,Loop,16,g,5/4/21 7:52,5/4/21 7:52,5/4/21 7:52,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,E6DF1FEA-B3B8-4EAC-A76B-6B1D7853E807
+DietaryCarbohydrates,Loop,108,g,5/3/21 20:28,5/3/21 20:28,5/3/21 20:29,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,F62DD60C-81C5-4D51-84E5-4878ABCEF74E
+DietaryCarbohydrates,Loop,16,g,5/3/21 11:52,5/3/21 11:52,5/3/21 11:52,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,91E23066-2E1D-4FAE-8B00-E122534ED0E1
+DietaryCarbohydrates,Loop,109,g,5/2/21 21:39,5/2/21 21:39,5/2/21 21:40,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,CE7D0235-DE94-4FFC-B2E6-BD1286FB8D8A
+DietaryCarbohydrates,Loop,16,g,5/2/21 12:44,5/2/21 12:44,5/2/21 12:44,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,E439FD1B-D7D6-43BE-86E3-2746B0C14A13
+DietaryCarbohydrates,Loop,101,g,5/1/21 21:49,5/1/21 21:49,5/1/21 21:50,,,10800,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,448BE38F-F5A1-4EBE-9122-FF2489296633
+DietaryCarbohydrates,Loop,8,g,5/1/21 20:59,5/1/21 20:59,5/1/21 20:59,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,36E9607C-C05C-49C7-AA14-9411A1A9E112
+DietaryCarbohydrates,Loop,16,g,5/1/21 15:37,5/1/21 15:37,5/1/21 15:37,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,E9952523-5E32-4A72-A649-AF74BAB01131
+DietaryCarbohydrates,Loop,109,g,4/30/21 22:27,4/30/21 22:27,4/30/21 22:28,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,F8439602-9194-48F8-8887-8DF7DE1A4FCF
+DietaryCarbohydrates,Loop,8,g,4/30/21 7:30,4/30/21 7:30,4/30/21 7:33,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,CAAAF42D-9D7C-4B4B-B953-90B4050BF531
+DietaryCarbohydrates,Loop,8,g,4/30/21 6:15,4/30/21 6:15,4/30/21 6:16,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,5D121042-8D24-4B21-AA58-3A645610DFC0
+DietaryCarbohydrates,Loop,8,g,4/30/21 4:39,4/30/21 4:39,4/30/21 4:39,,,10800,,1,,57,,,,,,,,,,juice bottle ,,,,,,,035E891F-19BC-426F-8B3B-F2A6C585C97C
+DietaryCarbohydrates,Loop,16,g,4/29/21 21:31,4/29/21 21:31,4/29/21 21:32,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,0639EEC1-1346-48C5-B6CB-A0646A4CD53B
+DietaryCarbohydrates,Loop,107,g,4/29/21 20:47,4/29/21 20:47,4/29/21 20:48,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,F69A8E38-9251-4E91-A7F6-A3B38CCB5951
+DietaryCarbohydrates,Loop,16,g,4/29/21 19:23,4/29/21 19:23,4/29/21 19:24,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,F3F955EE-0ADF-4ECB-9A4A-10FAE2E06D4D
+DietaryCarbohydrates,Loop,16,g,4/29/21 11:18,4/29/21 11:18,4/29/21 11:18,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,EAB4A474-3269-445A-B535-7D9CA187111D
+DietaryCarbohydrates,Loop,8,g,4/29/21 4:29,4/29/21 4:29,4/29/21 4:29,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,0E69F538-FA58-486C-A096-70C21FB030B3
+DietaryCarbohydrates,Loop,16,g,4/28/21 21:31,4/28/21 21:31,4/28/21 21:32,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,05E420A3-DDD4-4589-8813-208B6DACD927
+DietaryCarbohydrates,Loop,108,g,4/28/21 20:05,4/28/21 20:05,4/28/21 20:06,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,30AF2B77-255D-41D2-A074-4CCE6B7528C1
+DietaryCarbohydrates,Loop,16,g,4/28/21 18:37,4/28/21 18:37,4/28/21 18:37,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,C346886B-EA21-4AD5-A92A-90A0998C2E46
+DietaryCarbohydrates,Loop,16,g,4/28/21 10:48,4/28/21 10:48,4/28/21 10:48,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,105EBFF1-9C68-478F-B707-74FF9F86E993
+DietaryCarbohydrates,Loop,16,g,4/27/21 22:25,4/27/21 22:25,4/27/21 22:25,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,B8A16210-AECB-4179-B271-2807F72D1615
+DietaryCarbohydrates,Loop,106,g,4/27/21 21:40,4/27/21 21:40,4/27/21 21:40,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,66A560B5-F60C-440F-983C-DC9AFB8C105E
+DietaryCarbohydrates,Loop,16,g,4/27/21 11:11,4/27/21 11:11,4/27/21 11:12,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,549B34E3-EDFF-4A61-A6DC-C448D9D2E10E
+DietaryCarbohydrates,Loop,8,g,4/27/21 5:11,4/27/21 5:11,4/27/21 5:12,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,22BC0532-E47D-45D2-A55C-96182DBB2CC2
+DietaryCarbohydrates,Loop,5,g,4/27/21 3:58,4/27/21 3:58,4/27/21 3:58,,,10800,,1,,57,,,,,,,,,,juice bottle ,,,,,,,849E20F1-EE60-4C11-AA25-2F154670742D
+DietaryCarbohydrates,Loop,16,g,4/26/21 21:50,4/26/21 21:50,4/26/21 21:51,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,6E114792-4347-4B2D-B956-23B0CF461BAC
+DietaryCarbohydrates,Loop,105,g,4/26/21 21:09,4/26/21 21:09,4/26/21 21:09,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,F4CE5BEE-C1D8-4A1F-9A75-B5D849DCF484
+DietaryCarbohydrates,Loop,16,g,4/26/21 9:40,4/26/21 9:40,4/26/21 9:40,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,9DACE814-6430-4C1D-AF79-DCF6FC26EEC7
+DietaryCarbohydrates,Loop,8,g,4/26/21 4:51,4/26/21 4:51,4/26/21 4:51,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,CE6C69AB-9E25-4CB1-8C28-26E99C42F91E
+DietaryCarbohydrates,Loop,16,g,4/25/21 23:56,4/25/21 23:56,4/25/21 23:57,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,8324766C-1E3C-425D-82BA-CDA44F0A2873
+DietaryCarbohydrates,Loop,108,g,4/25/21 21:08,4/25/21 21:08,4/25/21 21:08,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,D9791598-4B54-4A99-8157-FA959B025BFC
+DietaryCarbohydrates,Loop,16,g,4/25/21 10:35,4/25/21 10:35,4/25/21 10:36,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,1FB8ACB3-6B0A-49DE-BB80-82E523DC633A
+DietaryCarbohydrates,Loop,104,g,4/24/21 22:43,4/24/21 22:43,4/24/21 22:43,,,10800,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,33B83A63-B666-4CE7-BC43-1111C4A55A2F
+DietaryCarbohydrates,Loop,16,g,4/24/21 10:46,4/24/21 10:46,4/24/21 10:46,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,6E02C22B-CD1F-4129-A797-19F556D8DE5D
+DietaryCarbohydrates,Loop,8,g,4/24/21 6:05,4/24/21 6:05,4/24/21 6:05,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,0A848D00-2253-4E72-8AFB-0154A2547369
+DietaryCarbohydrates,Loop,8,g,4/24/21 5:02,4/24/21 5:02,4/24/21 5:03,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,6ED4F3DA-2FBA-46AF-9707-22132EBDCF7B
+DietaryCarbohydrates,Loop,109,g,4/23/21 21:47,4/23/21 21:47,4/23/21 21:48,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,8F98E997-AD3A-41DF-80DE-2B1FF34523EA
+DietaryCarbohydrates,Loop,16,g,4/23/21 10:11,4/23/21 10:11,4/23/21 10:11,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,E26D5C20-5366-466E-82F6-60EC2816AAEF
+DietaryCarbohydrates,Loop,16,g,4/22/21 21:48,4/22/21 21:48,4/22/21 21:49,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,B1360FCE-76D3-4567-B95D-243899D81965
+DietaryCarbohydrates,Loop,110,g,4/22/21 20:43,4/22/21 20:43,4/22/21 20:43,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,2FDF1756-766E-45DF-BA94-0A701B9E8B26
+DietaryCarbohydrates,Loop,16,g,4/22/21 10:37,4/22/21 10:37,4/22/21 10:37,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,8A5BCF7E-B1EE-4E2B-8C21-B480CA507112
+DietaryCarbohydrates,Loop,8,g,4/22/21 4:22,4/22/21 4:22,4/22/21 4:23,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,53F715CD-838E-4D70-BE90-D03D7CE8DAEC
+DietaryCarbohydrates,Loop,8,g,4/21/21 22:37,4/21/21 22:37,4/21/21 22:37,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,34F20DE9-95D4-4A4D-98F6-16CAE8AA3F91
+DietaryCarbohydrates,Loop,106,g,4/21/21 21:46,4/21/21 21:46,4/21/21 21:46,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,59A0022F-947D-432D-AEAC-B4B5D6F0F611
+DietaryCarbohydrates,Loop,16,g,4/21/21 5:21,4/21/21 5:21,4/21/21 5:21,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,5E477AA8-D15F-4B5F-B164-684CD75F11E1
+DietaryCarbohydrates,Loop,16,g,4/20/21 23:14,4/20/21 23:14,4/20/21 23:14,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,A78476DF-4A41-4385-87F4-278A6FFB3179
+DietaryCarbohydrates,Loop,104,g,4/20/21 22:14,4/20/21 22:14,4/20/21 22:14,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,21AA421F-2CFB-49A5-AD04-495A7CAC917C
+DietaryCarbohydrates,Loop,16,g,4/20/21 19:42,4/20/21 19:42,4/20/21 19:43,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,3A584479-479D-471D-8651-5D59E7DA4C2D
+DietaryCarbohydrates,Loop,16,g,4/19/21 21:58,4/19/21 21:58,4/19/21 21:59,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,2CBFDD35-D2F3-462D-81AF-45EA88529641
+DietaryCarbohydrates,Loop,107,g,4/19/21 20:43,4/19/21 20:43,4/19/21 20:44,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,2888D2CE-0647-49B8-B762-EF28864FF0C5
+DietaryCarbohydrates,Loop,16,g,4/19/21 13:13,4/19/21 13:13,4/19/21 13:13,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,77EF38FC-D777-4666-B533-B4B74C391FA8
+DietaryCarbohydrates,Loop,16,g,4/19/21 0:20,4/19/21 0:20,4/19/21 0:20,,,7200,,1,,57,,,,,,,,,,,,,,,,,001F49D6-C5E2-4187-8E4E-BBACEC84B382
+DietaryCarbohydrates,Loop,107,g,4/18/21 23:38,4/18/21 23:38,4/18/21 23:39,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,A3CA1ABE-02CE-4F18-83A1-E69155CA0DBE
+DietaryCarbohydrates,Loop,16,g,4/18/21 17:19,4/18/21 17:19,4/18/21 17:20,,,7200,,1,,57,,,,,,,,,,,,,,,,,D4F69A77-2FA1-45F5-A221-ADA4CD4A1AAF
+DietaryCarbohydrates,Loop,8,g,4/18/21 5:26,4/18/21 5:26,4/18/21 5:26,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,52D09AE5-E6AD-495C-A7F7-8F38A4275F28
+DietaryCarbohydrates,Loop,8,g,4/18/21 3:58,4/18/21 3:58,4/18/21 3:59,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,76308C9D-9323-4B89-A443-819C9F6A1353
+DietaryCarbohydrates,Loop,8,g,4/17/21 23:17,4/17/21 23:17,4/17/21 23:17,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,A9EDBC04-66D4-4F29-B913-4C8186381347
+DietaryCarbohydrates,Loop,100,g,4/17/21 22:19,4/17/21 22:19,4/17/21 22:19,,,10800,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,4E99458F-2ECC-46F6-A14C-F282CC0BC9DF
+DietaryCarbohydrates,Loop,16,g,4/17/21 13:43,4/17/21 13:43,4/17/21 13:44,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,56B0AC2F-5CDA-4781-9F79-4024837189B0
+DietaryCarbohydrates,Loop,8,g,4/17/21 6:58,4/17/21 6:58,4/17/21 6:58,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,2E9DCDE2-12E0-4B2A-9CD6-AFC91B611141
+DietaryCarbohydrates,Loop,8,g,4/17/21 4:39,4/17/21 4:39,4/17/21 4:40,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,6F72CCBA-8171-403D-8387-93043308EFC1
+DietaryCarbohydrates,Loop,16,g,4/16/21 21:38,4/16/21 21:38,4/16/21 21:38,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,7579BAD1-DEC3-4799-8872-430E029A3573
+DietaryCarbohydrates,Loop,106,g,4/16/21 20:34,4/16/21 20:34,4/16/21 20:35,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,05A1A64A-9BF4-4BE3-BB3A-EB2953C56430
+DietaryCarbohydrates,Loop,16,g,4/16/21 12:34,4/16/21 12:34,4/16/21 12:34,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,41F7CF54-BA8B-4FF9-BB25-F828C344B6B3
+DietaryCarbohydrates,Loop,8,g,4/16/21 5:31,4/16/21 5:31,4/16/21 5:31,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,F100F45D-763B-40A6-B743-8A189ED1E830
+DietaryCarbohydrates,Loop,8,g,4/16/21 4:32,4/16/21 4:32,4/16/21 4:32,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,C61F5DE8-69D4-421C-8581-772815E1440B
+DietaryCarbohydrates,Loop,104,g,4/15/21 21:00,4/15/21 21:00,4/15/21 21:00,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,05922DDD-F52A-45D3-859A-7CF85E49D4AE
+DietaryCarbohydrates,Loop,16,g,4/15/21 10:58,4/15/21 10:58,4/15/21 10:58,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,B0E93965-557A-4336-A2FA-464192BD85A9
+DietaryCarbohydrates,Loop,105,g,4/14/21 22:41,4/14/21 22:41,4/14/21 22:41,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,69D483B9-64D2-4DEC-A608-A796AFB845C5
+DietaryCarbohydrates,Loop,16,g,4/14/21 13:40,4/14/21 13:40,4/14/21 13:40,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,2C898DDE-C7EF-43D1-8B62-BF0854ABD3A2
+DietaryCarbohydrates,Loop,112,g,4/13/21 20:06,4/13/21 20:06,4/13/21 20:07,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,18162F20-CC78-44C4-9AB4-E3EB37F349AF
+DietaryCarbohydrates,Loop,16,g,4/13/21 17:04,4/13/21 17:04,4/13/21 17:04,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,2B3A04E7-42B8-4859-82B7-CC51E3F1510C
+DietaryCarbohydrates,Loop,16,g,4/12/21 22:43,4/12/21 22:43,4/12/21 22:43,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,DF8EE310-C998-4EEB-A422-F85D89A2442E
+DietaryCarbohydrates,Loop,104,g,4/12/21 21:43,4/12/21 21:43,4/12/21 21:44,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,8C83BF71-8926-4B2D-B57C-BDD1C39E6189
+DietaryCarbohydrates,Loop,8,g,4/12/21 11:43,4/12/21 11:43,4/12/21 11:44,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,B5323AF5-DAEF-4E99-A368-145DF07D35D7
+DietaryCarbohydrates,Loop,8,g,4/12/21 8:24,4/12/21 8:24,4/12/21 8:24,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,3DB80342-4FE3-4BEF-8166-6FCA536B21F2
+DietaryCarbohydrates,Loop,8,g,4/11/21 22:29,4/11/21 22:29,4/11/21 22:29,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,A1F8AF4E-C8C7-4C48-84E5-BAAA90EDE52E
+DietaryCarbohydrates,Loop,102,g,4/11/21 21:39,4/11/21 21:39,4/11/21 21:39,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,6E0E6861-B443-485E-ACBD-5D76C29B26D2
+DietaryCarbohydrates,Loop,8,g,4/11/21 21:01,4/11/21 21:01,4/11/21 21:02,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,B294D736-DFCA-4520-8D59-306CA9CC1CD7
+DietaryCarbohydrates,Loop,16,g,4/11/21 12:24,4/11/21 12:24,4/11/21 12:24,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,0370AABD-3A33-475C-B94F-36D15939B75B
+DietaryCarbohydrates,Loop,107,g,4/10/21 20:49,4/10/21 20:49,4/10/21 20:50,,,10800,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,BA81F381-03BD-4C3A-B286-F5FC68DFBA46
+DietaryCarbohydrates,Loop,108,g,4/9/21 20:26,4/9/21 20:26,4/9/21 20:26,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,5438EEE8-7DB4-4DD7-B9FF-6ED0F7EA4F3E
+DietaryCarbohydrates,Loop,16,g,4/9/21 17:35,4/9/21 17:35,4/9/21 17:35,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,B213BF1F-DD94-4323-B440-DA499F1EE9AF
+DietaryCarbohydrates,Loop,12,g,4/9/21 7:08,4/9/21 7:08,4/9/21 7:08,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,DA956597-FECB-433F-B843-A5F791319226
+DietaryCarbohydrates,Loop,108,g,4/8/21 20:45,4/8/21 20:45,4/8/21 20:45,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,B33CA0B0-A1B1-4391-8AAD-DA314444F70B
+DietaryCarbohydrates,Loop,16,g,4/8/21 15:14,4/8/21 15:14,4/8/21 15:15,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,9953A9AC-984A-4C0E-822A-F7075E1B6BAB
+DietaryCarbohydrates,Loop,16,g,4/7/21 22:48,4/7/21 22:48,4/7/21 22:48,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,E6D49068-E053-4E39-B55D-A88F14EA2665
+DietaryCarbohydrates,Loop,107,g,4/7/21 21:45,4/7/21 21:45,4/7/21 21:45,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,BD224D1F-CE04-4E06-BB1D-73E53BB7FA47
+DietaryCarbohydrates,Loop,16,g,4/6/21 21:21,4/6/21 21:21,4/6/21 21:21,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,3C0664D9-307C-4C13-B9EF-39B8A0D9D210
+DietaryCarbohydrates,Loop,106,g,4/6/21 20:21,4/6/21 20:21,4/6/21 20:22,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,21FA1FA1-A5D9-461D-81D0-7E3E871AD618
+DietaryCarbohydrates,Loop,106,g,4/5/21 20:33,4/5/21 20:33,4/5/21 20:33,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,38E9272C-0645-4FD6-8801-6086DE41976B
+DietaryCarbohydrates,Loop,16,g,4/5/21 11:47,4/5/21 11:47,4/5/21 11:47,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,41F005CA-F94C-4FE7-8446-AD5DCD2C8B68
+DietaryCarbohydrates,Loop,110,g,4/4/21 23:12,4/4/21 23:12,4/4/21 23:13,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,0F5B5FD7-46F6-40EF-BEDA-D33CAD25B02C
+DietaryCarbohydrates,Loop,16,g,4/3/21 23:19,4/3/21 23:19,4/3/21 23:19,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,5C9FE999-218A-456D-9097-957CD67B6B86
+DietaryCarbohydrates,Loop,109,g,4/3/21 21:57,4/3/21 21:57,4/3/21 21:57,,,10800,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,C7B374E8-DDD0-46DE-84BA-A81539CBDAEA
+DietaryCarbohydrates,Loop,16,g,4/3/21 12:40,4/3/21 12:40,4/3/21 12:40,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,82E76B71-0C0A-4794-894D-3CF97A42BE2C
+DietaryCarbohydrates,Loop,16,g,4/2/21 23:08,4/2/21 23:08,4/2/21 23:08,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,62AFC04F-AF44-461B-A1D4-84C214011B86
+DietaryCarbohydrates,Loop,16,g,4/2/21 22:45,4/2/21 22:45,4/2/21 22:45,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,F4D5A21C-5F30-4910-8C3E-F143941C4109
+DietaryCarbohydrates,Loop,104,g,4/2/21 21:43,4/2/21 21:43,4/2/21 21:43,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,FA01B3DC-F38D-46C3-A2A5-6C57A660F540
+DietaryCarbohydrates,Loop,16,g,4/2/21 19:03,4/2/21 19:03,4/2/21 19:03,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,898D480B-4914-4482-A2D6-4E854F62D39D
+DietaryCarbohydrates,Loop,16,g,4/2/21 10:38,4/2/21 10:38,4/2/21 10:38,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,950DF396-95D0-4DA9-BBED-989492E7F255
+DietaryCarbohydrates,Loop,16,g,4/1/21 20:54,4/1/21 20:54,4/1/21 20:54,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,AC4084E3-D539-4FD2-B2E3-5239E861032C
+DietaryCarbohydrates,Loop,109,g,4/1/21 20:16,4/1/21 20:16,4/1/21 20:17,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,0457460C-0163-4CB4-8166-C3EA2DC22CC3
+DietaryCarbohydrates,Loop,8,g,4/1/21 6:03,4/1/21 6:03,4/1/21 6:03,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,357B64E0-5C51-41A8-9103-92F73FF858F7
+DietaryCarbohydrates,Loop,8,g,4/1/21 4:49,4/1/21 4:49,4/1/21 4:49,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,8C8F9711-EAC2-40C2-A4CE-8B187DCAD2FF
+DietaryCarbohydrates,Loop,102,g,3/31/21 20:21,3/31/21 20:21,3/31/21 20:21,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,E372FA71-078D-46E4-89AA-0D4729A58EF7
+DietaryCarbohydrates,Loop,16,g,3/31/21 9:23,3/31/21 9:23,3/31/21 9:24,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,D5A9ABA3-557F-416B-B076-B154DAF2454F
+DietaryCarbohydrates,Loop,16,g,3/30/21 21:30,3/30/21 21:30,3/30/21 21:31,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,86D78DF2-ECAB-4984-AA9A-DF1BD4A5AA5D
+DietaryCarbohydrates,Loop,103,g,3/30/21 20:38,3/30/21 20:38,3/30/21 20:38,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,EB8B516E-FFAD-4660-8E1C-86992958A41E
+DietaryCarbohydrates,Loop,16,g,3/30/21 10:45,3/30/21 10:45,3/30/21 10:45,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,4FCF3009-AC14-463E-A4F8-8B373EF53D81
+DietaryCarbohydrates,Loop,8,g,3/30/21 9:00,3/30/21 9:00,3/30/21 9:00,,,10800,,1,,57,,,,,,,,,,juice bottle ,,,,,,,5676B092-AA32-4D6C-B169-F70FF8BAA209
+DietaryCarbohydrates,Loop,104,g,3/29/21 20:25,3/29/21 20:25,3/29/21 20:25,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,C941A9AA-FAFF-4DD3-B9C8-384608FD129A
+DietaryCarbohydrates,Loop,16,g,3/29/21 11:29,3/29/21 11:29,3/29/21 11:30,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,64560338-5D29-4D7C-90F6-076DE052CFA0
+DietaryCarbohydrates,Loop,8,g,3/29/21 10:49,3/29/21 10:49,3/29/21 10:50,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,2FE741CE-4B98-4EC5-9E4E-6B8520D323C6
+DietaryCarbohydrates,Loop,16,g,3/29/21 0:28,3/29/21 0:28,3/29/21 0:28,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,A498A7D4-D400-4D76-B693-D371D623F4F4
+DietaryCarbohydrates,Loop,8,g,3/28/21 23:49,3/28/21 23:49,3/28/21 23:49,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,070AA941-CBF8-4DDE-A40C-AF05AC1772BA
+DietaryCarbohydrates,Loop,105,g,3/28/21 22:58,3/28/21 22:58,3/28/21 22:58,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,A0B87BA4-29E6-4380-9044-105E5F6A5C12
+DietaryCarbohydrates,Loop,8,g,3/28/21 5:52,3/28/21 5:52,3/28/21 5:52,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,3D001BF3-ACB2-4A2E-9864-6FCBACD5B7E7
+DietaryCarbohydrates,Loop,108,g,3/27/21 21:37,3/27/21 21:37,3/27/21 21:37,,,10800,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,6A2CA87D-82F8-4238-9B1A-ACB522CDD348
+DietaryCarbohydrates,Loop,8,g,3/27/21 4:15,3/27/21 4:15,3/27/21 4:16,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,D09CED5F-45C6-4148-99C1-275EFE2A81FA
+DietaryCarbohydrates,Loop,106,g,3/26/21 19:50,3/26/21 19:50,3/26/21 19:50,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,AB761994-4186-4D1A-AB9A-0C4A2838CD57
+DietaryCarbohydrates,Loop,16,g,3/26/21 16:10,3/26/21 16:10,3/26/21 16:10,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,0887EE23-F22B-4549-BC33-0556EBCE9701
+DietaryCarbohydrates,Loop,16,g,3/25/21 21:20,3/25/21 21:20,3/25/21 21:20,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,9BB9AE5B-FC78-45FB-9734-2DA1CA250FC5
+DietaryCarbohydrates,Loop,105,g,3/25/21 20:19,3/25/21 20:19,3/25/21 20:20,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,A732B1BB-1A1A-41B3-8A0E-E8729FE2A6A4
+DietaryCarbohydrates,Loop,16,g,3/25/21 9:58,3/25/21 9:58,3/25/21 9:59,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,6F5384A9-CBD7-4AF2-B416-1853CC20B9F7
+DietaryCarbohydrates,Loop,8,g,3/25/21 3:48,3/25/21 3:48,3/25/21 3:48,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,5B5F0169-C508-4D6B-881E-B8C037584FC5
+DietaryCarbohydrates,Loop,8,g,3/24/21 21:43,3/24/21 21:43,3/24/21 21:44,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,F19AA8EE-51EE-481B-BE55-AD6FCA86A467
+DietaryCarbohydrates,Loop,105,g,3/24/21 20:49,3/24/21 20:49,3/24/21 20:50,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,DA69B8A7-A22A-481A-814E-A647365B9207
+DietaryCarbohydrates,Loop,106,g,3/23/21 22:17,3/23/21 22:17,3/23/21 22:17,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,F8620EE6-546C-4AD4-B0F7-05FA4D55D26F
+DietaryCarbohydrates,Loop,16,g,3/23/21 12:36,3/23/21 12:36,3/23/21 12:36,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,740C7F93-8EEC-49BF-8CB6-B7E58A89FC3E
+DietaryCarbohydrates,Loop,8,g,3/23/21 10:51,3/23/21 10:51,3/23/21 10:52,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,B52CFCD8-C7C8-4FB8-A811-379BC90EA593
+DietaryCarbohydrates,Loop,8,g,3/23/21 3:03,3/23/21 3:03,3/23/21 3:04,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,5E369CDC-879F-4DD7-849A-2EB2ECEAC35E
+DietaryCarbohydrates,Loop,8,g,3/23/21 0:05,3/23/21 0:05,3/23/21 0:05,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,7BEEDC88-4D4A-41D9-8535-083AB3CD3078
+DietaryCarbohydrates,Loop,103,g,3/22/21 21:33,3/22/21 21:33,3/22/21 21:33,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,822F3478-4B0B-485C-9604-A32B85DBBBCA
+DietaryCarbohydrates,Loop,8,g,3/22/21 20:09,3/22/21 20:09,3/22/21 20:09,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,39A8EFCA-ABA0-465F-9AC3-E21AAF632442
+DietaryCarbohydrates,Loop,16,g,3/22/21 12:14,3/22/21 12:14,3/22/21 12:15,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,6909D397-54DF-48B8-8C8F-1E7983BF3875
+DietaryCarbohydrates,Loop,110,g,3/21/21 20:44,3/21/21 20:44,3/21/21 20:45,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,38CC2FAB-E1E9-4C6F-B342-35713863B131
+DietaryCarbohydrates,Loop,104,g,3/20/21 22:07,3/20/21 22:07,3/20/21 22:07,,,10800,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,D5169DA7-AD48-48AF-A92C-D75E7F479562
+DietaryCarbohydrates,Loop,16,g,3/20/21 11:57,3/20/21 11:57,3/20/21 11:57,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,27383CF1-8285-487D-ABF9-0957AEC4A52E
+DietaryCarbohydrates,Loop,8,g,3/20/21 5:09,3/20/21 5:09,3/20/21 5:09,,,10800,,1,,57,,,,,,,,,,juice bottle ,,,,,,,3FBFE356-214A-4415-B73E-7004ABC093DB
+DietaryCarbohydrates,Loop,107,g,3/19/21 20:37,3/19/21 20:37,3/19/21 20:37,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,43272C01-1618-4DFE-92FD-6F94D1F785B9
+DietaryCarbohydrates,Loop,8,g,3/19/21 7:02,3/19/21 7:02,3/19/21 7:02,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,A4610632-B5F1-47E5-BF4F-C3F6082B632E
+DietaryCarbohydrates,Loop,16,g,3/18/21 22:00,3/18/21 22:00,3/18/21 22:01,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,09423B29-576C-4BAB-AC27-5F53646CAEE2
+DietaryCarbohydrates,Loop,110,g,3/18/21 19:37,3/18/21 19:37,3/18/21 19:38,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,23D2E34C-DA83-4E98-819D-032BCFFFFFF3
+DietaryCarbohydrates,Loop,16,g,3/18/21 10:43,3/18/21 10:43,3/18/21 10:43,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,5C31D4F7-4DE8-4A71-B019-F63B9417B384
+DietaryCarbohydrates,Loop,8,g,3/18/21 6:10,3/18/21 6:10,3/18/21 6:11,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,76A27DAA-E054-434A-B667-FC3D8A09AADE
+DietaryCarbohydrates,Loop,108,g,3/17/21 20:37,3/17/21 20:37,3/17/21 20:37,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,9FAFFEE4-1F5F-49D6-82AB-B95E40130CE3
+DietaryCarbohydrates,Loop,16,g,3/17/21 0:48,3/17/21 0:48,3/17/21 0:48,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,0347BD97-1E49-4417-A726-362D6CAB6D4F
+DietaryCarbohydrates,Loop,16,g,3/16/21 22:29,3/16/21 22:29,3/16/21 22:29,,,7200,,1,,57,,,,,,,,,,,,,,,,,9F2F9F94-543F-4677-A5B7-5A96BDB2BB9A
+DietaryCarbohydrates,Loop,110,g,3/16/21 21:17,3/16/21 21:17,3/16/21 21:18,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,03AA1A1C-196B-4C3A-B994-0ADEBD1C9B42
+DietaryCarbohydrates,Loop,8,g,3/16/21 10:06,3/16/21 10:06,3/16/21 10:06,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,59AE98F2-1934-42B1-93D0-A70F302D2A8A
+DietaryCarbohydrates,Loop,16,g,3/16/21 3:47,3/16/21 3:47,3/16/21 3:47,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,BA541FA0-16B2-4B3C-96D8-A4F770241E81
+DietaryCarbohydrates,Loop,105,g,3/15/21 20:42,3/15/21 20:42,3/15/21 20:42,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,13A39AB4-D325-4D9C-B114-C74952A21C98
+DietaryCarbohydrates,Loop,16,g,3/15/21 14:53,3/15/21 14:53,3/15/21 14:53,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,DBAFB61C-86D1-4406-B44E-3EDC9E32CE0E
+DietaryCarbohydrates,Loop,8,g,3/15/21 11:30,3/15/21 11:30,3/15/21 11:30,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,A9310368-373F-4F5C-B311-A02A5BB8AA08
+DietaryCarbohydrates,Loop,8,g,3/15/21 5:04,3/15/21 5:04,3/15/21 5:04,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,AE2C8EBB-57B2-4BAA-B1BB-7EB1CE1CCF84
+DietaryCarbohydrates,Loop,16,g,3/15/21 0:21,3/15/21 0:21,3/15/21 0:22,,,7200,,1,,57,,,,,,,,,,grapes ,,,,,,,15E0E566-F755-40F3-B68B-A59D07B56FD8
+DietaryCarbohydrates,Loop,101,g,3/14/21 21:04,3/14/21 21:04,3/14/21 21:04,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,47FE0F3D-C131-4799-9EE2-227883A54965
+DietaryCarbohydrates,Loop,103,g,3/13/21 22:00,3/13/21 22:00,3/13/21 22:01,,,10800,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,12FBB5A6-3757-42EB-A57C-8C0E56F5B12C
+DietaryCarbohydrates,Loop,8,g,3/13/21 10:16,3/13/21 10:16,3/13/21 10:16,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,996E6ED5-F66E-413E-AEFB-3BDF7790C763
+DietaryCarbohydrates,Loop,8,g,3/13/21 6:42,3/13/21 6:42,3/13/21 6:42,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,21900E2F-A81D-48AF-9595-23142AB9091C
+DietaryCarbohydrates,Loop,16,g,3/13/21 0:09,3/13/21 0:09,3/13/21 0:09,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,D4BEA3AF-8EB1-4D3A-BBBB-CF00AE288D2F
+DietaryCarbohydrates,Loop,104,g,3/12/21 22:09,3/12/21 22:09,3/12/21 22:11,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,DCCFFFB0-7C94-492A-8E9D-6BADEFFDA159
+DietaryCarbohydrates,Loop,16,g,3/12/21 21:57,3/12/21 21:57,3/12/21 21:57,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,AD245A8F-FBDF-47B9-B189-F95E681162AB
+DietaryCarbohydrates,Loop,22,g,3/12/21 15:04,3/12/21 15:04,3/12/21 15:04,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,7AAA0CC5-AD15-465B-8325-9124057390D0
+DietaryCarbohydrates,Loop,8,g,3/12/21 8:55,3/12/21 8:55,3/12/21 8:57,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,6071CF6E-6D4E-40A3-A2B8-E408BDE14C72
+DietaryCarbohydrates,Loop,103,g,3/11/21 20:59,3/11/21 20:59,3/11/21 21:00,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,E82F4081-A9AB-453C-913A-B463E51246CE
+DietaryCarbohydrates,Loop,105,g,3/10/21 21:10,3/10/21 21:10,3/10/21 21:10,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,B8A0EC1C-9600-4065-9826-1C84036FAA6B
+DietaryCarbohydrates,Loop,5,g,3/10/21 9:45,3/10/21 9:45,3/10/21 9:45,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,D154E9F2-BAA8-42DF-AFFA-F52F94E685CE
+DietaryCarbohydrates,Loop,16,g,3/9/21 21:17,3/9/21 21:17,3/9/21 21:18,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,FBB4DB9A-147B-435B-85B9-EA2E5B3CFCAD
+DietaryCarbohydrates,Loop,103,g,3/9/21 20:36,3/9/21 20:36,3/9/21 20:36,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,69596DCA-DA7D-4336-8184-E812A79CC6E4
+DietaryCarbohydrates,Loop,8,g,3/9/21 10:40,3/9/21 10:40,3/9/21 10:41,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,6120D9EA-6CEF-4D22-9563-FAC0DB1F9341
+DietaryCarbohydrates,Loop,8,g,3/9/21 6:10,3/9/21 6:10,3/9/21 6:10,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,5EB8166C-5D09-455F-A4E7-F83A189A1BCD
+DietaryCarbohydrates,Loop,106,g,3/8/21 21:59,3/8/21 21:59,3/8/21 21:59,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,4CD34DB4-9FDA-47A6-81E8-7096DCF3A5FE
+DietaryCarbohydrates,Loop,8,g,3/8/21 11:43,3/8/21 11:43,3/8/21 11:43,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,A4F4FA67-99A8-48F8-B106-7B894518FAF4
+DietaryCarbohydrates,Loop,8,g,3/8/21 4:59,3/8/21 4:59,3/8/21 4:59,,,7200,,1,,57,,,,,,,,,,juice bottle  ,,,,,,,5D253791-F4AD-4A53-BC0A-BB982E425544
+DietaryCarbohydrates,Loop,8,g,3/8/21 4:30,3/8/21 4:30,3/8/21 4:30,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,08335027-8C8E-4F3E-B537-3F6043DB1241
+DietaryCarbohydrates,Loop,16,g,3/7/21 22:25,3/7/21 22:25,3/7/21 22:25,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,350FD399-746A-4C85-B65A-1C03B8CC14A5
+DietaryCarbohydrates,Loop,107,g,3/7/21 21:27,3/7/21 21:27,3/7/21 21:28,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,2A18522C-29FE-4B38-B10B-E7C73EBEE518
+DietaryCarbohydrates,Loop,8,g,3/7/21 4:10,3/7/21 4:10,3/7/21 4:10,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,587A3E53-9F62-4FA2-8711-69CFBAA8A33A
+DietaryCarbohydrates,Loop,97,g,3/6/21 23:02,3/6/21 23:02,3/6/21 23:02,,,10800,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,872C12C3-4AA1-4333-A27E-A1C0C24854BF
+DietaryCarbohydrates,Loop,8,g,3/6/21 10:22,3/6/21 10:22,3/6/21 10:22,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,3D3FB5A7-8191-4F97-949C-0C4CC9C68337
+DietaryCarbohydrates,Loop,8,g,3/6/21 5:11,3/6/21 5:11,3/6/21 5:11,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,9F41303A-02AC-4DE2-92E4-123F9EF735DA
+DietaryCarbohydrates,Loop,8,g,3/6/21 4:39,3/6/21 4:39,3/6/21 4:39,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,2759CCBD-D059-450E-A30A-69BA81FAB8E1
+DietaryCarbohydrates,Loop,108,g,3/5/21 21:05,3/5/21 21:05,3/5/21 21:05,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,C3C4E509-CD5E-4106-AF6A-01413EBB0FB6
+DietaryCarbohydrates,Loop,8,g,3/5/21 6:01,3/5/21 6:01,3/5/21 6:01,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,0292882B-7440-4B0B-9A0D-963FCDA70799
+DietaryCarbohydrates,Loop,16,g,3/4/21 21:39,3/4/21 21:39,3/4/21 21:39,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,237DD5D6-0BF2-44F1-BA1C-0C847336076C
+DietaryCarbohydrates,Loop,113,g,3/4/21 20:37,3/4/21 20:37,3/4/21 20:38,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,6BB6B4D2-F8DF-4629-94C9-CEB67A3B2B4E
+DietaryCarbohydrates,Loop,8,g,3/4/21 4:49,3/4/21 4:49,3/4/21 4:49,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,8491E42D-F623-4D8D-A1D1-676A4193E2D9
+DietaryCarbohydrates,Loop,8,g,3/4/21 4:39,3/4/21 4:39,3/4/21 4:40,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,268155AE-EFBF-4391-A4E3-2DEBB0AD50FC
+DietaryCarbohydrates,Loop,16,g,3/3/21 23:23,3/3/21 23:23,3/3/21 23:23,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,5037E286-A3D2-4A15-A813-7A025D97AC77
+DietaryCarbohydrates,Loop,103,g,3/3/21 21:50,3/3/21 21:50,3/3/21 21:51,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,A395AFE1-C378-4DDA-BBF6-FFCE8A7E8A53
+DietaryCarbohydrates,Loop,8,g,3/3/21 4:09,3/3/21 4:09,3/3/21 4:10,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,18EF4042-BA03-4E5C-90E8-8ECBAE133596
+DietaryCarbohydrates,Loop,16,g,3/3/21 1:04,3/3/21 1:04,3/3/21 1:04,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,8DAB43F6-9A98-4173-B529-3ABF7145EBB8
+DietaryCarbohydrates,Loop,104,g,3/2/21 21:36,3/2/21 21:36,3/2/21 21:37,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,7E157D51-EA62-477B-95DC-FF47AF727873
+DietaryCarbohydrates,Loop,8,g,3/2/21 21:16,3/2/21 21:16,3/2/21 21:16,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,5F6743B8-14A1-4178-914B-8C8413530BBB
+DietaryCarbohydrates,Loop,22,g,3/2/21 11:59,3/2/21 11:59,3/2/21 11:59,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,009F4FDC-56DC-465C-9364-416DDA69E102
+DietaryCarbohydrates,Loop,8,g,3/2/21 5:00,3/2/21 5:00,3/2/21 5:01,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,A3E3767B-F38E-4819-AB2B-035E154047E0
+DietaryCarbohydrates,Loop,111,g,3/1/21 21:23,3/1/21 21:23,3/1/21 21:24,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,F0C2865D-8230-4647-8B1D-147D647F0064
+DietaryCarbohydrates,Loop,8,g,3/1/21 12:22,3/1/21 12:22,3/1/21 12:22,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,14B4839A-C576-42B4-9170-5740B80D7020
+DietaryCarbohydrates,Loop,22,g,3/1/21 11:57,3/1/21 11:57,3/1/21 11:57,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,C15DA648-86F0-4D2B-BE45-3F606AD430AE
+DietaryCarbohydrates,Loop,8,g,3/1/21 9:45,3/1/21 9:45,3/1/21 9:45,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,D47E810D-23EC-4AE9-BF6D-4BC600890826
+DietaryCarbohydrates,Loop,8,g,3/1/21 4:53,3/1/21 4:53,3/1/21 4:53,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,A8B9AECF-52F5-4460-93DA-96FD22FB9EB2
+DietaryCarbohydrates,Loop,8,g,3/1/21 4:26,3/1/21 4:26,3/1/21 4:26,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,63CD30BF-4AEF-42D1-ADBA-7FA877967065
+DietaryCarbohydrates,Loop,107,g,2/28/21 21:56,2/28/21 21:56,2/28/21 21:57,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,2A4D5860-F301-4BE6-9B6A-51EE759649B3
+DietaryCarbohydrates,Loop,8,g,2/28/21 6:03,2/28/21 6:03,2/28/21 6:04,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,C50775FA-0A9E-49D8-8761-6954CA221010
+DietaryCarbohydrates,Loop,5,g,2/28/21 5:24,2/28/21 5:24,2/28/21 5:25,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,19B23B3E-16DF-4AF9-B8BE-5EC8DCCCC57D
+DietaryCarbohydrates,Loop,16,g,2/27/21 22:27,2/27/21 22:27,2/27/21 22:27,,,7200,,1,,57,,,,,,,,,,juice ,,,,,,,4EDAF295-43D2-4E2D-989C-0652A4A9BA0C
+DietaryCarbohydrates,Loop,101,g,2/27/21 21:42,2/27/21 21:42,2/27/21 21:43,,,10800,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,82C6BC93-4B53-482B-8F0C-1880ACF0809E
+DietaryCarbohydrates,Loop,22,g,2/27/21 11:36,2/27/21 11:36,2/27/21 11:38,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,F8130468-9EEB-44C7-B361-D27F75FA6D8C
+DietaryCarbohydrates,Loop,8,g,2/27/21 7:40,2/27/21 7:40,2/27/21 7:40,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,EC950203-008D-4916-BF5B-8F08F208C248
+DietaryCarbohydrates,Loop,8,g,2/27/21 4:44,2/27/21 4:44,2/27/21 4:44,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,504A1EB2-04F2-4FFB-8657-C919FCB40A6F
+DietaryCarbohydrates,Loop,107,g,2/26/21 20:20,2/26/21 20:20,2/26/21 20:21,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,78B8A15C-9A32-42EC-91EA-D1AB0F9DC4B9
+DietaryCarbohydrates,Loop,8,g,2/26/21 10:43,2/26/21 10:43,2/26/21 10:44,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,9DC3AFB5-8989-44E2-A590-80E1A3ABF92A
+DietaryCarbohydrates,Loop,8,g,2/26/21 8:57,2/26/21 8:57,2/26/21 8:57,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,B2E55067-59E7-486C-A651-E43E32433CC5
+DietaryCarbohydrates,Loop,115,g,2/25/21 22:38,2/25/21 22:38,2/25/21 22:39,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,C4E409CD-D521-4500-B078-5C52E1FDA818
+DietaryCarbohydrates,Loop,22,g,2/25/21 11:47,2/25/21 11:47,2/25/21 11:47,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,4B5B4CB2-5C67-44F3-9BE1-059953473784
+DietaryCarbohydrates,Loop,8,g,2/25/21 9:31,2/25/21 9:31,2/25/21 9:32,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,4EAAE512-E47C-462F-A191-FEFB60EF54DB
+DietaryCarbohydrates,Loop,8,g,2/25/21 7:57,2/25/21 7:57,2/25/21 7:58,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,9DF79E15-7209-4BE1-9FA8-056AA11004AE
+DietaryCarbohydrates,Loop,16,g,2/25/21 4:19,2/25/21 4:19,2/25/21 4:19,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,98A688F2-AA32-4156-8268-6828F84B7A7F
+DietaryCarbohydrates,Loop,108,g,2/24/21 21:04,2/24/21 21:04,2/24/21 21:05,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,B7536274-2180-4796-94C4-BCA8E4C11E01
+DietaryCarbohydrates,Loop,22,g,2/24/21 12:47,2/24/21 12:47,2/24/21 12:48,,,7200,,1,,57,,,,,,,,,,,,,,,,,58F261A0-D728-4167-A17A-5386C57FD5C0
+DietaryCarbohydrates,Loop,8,g,2/24/21 9:35,2/24/21 9:35,2/24/21 9:35,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,267FD6D5-FB9D-49D0-92E6-9BDD5AED14D9
+DietaryCarbohydrates,Loop,5,g,2/24/21 8:45,2/24/21 8:45,2/24/21 8:45,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,45CC8CF2-40A7-45B5-86B7-1C9CC9326F74
+DietaryCarbohydrates,Loop,8,g,2/24/21 6:43,2/24/21 6:43,2/24/21 6:43,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,362DAA82-3914-4581-A908-7CB2831B963D
+DietaryCarbohydrates,Loop,112,g,2/23/21 21:05,2/23/21 21:05,2/23/21 21:05,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,6BCB91EF-C1C3-4ECB-814A-17AEEBF65152
+DietaryCarbohydrates,Loop,114,g,2/22/21 21:05,2/22/21 21:05,2/22/21 21:05,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,E4765EBE-DFCC-4E4B-BDAC-841AA6704304
+DietaryCarbohydrates,Loop,22,g,2/22/21 14:20,2/22/21 14:20,2/22/21 14:21,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,4303A75D-1BEB-4791-B190-4D8E1F23D83E
+DietaryCarbohydrates,Loop,8,g,2/22/21 10:26,2/22/21 10:26,2/22/21 10:26,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,6738583A-EE07-4A4B-9DE9-8F4AE66B05B5
+DietaryCarbohydrates,Loop,8,g,2/22/21 6:52,2/22/21 6:52,2/22/21 6:52,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,A58BF7C0-8630-420A-9EE8-7DFD2FDD776B
+DietaryCarbohydrates,Loop,108,g,2/21/21 21:40,2/21/21 21:40,2/21/21 21:40,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,7AF16FDA-B11C-4CC4-A079-DBAC8DC295B2
+DietaryCarbohydrates,Loop,8,g,2/21/21 7:31,2/21/21 7:31,2/21/21 7:31,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,D5FA058F-7658-472C-ACA1-33669115DE7E
+DietaryCarbohydrates,Loop,103,g,2/20/21 23:20,2/20/21 23:20,2/20/21 23:21,,,10800,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,4DEFB2DA-D60D-442E-9F00-FDF697BDF41A
+DietaryCarbohydrates,Loop,22,g,2/20/21 12:51,2/20/21 12:51,2/20/21 12:52,,,7200,,1,,57,,,,,,,,,,,,,,,,,FF18F8A3-9EB5-4DE1-9850-63B34D97BE1D
+DietaryCarbohydrates,Loop,8,g,2/20/21 10:22,2/20/21 10:22,2/20/21 10:22,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,B38C0471-9061-40A7-A2DC-B748C2CB1A7E
+DietaryCarbohydrates,Loop,8,g,2/20/21 5:27,2/20/21 5:27,2/20/21 5:27,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,BBE03FE6-E84C-4C65-8B43-0112D5EC80FF
+DietaryCarbohydrates,Loop,8,g,2/20/21 4:50,2/20/21 4:50,2/20/21 4:50,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,A22AC14D-F924-4C5C-88E1-74E55421E422
+DietaryCarbohydrates,Loop,110,g,2/19/21 21:55,2/19/21 21:55,2/19/21 21:56,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,EDCDD6D5-4E21-4DDF-8FE1-E9AF1A98F652
+DietaryCarbohydrates,Loop,22,g,2/19/21 12:27,2/19/21 12:27,2/19/21 12:28,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,B949E360-0518-41F0-A551-7A7B4AAFFA28
+DietaryCarbohydrates,Loop,8,g,2/19/21 10:22,2/19/21 10:22,2/19/21 10:22,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,CA55F582-32D6-4DA1-97DC-3280CE1FF65B
+DietaryCarbohydrates,Loop,8,g,2/19/21 5:05,2/19/21 5:05,2/19/21 5:05,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,B5847596-F79A-41B7-9BE4-B8169D6F290B
+DietaryCarbohydrates,Loop,110,g,2/18/21 20:58,2/18/21 20:58,2/18/21 20:59,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,81356824-AE64-4428-B49C-D5D078657E47
+DietaryCarbohydrates,Loop,22,g,2/18/21 11:21,2/18/21 11:21,2/18/21 11:21,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,EB737A4A-A3DF-4A6F-853E-BF2CACD101C4
+DietaryCarbohydrates,Loop,16,g,2/18/21 9:51,2/18/21 9:51,2/18/21 9:51,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,B79CA8D8-61FE-4747-9F2B-954D72492F4B
+DietaryCarbohydrates,Loop,8,g,2/18/21 7:24,2/18/21 7:24,2/18/21 7:24,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,AAB1BFE6-9973-4180-A34C-0718634565A5
+DietaryCarbohydrates,Loop,8,g,2/18/21 5:15,2/18/21 5:15,2/18/21 5:15,,,10800,,1,,57,,,,,,,,,,juice bottle ,,,,,,,0EC4AEED-90D2-4D92-9D4F-F53024BDE605
+DietaryCarbohydrates,Loop,104,g,2/17/21 20:30,2/17/21 20:30,2/17/21 20:31,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,8A61E4E3-7CE8-45A5-AD57-B91AC1532023
+DietaryCarbohydrates,Loop,8,g,2/17/21 11:02,2/17/21 11:02,2/17/21 11:02,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,C871875C-BA9B-41F3-995D-FC02F926B47D
+DietaryCarbohydrates,Loop,16,g,2/17/21 2:33,2/17/21 2:33,2/17/21 2:33,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,6FB57B36-7960-4F24-A1D6-A4AB90D2CC6C
+DietaryCarbohydrates,Loop,110,g,2/16/21 23:16,2/16/21 23:16,2/16/21 23:16,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,96D1CAB9-25A1-4D95-A283-A484B67DE85A
+DietaryCarbohydrates,Loop,22,g,2/16/21 14:22,2/16/21 14:22,2/16/21 14:23,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,4579A21C-6F9C-4ECD-B0E9-13F367A33FD8
+DietaryCarbohydrates,Loop,8,g,2/16/21 4:20,2/16/21 4:20,2/16/21 4:20,,,10800,,1,,57,,,,,,,,,,juice ,,,,,,,645F822B-FDB6-4CDF-915B-0A669655BC02
+DietaryCarbohydrates,Loop,16,g,2/16/21 2:02,2/16/21 2:02,2/16/21 2:02,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,2658C683-B35E-40F5-9E57-AA384A17F379
+DietaryCarbohydrates,Loop,16,g,2/16/21 0:08,2/16/21 0:08,2/16/21 0:09,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,B1BDBA4A-2E8D-42F1-9F0E-FD4AD53D34B2
+DietaryCarbohydrates,Loop,102,g,2/15/21 23:26,2/15/21 23:26,2/15/21 23:27,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,6D4CB129-F284-431A-9BFC-81D12044BA1F
+DietaryCarbohydrates,Loop,22,g,2/15/21 13:53,2/15/21 13:53,2/15/21 13:53,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,CB21650F-E901-406D-A512-47CEECA3E399
+DietaryCarbohydrates,Loop,8,g,2/15/21 10:43,2/15/21 10:43,2/15/21 10:43,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,36C2C7D9-755B-4D9B-AFB2-8177D3A0FE1E
+DietaryCarbohydrates,Loop,16,g,2/14/21 22:03,2/14/21 22:03,2/14/21 22:04,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,E0090043-E736-47D4-BF7A-918FB1BE4A81
+DietaryCarbohydrates,Loop,109,g,2/14/21 21:00,2/14/21 21:00,2/14/21 21:01,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,6E151C64-B9B2-49D2-944F-61053C6CCEF0
+DietaryCarbohydrates,Loop,22,g,2/14/21 17:11,2/14/21 17:11,2/14/21 17:12,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,11D456F8-96B0-4410-9670-FB8C7736C2DE
+DietaryCarbohydrates,Loop,8,g,2/14/21 9:01,2/14/21 9:01,2/14/21 9:01,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,65557F57-CC80-46A3-879C-8B77F1240959
+DietaryCarbohydrates,Loop,105,g,2/13/21 21:32,2/13/21 21:32,2/13/21 21:33,,,10800,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,9B7AE761-B41D-499A-AA97-F9EE7F4FE3C4
+DietaryCarbohydrates,Loop,18,g,2/13/21 12:07,2/13/21 12:07,2/13/21 12:09,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,69F53F95-595E-46C8-9E78-3BFC86B980A4
+DietaryCarbohydrates,Loop,8,g,2/13/21 6:03,2/13/21 6:03,2/13/21 6:03,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,13E1AB07-6235-4DBF-A4CA-46C03ADCC2C6
+DietaryCarbohydrates,Loop,8,g,2/13/21 4:29,2/13/21 4:29,2/13/21 4:30,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,3C3ED1FB-63B0-4464-92BB-41E763DD3E46
+DietaryCarbohydrates,Loop,105,g,2/12/21 21:13,2/12/21 21:13,2/12/21 21:14,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,C0F527F8-1713-4E7B-8B4D-1F743693FED0
+DietaryCarbohydrates,Loop,21,g,2/12/21 10:01,2/12/21 10:01,2/12/21 10:01,,,10800,,1,,57,,,,,,,,,,,,,,,,,507420AB-8ABC-49FB-A393-00D3AE36059E
+DietaryCarbohydrates,Loop,8,g,2/12/21 9:22,2/12/21 9:22,2/12/21 9:22,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,F82A6F6C-6F74-459B-B976-38442C175DB7
+DietaryCarbohydrates,Loop,8,g,2/12/21 6:42,2/12/21 6:42,2/12/21 6:42,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,D1789D38-FE58-445E-921E-2757A99C3C68
+DietaryCarbohydrates,Loop,105,g,2/11/21 20:33,2/11/21 20:33,2/11/21 20:34,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,CE331E5B-3F6D-4840-991B-6C55FC2714AF
+DietaryCarbohydrates,Loop,22,g,2/11/21 11:40,2/11/21 11:40,2/11/21 11:41,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,9B39D074-85CB-4655-912F-1FD388852A6D
+DietaryCarbohydrates,Loop,8,g,2/11/21 7:29,2/11/21 7:29,2/11/21 7:30,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,831CD9EC-CA17-4CA4-9C84-7C35429B3C76
+DietaryCarbohydrates,Loop,108,g,2/10/21 20:43,2/10/21 20:43,2/10/21 20:44,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,E07AC3C7-AC20-4765-B4CF-D72A049F8ECF
+DietaryCarbohydrates,Loop,22,g,2/10/21 10:46,2/10/21 10:46,2/10/21 10:46,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,1647FE3E-EE67-41EC-9F95-E7CDB0C19348
+DietaryCarbohydrates,Loop,8,g,2/10/21 7:49,2/10/21 7:49,2/10/21 7:49,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,1F6A4431-D45C-49E0-AC92-CDEBF47240A4
+DietaryCarbohydrates,Loop,16,g,2/10/21 0:09,2/10/21 0:09,2/10/21 0:09,,,7200,,1,,57,,,,,,,,,,grapes cc,,,,,,,8085D21D-A301-40C6-9B64-531F5BB86207
+DietaryCarbohydrates,Loop,110,g,2/9/21 20:52,2/9/21 20:52,2/9/21 20:54,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,8CB8E4CA-5B10-4527-97EA-56D830F531B0
+DietaryCarbohydrates,Loop,8,g,2/9/21 20:46,2/9/21 20:46,2/9/21 20:46,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,D2F84951-005A-479F-9742-EEF86ECC1016
+DietaryCarbohydrates,Loop,16,g,2/9/21 11:41,2/9/21 11:41,2/9/21 11:41,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,AD003A22-9BBE-4AE5-8C2F-9BE9EE15B144
+DietaryCarbohydrates,Loop,8,g,2/9/21 9:40,2/9/21 9:40,2/9/21 9:40,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,0745040E-ADE2-4213-9765-FDCCF60D873D
+DietaryCarbohydrates,Loop,8,g,2/9/21 7:49,2/9/21 7:49,2/9/21 7:49,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,7FE0F3E5-3E5D-4E7E-B264-040092D64588
+DietaryCarbohydrates,Loop,105,g,2/8/21 20:44,2/8/21 20:44,2/8/21 20:44,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,7197F257-1752-455B-A348-EDD17300224F
+DietaryCarbohydrates,Loop,16,g,2/8/21 14:23,2/8/21 14:23,2/8/21 14:23,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,2914B126-ACF3-4A5E-845A-69CBF5BEF1D5
+DietaryCarbohydrates,Loop,16,g,2/7/21 22:49,2/7/21 22:49,2/7/21 22:50,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,D976CD86-A2BD-4C9F-B4A4-F0F8E60E11D3
+DietaryCarbohydrates,Loop,107,g,2/7/21 22:04,2/7/21 22:04,2/7/21 22:05,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,8E3D70AF-8489-41F9-98BC-88EB3B549667
+DietaryCarbohydrates,Loop,16,g,2/7/21 1:13,2/7/21 1:13,2/7/21 1:45,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,46C32C58-2206-4C99-8A8F-CBF83D55E5A1
+DietaryCarbohydrates,Loop,110,g,2/6/21 23:49,2/6/21 23:49,2/6/21 23:50,,,10800,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,155092F9-78BF-4369-94EA-80C9E0CFFD7D
+DietaryCarbohydrates,Loop,16,g,2/6/21 13:54,2/6/21 13:54,2/6/21 13:54,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,B57210AD-DB22-42D8-8AC0-B4BC52D922C0
+DietaryCarbohydrates,Loop,8,g,2/6/21 11:15,2/6/21 11:15,2/6/21 11:15,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,4652866F-C9D1-4987-876C-15DD8E817EAE
+DietaryCarbohydrates,Loop,8,g,2/6/21 10:49,2/6/21 10:49,2/6/21 10:49,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,DA24BCE5-5077-4AF0-B039-22FD9AE30740
+DietaryCarbohydrates,Loop,18,g,2/6/21 0:39,2/6/21 0:39,2/6/21 0:41,,,7200,,2,,57,,,,,,,,,,juice bottle ,,,,,,,6D27C18D-1C3D-4B0E-8539-B6E61C7B3DC5
+DietaryCarbohydrates,Loop,124,g,2/5/21 23:37,2/5/21 23:37,2/5/21 23:38,,,10800,,1,,57,,,,,,,,,,potato sop salad cb ,,,,,,,F29764A3-E4FA-4F75-8F82-ABAFF7DA5079
+DietaryCarbohydrates,Loop,8,g,2/5/21 23:00,2/5/21 23:00,2/5/21 23:00,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,431D4F6A-41CD-4AA0-B504-17E9130A3AF3
+DietaryCarbohydrates,Loop,16,g,2/5/21 12:50,2/5/21 12:50,2/5/21 12:50,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,F01E5FC7-4470-4C3C-80FA-73D91A8CB5ED
+DietaryCarbohydrates,Loop,8,g,2/5/21 9:42,2/5/21 9:42,2/5/21 9:42,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,E8DA63B4-91D4-4B57-9ABD-2C448461D17E
+DietaryCarbohydrates,Loop,8,g,2/5/21 9:02,2/5/21 9:02,2/5/21 9:02,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,569740B4-F4B8-441B-97B2-F12E7C346069
+DietaryCarbohydrates,Loop,8,g,2/5/21 6:47,2/5/21 6:47,2/5/21 6:47,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,5D3FFBCB-FAEB-4866-8710-4F66898513E5
+DietaryCarbohydrates,Loop,8,g,2/5/21 3:42,2/5/21 3:42,2/5/21 3:42,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,FBE897FA-C53C-44D4-9CD6-D3DD56D1AC1A
+DietaryCarbohydrates,Loop,108,g,2/4/21 20:47,2/4/21 20:47,2/4/21 20:48,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,9ED77D1E-22F7-4867-8C60-CCA1BD72E58E
+DietaryCarbohydrates,Loop,16,g,2/4/21 10:20,2/4/21 10:20,2/4/21 10:21,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,1F31D7E4-C7FB-4981-9DF5-D2C2638562B2
+DietaryCarbohydrates,Loop,8,g,2/4/21 9:21,2/4/21 9:21,2/4/21 9:21,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,D79D85F0-755F-4827-8003-9C19DFD01435
+DietaryCarbohydrates,Loop,8,g,2/4/21 4:51,2/4/21 4:51,2/4/21 4:52,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,3BC1B6D0-3D53-43F6-BF1C-EC5E71B88924
+DietaryCarbohydrates,Loop,109,g,2/3/21 20:53,2/3/21 20:53,2/3/21 20:54,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,6C458556-EF3B-4F90-8D03-E5EC1CDE6D24
+DietaryCarbohydrates,Loop,16,g,2/3/21 12:00,2/3/21 12:00,2/3/21 12:01,,,7200,,2,,57,,,,,,,,,,juice bottle ,,,,,,,D62C9A14-A7BF-4972-8E1A-FFEEFD047ADD
+DietaryCarbohydrates,Loop,13,g,2/3/21 11:50,2/3/21 11:50,2/3/21 11:50,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,48D53140-A21A-4E7C-914D-3F512C04B363
+DietaryCarbohydrates,Loop,8,g,2/3/21 10:03,2/3/21 10:03,2/3/21 10:03,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,7A56C7C7-A8E8-471F-B62C-F2A57F9FFF56
+DietaryCarbohydrates,Loop,8,g,2/3/21 9:31,2/3/21 9:31,2/3/21 9:31,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,C4024B48-4E19-44C3-BF6A-C59F902BAD2E
+DietaryCarbohydrates,Loop,16,g,2/3/21 4:51,2/3/21 4:51,2/3/21 4:51,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,BC1CE31A-3951-4746-BA7E-24D3AC84910F
+DietaryCarbohydrates,Loop,8,g,2/3/21 3:44,2/3/21 3:44,2/3/21 3:44,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,21F54D32-9E29-47DB-8614-A39E0103B0C8
+DietaryCarbohydrates,Loop,8,g,2/2/21 22:36,2/2/21 22:36,2/2/21 22:36,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,F9D76F75-6298-4C1F-902F-FF5214484F79
+DietaryCarbohydrates,Loop,110,g,2/2/21 20:32,2/2/21 20:32,2/2/21 20:33,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,B8C88511-E57F-45F3-AF9B-687EB0C7714E
+DietaryCarbohydrates,Loop,8,g,2/2/21 19:40,2/2/21 19:40,2/2/21 19:41,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,CA3713B1-316B-4099-AF84-CFD9B1F4E12E
+DietaryCarbohydrates,Loop,16,g,2/2/21 14:23,2/2/21 14:23,2/2/21 14:23,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,E4959083-3891-4446-A5AF-26B471B1E7C5
+DietaryCarbohydrates,Loop,8,g,2/2/21 8:15,2/2/21 8:15,2/2/21 8:16,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,2786E1C1-10FA-4DB3-9599-893C7AD9CC3E
+DietaryCarbohydrates,Loop,8,g,2/2/21 5:04,2/2/21 5:04,2/2/21 5:04,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,74988CA9-727B-46A4-8D99-9FE8284C475A
+DietaryCarbohydrates,Loop,107,g,2/1/21 20:23,2/1/21 20:23,2/1/21 20:24,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,50F4283A-347A-4B5D-985A-C35B58B99823
+DietaryCarbohydrates,Loop,21,g,2/1/21 14:12,2/1/21 14:12,2/1/21 14:13,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,BEA9A57D-6975-4902-9558-2DCCCEC32401
+DietaryCarbohydrates,Loop,8,g,2/1/21 11:48,2/1/21 11:48,2/1/21 11:49,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,BAAE9053-48B5-4940-9182-71F32148CE2D
+DietaryCarbohydrates,Loop,8,g,2/1/21 7:11,2/1/21 7:11,2/1/21 7:11,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,C57C123B-733B-48B0-AC60-F11EA5476787
+DietaryCarbohydrates,Loop,108,g,1/31/21 21:07,1/31/21 21:07,1/31/21 21:08,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,D5162EB1-ED8F-4DCC-83EF-4100BBC6D522
+DietaryCarbohydrates,Loop,21,g,1/31/21 10:03,1/31/21 10:03,1/31/21 10:03,,,10800,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,79BC91EC-FC41-4137-8626-CF844BEDD2C0
+DietaryCarbohydrates,Loop,8,g,1/31/21 4:55,1/31/21 4:55,1/31/21 4:55,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,E15C27A7-BE74-477B-8232-5966D8C50392
+DietaryCarbohydrates,Loop,112,g,1/30/21 23:57,1/30/21 23:57,1/30/21 23:59,,,10800,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,D34C8841-96C2-42F1-B3EA-B6D8B17B6C04
+DietaryCarbohydrates,Loop,8,g,1/30/21 21:39,1/30/21 21:39,1/30/21 21:39,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,F8034FE1-3890-45E9-89B2-9E0A9C24AE9D
+DietaryCarbohydrates,Loop,16,g,1/30/21 18:19,1/30/21 18:19,1/30/21 18:19,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,13B82C28-0CFD-4BA5-AE30-09039351060D
+DietaryCarbohydrates,Loop,8,g,1/30/21 11:38,1/30/21 11:38,1/30/21 11:38,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,07453E74-AB3B-451B-8A37-DA5153F98D2A
+DietaryCarbohydrates,Loop,16,g,1/30/21 0:10,1/30/21 0:10,1/30/21 0:10,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,FFCA791C-6FF3-448B-AA13-63C1451000BC
+DietaryCarbohydrates,Loop,105,g,1/29/21 21:08,1/29/21 21:08,1/29/21 21:09,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,899F15C4-91C4-467B-A655-140EFE23321C
+DietaryCarbohydrates,Loop,16,g,1/29/21 11:43,1/29/21 11:43,1/29/21 11:44,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,E440FCF2-244B-428C-BD9F-AE0F467B4B86
+DietaryCarbohydrates,Loop,8,g,1/29/21 8:49,1/29/21 8:49,1/29/21 8:49,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,16816DD2-8F9F-4E19-8774-E046CCD16750
+DietaryCarbohydrates,Loop,16,g,1/28/21 21:37,1/28/21 21:37,1/28/21 21:37,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,1E9688BE-A8C7-4786-9F39-7F21C9896BE6
+DietaryCarbohydrates,Loop,109,g,1/28/21 20:52,1/28/21 20:52,1/28/21 20:53,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,4C22AE73-AEA8-4F5A-82E1-58BCA2CD7211
+DietaryCarbohydrates,Loop,8,g,1/28/21 15:24,1/28/21 15:24,1/28/21 15:25,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,C9A75784-7977-4F53-AE8C-FA73C3C09941
+DietaryCarbohydrates,Loop,8,g,1/28/21 7:05,1/28/21 7:05,1/28/21 7:05,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,911839E2-EFCB-46B8-91D9-2AC5AC3AACF5
+DietaryCarbohydrates,Loop,8,g,1/28/21 3:59,1/28/21 3:59,1/28/21 3:59,,,10800,,1,,57,,,,,,,,,,juice bottle ,,,,,,,5A4C6250-066F-4FA2-A4DE-5B2BCBA4C3B0
+DietaryCarbohydrates,Loop,16,g,1/27/21 23:00,1/27/21 23:00,1/27/21 23:00,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,E86AAF1A-4246-4702-A3F8-6775BD923BCB
+DietaryCarbohydrates,Loop,105,g,1/27/21 20:43,1/27/21 20:43,1/27/21 20:43,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,B4FF3E9E-4422-4BD0-A0C4-72984EC3C9E6
+DietaryCarbohydrates,Loop,16,g,1/27/21 19:35,1/27/21 19:35,1/27/21 19:36,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,61C121E3-5613-451D-B94F-A0737679F8E1
+DietaryCarbohydrates,Loop,8,g,1/27/21 12:52,1/27/21 12:52,1/27/21 12:52,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,D3F74A08-75B1-4700-BA45-92210582277E
+DietaryCarbohydrates,Loop,107,g,1/27/21 0:02,1/27/21 0:02,1/27/21 0:03,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,424896FF-6F1E-44AD-AA34-633329B88342
+DietaryCarbohydrates,Loop,16,g,1/26/21 9:58,1/26/21 9:58,1/26/21 9:59,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,B1D8321D-526C-4E36-B374-B4BA7FDEA39A
+DietaryCarbohydrates,Loop,8,g,1/26/21 8:47,1/26/21 8:47,1/26/21 8:47,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,02DA0B00-F268-41A7-90F6-0277D8FBE936
+DietaryCarbohydrates,Loop,8,g,1/26/21 5:32,1/26/21 5:32,1/26/21 5:32,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,A18DB140-3E2D-4645-9001-C65592D1D164
+DietaryCarbohydrates,Loop,107,g,1/25/21 20:32,1/25/21 20:32,1/25/21 20:33,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,4AB5B008-4873-4CDE-BA0B-9130C9D23B85
+DietaryCarbohydrates,Loop,16,g,1/25/21 12:13,1/25/21 12:13,1/25/21 12:14,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,7F72FEF4-1BFC-4D43-AA3E-3E0DEC8FFE30
+DietaryCarbohydrates,Loop,8,g,1/25/21 11:53,1/25/21 11:53,1/25/21 11:53,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,7E4ED34A-1743-4BA1-B4CD-69FF58C6D6E8
+DietaryCarbohydrates,Loop,8,g,1/25/21 9:17,1/25/21 9:17,1/25/21 9:17,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,C5A509AB-268A-4690-B9D7-4534848B141A
+DietaryCarbohydrates,Loop,8,g,1/25/21 8:21,1/25/21 8:21,1/25/21 8:22,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,BA1DDF7D-74E1-44BD-8733-3C44CF3DC943
+DietaryCarbohydrates,Loop,8,g,1/25/21 6:14,1/25/21 6:14,1/25/21 6:15,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,B09FB5DB-6F82-4BB3-A4E9-498B24CCFF5F
+DietaryCarbohydrates,Loop,107,g,1/24/21 20:15,1/24/21 20:15,1/24/21 20:16,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,690A0727-1B75-4D2E-A9A1-539D56EAC4AC
+DietaryCarbohydrates,Loop,111,g,1/23/21 20:55,1/23/21 20:55,1/23/21 20:56,,,10800,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,BD0083E0-7E40-4299-A0AF-4C15F2B3A700
+DietaryCarbohydrates,Loop,8,g,1/23/21 10:10,1/23/21 10:10,1/23/21 10:10,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,D5C5163B-A44F-4D2B-8371-1C09380AE4FF
+DietaryCarbohydrates,Loop,8,g,1/23/21 6:57,1/23/21 6:57,1/23/21 6:58,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,C73A2745-2967-4DAF-AD7B-8C7C232C992B
+DietaryCarbohydrates,Loop,112,g,1/22/21 20:50,1/22/21 20:50,1/22/21 20:51,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,DB63E6C8-AFA8-4329-947F-DD03C3DF0E9F
+DietaryCarbohydrates,Loop,8,g,1/22/21 9:14,1/22/21 9:14,1/22/21 9:15,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,17D6D3F6-63B3-4EF0-BA81-C28BA2B3DD32
+DietaryCarbohydrates,Loop,109,g,1/21/21 20:40,1/21/21 20:40,1/21/21 20:40,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,3960BDC6-C70C-4B8B-A527-D7FE1BD1BA87
+DietaryCarbohydrates,Loop,16,g,1/21/21 11:58,1/21/21 11:58,1/21/21 11:59,,,7200,,1,,57,,,,,,,,,,juice ,,,,,,,F2BA847A-3B07-437D-AD1C-B9E571AC7462
+DietaryCarbohydrates,Loop,16,g,1/21/21 9:49,1/21/21 9:49,1/21/21 9:53,,,7200,,2,,57,,,,,,,,,,juice bottle ,,,,,,,490A826E-05CC-40BD-BBAE-F6A2BA2EEAAC
+DietaryCarbohydrates,Loop,8,g,1/21/21 4:29,1/21/21 4:29,1/21/21 4:29,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,7DE643C1-F29D-4F89-8B71-2106314D6024
+DietaryCarbohydrates,Loop,16,g,1/21/21 1:17,1/21/21 1:17,1/21/21 1:17,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,74B3B9B7-BE43-4D99-BB81-14F39748965F
+DietaryCarbohydrates,Loop,106,g,1/21/21 0:23,1/21/21 0:23,1/21/21 0:23,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,18EF4CA8-9B02-416F-A20E-EE08E963C40C
+DietaryCarbohydrates,Loop,16,g,1/20/21 9:47,1/20/21 9:47,1/20/21 9:47,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,F0940ACA-EB9B-453C-8A1A-E0889039878A
+DietaryCarbohydrates,Loop,8,g,1/20/21 9:15,1/20/21 9:15,1/20/21 9:15,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,BBCF0914-DD2C-4458-A217-16AD8C68100D
+DietaryCarbohydrates,Loop,8,g,1/20/21 6:24,1/20/21 6:24,1/20/21 6:25,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,F9AEA460-5A98-4F67-834C-AC52341CFE7A
+DietaryCarbohydrates,Loop,104,g,1/19/21 20:35,1/19/21 20:35,1/19/21 20:36,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,5B2496ED-E8FB-4EEF-AA74-4AB2B42E8A3A
+DietaryCarbohydrates,Loop,16,g,1/19/21 8:23,1/19/21 8:23,1/19/21 8:23,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,F7DBF320-6216-4085-80A0-8CDA8E83825B
+DietaryCarbohydrates,Loop,8,g,1/19/21 4:42,1/19/21 4:42,1/19/21 4:43,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,F37AB920-CF67-4184-B5C4-A3C1049E6D2B
+DietaryCarbohydrates,Loop,106,g,1/18/21 20:35,1/18/21 20:35,1/18/21 20:35,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,3BA87A97-758D-46C2-ABEC-EB910A191A01
+DietaryCarbohydrates,Loop,8,g,1/18/21 9:57,1/18/21 9:57,1/18/21 9:58,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,0192FC4B-0A18-4122-BD7F-944B3AFB5FD1
+DietaryCarbohydrates,Loop,16,g,1/18/21 2:58,1/18/21 2:58,1/18/21 2:59,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,C1258BA6-D9F0-4D8F-9083-725C9F8BC24B
+DietaryCarbohydrates,Loop,16,g,1/17/21 23:05,1/17/21 23:05,1/17/21 23:05,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,16194F85-23C7-41BB-84FC-438E0AA0B046
+DietaryCarbohydrates,Loop,100,g,1/17/21 22:36,1/17/21 22:36,1/17/21 22:37,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,9BDCB7FD-F409-47E0-9058-5694E4272D06
+DietaryCarbohydrates,Loop,16,g,1/17/21 13:35,1/17/21 13:35,1/17/21 13:36,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,26CF2B21-65C0-4287-90B9-5EE3F87D7548
+DietaryCarbohydrates,Loop,8,g,1/17/21 4:39,1/17/21 4:39,1/17/21 4:39,,,7200,,1,,57,,,,,,,,,,juice ,,,,,,,E9E4707C-8830-4F99-BB18-805C7D75B859
+DietaryCarbohydrates,Loop,8,g,1/17/21 4:09,1/17/21 4:09,1/17/21 4:09,,,7200,,1,,57,,,,,,,,,,juice ,,,,,,,20B1CA69-C9BF-4883-84E1-D78CE9AA762A
+DietaryCarbohydrates,Loop,106,g,1/16/21 23:45,1/16/21 23:45,1/16/21 23:46,,,10800,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,31E73FE7-2FD1-4EEE-BA32-735420BC4CA9
+DietaryCarbohydrates,Loop,16,g,1/16/21 10:33,1/16/21 10:33,1/16/21 10:33,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,18CC9F6C-8754-41D8-A27A-7ADE9D9E3CBA
+DietaryCarbohydrates,Loop,16,g,1/16/21 6:54,1/16/21 6:54,1/16/21 6:54,,,7200,,1,,57,,,,,,,,,,juice ,,,,,,,0719406B-B69F-47B2-A0D0-DADD50CC097F
+DietaryCarbohydrates,Loop,105,g,1/15/21 20:57,1/15/21 20:57,1/15/21 20:58,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,F09DAA3D-E60D-48DB-850D-9D001474E927
+DietaryCarbohydrates,Loop,8,g,1/15/21 19:08,1/15/21 19:08,1/15/21 19:08,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,B567111E-075D-4BCF-ADCC-770A9544A8BE
+DietaryCarbohydrates,Loop,8,g,1/15/21 9:40,1/15/21 9:40,1/15/21 10:47,,,10800,,2,,57,,,,,,,,,,grapes c&c ,,,,,,,41028F7D-6F32-458D-93FD-B7AFAC5D7309
+DietaryCarbohydrates,Loop,8,g,1/15/21 8:22,1/15/21 8:22,1/15/21 8:22,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,D5E0DA81-67ED-4B54-B26A-344887FF141D
+DietaryCarbohydrates,Loop,105,g,1/14/21 20:57,1/14/21 20:57,1/14/21 20:57,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,4D66D34F-3B93-4572-8477-BF46D7A74C29
+DietaryCarbohydrates,Loop,8,g,1/14/21 10:19,1/14/21 10:19,1/14/21 10:20,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,72111990-A6AD-40CB-85D5-733DB38EFEFB
+DietaryCarbohydrates,Loop,16,g,1/14/21 10:02,1/14/21 10:02,1/14/21 10:03,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,DA6ACF0A-120E-4B92-AE64-BC90ACFCAA76
+DietaryCarbohydrates,Loop,8,g,1/14/21 8:44,1/14/21 8:44,1/14/21 8:44,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,35FEED42-9293-4B55-A04B-DE08F7897A30
+DietaryCarbohydrates,Loop,8,g,1/14/21 3:14,1/14/21 3:14,1/14/21 3:15,,,7200,,1,,57,,,,,,,,,,,,,,,,,F0E5B9E5-8C16-4FD0-B6D1-9806F60D699F
+DietaryCarbohydrates,Loop,106,g,1/14/21 0:05,1/14/21 0:05,1/14/21 0:06,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,9E1FF1CC-1431-4D82-B67A-856945738DE6
+DietaryCarbohydrates,Loop,8,g,1/13/21 9:23,1/13/21 9:23,1/13/21 9:23,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,85304F4D-62B4-40FD-ABCC-A3D6B17EE4CA
+DietaryCarbohydrates,Loop,108,g,1/12/21 20:45,1/12/21 20:45,1/12/21 20:46,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,9A6749B5-381B-4B3A-923E-AB03943DAADA
+DietaryCarbohydrates,Loop,8,g,1/12/21 6:00,1/12/21 6:00,1/12/21 6:00,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,3DFD117D-15DD-44FA-90B9-945567CB4F11
+DietaryCarbohydrates,Loop,26,g,1/12/21 0:05,1/12/21 0:05,1/12/21 0:06,,,7200,,2,,57,,,,,,,,,,juice bottle ,,,,,,,380B2B8A-04BA-491B-A470-F1BCBDE0EE04
+DietaryCarbohydrates,Loop,108,g,1/11/21 23:08,1/11/21 23:08,1/11/21 23:09,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,4E2D0554-59EF-4533-ABD0-1CD7BCB0DE1C
+DietaryCarbohydrates,Loop,16,g,1/11/21 8:45,1/11/21 8:45,1/11/21 8:46,,,7200,,1,,57,,,,,,,,,,juice grapes c&c ,,,,,,,AE778B53-4623-4848-A78B-88BABAFC9123
+DietaryCarbohydrates,Loop,16,g,1/10/21 21:29,1/10/21 21:29,1/10/21 21:29,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,5102F2B0-70FD-476B-9F78-0B6B5CD3AF82
+DietaryCarbohydrates,Loop,105,g,1/10/21 20:46,1/10/21 20:46,1/10/21 20:46,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,04A50836-86AF-43B1-A86A-B199FAE6E1AE
+DietaryCarbohydrates,Loop,16,g,1/10/21 10:02,1/10/21 10:02,1/10/21 10:02,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,23D26DF0-10AC-4B67-B991-AA016B2A02FE
+DietaryCarbohydrates,Loop,103,g,1/9/21 21:08,1/9/21 21:08,1/9/21 21:09,,,10800,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,CAAEE7F8-4BA2-448B-9288-C1CEEC44976F
+DietaryCarbohydrates,Loop,16,g,1/9/21 10:03,1/9/21 10:03,1/9/21 10:03,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,25EF4079-E4F8-41B9-AAB1-AF498D1D843E
+DietaryCarbohydrates,Loop,110,g,1/8/21 23:01,1/8/21 23:01,1/8/21 23:02,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,D7A62145-D66B-4399-856C-BBB52377018B
+DietaryCarbohydrates,Loop,16,g,1/8/21 10:24,1/8/21 10:24,1/8/21 10:25,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,7A7E34A1-090D-4320-A21E-B0694C0D6302
+DietaryCarbohydrates,Loop,16,g,1/8/21 4:41,1/8/21 4:41,1/8/21 4:41,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,8C5C2F49-31FA-43AF-B4DE-ED80B63A32E0
+DietaryCarbohydrates,Loop,16,g,1/8/21 4:10,1/8/21 4:10,1/8/21 4:50,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,53CC1010-79D8-4FD9-9A12-EE8FF8C97647
+DietaryCarbohydrates,Loop,16,g,1/8/21 3:58,1/8/21 3:58,1/8/21 3:59,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,83C1D8EB-C313-4B97-A7C2-1B947F2479AE
+DietaryCarbohydrates,Loop,16,g,1/7/21 23:23,1/7/21 23:23,1/7/21 23:23,,,7200,,1,,57,,,,,,,,,,,,,,,,,3A9D17A7-1DA4-4429-B09D-996A91340E23
+DietaryCarbohydrates,Loop,105,g,1/7/21 22:21,1/7/21 22:21,1/7/21 22:21,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,B374DA85-CD28-4BC7-A50E-B462D52C597A
+DietaryCarbohydrates,Loop,8,g,1/7/21 12:49,1/7/21 12:49,1/7/21 12:49,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,DFBDFBD7-4A4C-43E8-BAE2-0861253C9993
+DietaryCarbohydrates,Loop,8,g,1/7/21 7:28,1/7/21 7:28,1/7/21 7:28,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,1A978853-16DA-4F88-8713-225C83A85A50
+DietaryCarbohydrates,Loop,106,g,1/6/21 23:13,1/6/21 23:13,1/6/21 23:14,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,DC137E80-EB5C-4F71-9D4C-77B3D880079F
+DietaryCarbohydrates,Loop,16,g,1/6/21 10:00,1/6/21 10:00,1/6/21 10:00,,,10800,,1,,57,,,,,,,,,,juice bottle ,,,,,,,1630EF25-0D1B-44A5-8B2E-43B3E1957C90
+DietaryCarbohydrates,Loop,8,g,1/6/21 8:34,1/6/21 8:34,1/6/21 8:34,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,1D5F196B-DD58-4B4E-B63A-819DE9036D56
+DietaryCarbohydrates,Loop,8,g,1/6/21 8:15,1/6/21 8:15,1/6/21 8:15,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,0C2D066D-0F10-4C4B-99C7-5427FBAE7EAD
+DietaryCarbohydrates,Loop,112,g,1/5/21 20:49,1/5/21 20:49,1/5/21 20:49,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,5B90C8D2-5727-4DAE-B107-41B96B52A36C
+DietaryCarbohydrates,Loop,8,g,1/5/21 19:05,1/5/21 19:05,1/5/21 19:41,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,E8604F68-39DE-4E3F-AB58-86C0F684A48E
+DietaryCarbohydrates,Loop,8,g,1/5/21 10:18,1/5/21 10:18,1/5/21 10:18,,,7200,,1,,57,,,,,,,,,,c&c grapes ,,,,,,,9FA38E71-70AA-4F71-B351-5233F878A290
+DietaryCarbohydrates,Loop,8,g,1/5/21 6:33,1/5/21 6:33,1/5/21 6:34,,,7200,,1,,57,,,,,,,,,,juice ,,,,,,,FC46B6D5-5493-4324-AD34-B8CB8F6F6E7F
+DietaryCarbohydrates,Loop,8,g,1/5/21 6:20,1/5/21 6:20,1/5/21 6:21,,,7200,,1,,57,,,,,,,,,,juice ,,,,,,,03C9DADF-8643-4D42-AF22-ED40FF578C10
+DietaryCarbohydrates,Loop,106,g,1/4/21 20:50,1/4/21 20:50,1/4/21 20:50,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,01D350E0-74D9-4CF3-B396-5945EAF3C0B0
+DietaryCarbohydrates,Loop,8,g,1/4/21 19:48,1/4/21 19:48,1/4/21 19:48,,,10800,,1,,57,,,,,,,,,,c&c grapes ,,,,,,,3B83E57F-2161-400E-BBFA-7A9541FCC2B3
+DietaryCarbohydrates,Loop,8,g,1/4/21 8:33,1/4/21 8:33,1/4/21 8:33,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,6BE39874-2739-4BD8-A8C7-D7FFA9DF28A8
+DietaryCarbohydrates,Loop,8,g,1/4/21 6:45,1/4/21 6:45,1/4/21 6:45,,,7200,,1,,57,,,,,,,,,,juice ,,,,,,,DC93480B-7F58-4305-A06D-E779820E3250
+DietaryCarbohydrates,Loop,108,g,1/3/21 20:03,1/3/21 20:03,1/3/21 20:03,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,D59933E0-37F9-408F-904C-E4DD1CD15961
+DietaryCarbohydrates,Loop,8,g,1/3/21 8:20,1/3/21 8:20,1/3/21 8:21,,,7200,,1,,57,,,,,,,,,,juice ,,,,,,,E0FFC11D-58AE-4F70-8BB9-8552F377BE7A
+DietaryCarbohydrates,Loop,116,g,1/2/21 21:38,1/2/21 21:38,1/2/21 21:38,,,10800,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,2573007D-1F6E-46C5-B699-65496DD07192
+DietaryCarbohydrates,Loop,8,g,1/2/21 7:30,1/2/21 7:30,1/2/21 7:30,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,C0438321-016B-4FFA-980C-3979C007360F
+DietaryCarbohydrates,Loop,16,g,1/1/21 23:38,1/1/21 23:38,1/1/21 23:39,,,7200,,1,,57,,,,,,,,,,juice grapes c&c ,,,,,,,88972E27-120D-4C9C-8FE7-C0CD36F5CE56
+DietaryCarbohydrates,Loop,112,g,1/1/21 20:48,1/1/21 20:48,1/1/21 20:48,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,B85528AC-7750-4AD8-80CD-369FFED5174F
+DietaryCarbohydrates,Loop,5,g,1/1/21 19:45,1/1/21 19:45,1/1/21 19:46,,,7200,,1,,57,,,,,,,,,,c&c,,,,,,,37A848EF-E6D9-489B-9AE3-8AD34F2394FB
+DietaryCarbohydrates,Loop,16,g,1/1/21 10:34,1/1/21 10:34,1/1/21 10:34,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,613D501F-5027-4D40-8C75-E381F5F1812B
+DietaryCarbohydrates,Loop,16,g,12/31/20 22:22,12/31/20 22:22,12/31/20 22:22,,,7200,,1,,57,,,,,,,,,,juice ,,,,,,,6B33F3F2-AF32-4F25-A961-AD5EE85BB190
+DietaryCarbohydrates,Loop,112,g,12/31/20 20:47,12/31/20 20:47,12/31/20 20:47,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,FF757C5D-F8BD-4D1A-8F68-E481CFC94B73
+DietaryCarbohydrates,Loop,8,g,12/31/20 19:22,12/31/20 19:22,12/31/20 19:22,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,41B5CA38-BB38-498E-B1F4-5D0FD46CAD05
+DietaryCarbohydrates,Loop,10,g,12/31/20 8:49,12/31/20 8:49,12/31/20 8:49,,,10800,,1,,57,,,,,,,,,,,,,,,,,D5B4A827-3757-4B06-9DA4-26B174F0D107
+DietaryCarbohydrates,Loop,8,g,12/31/20 8:45,12/31/20 8:45,12/31/20 8:46,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,E520F3AB-07A2-4AE8-AB68-B196C340FD84
+DietaryCarbohydrates,Loop,8,g,12/30/20 23:45,12/30/20 23:45,12/30/20 23:45,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,E53A95AF-3310-46D0-ADF4-6FE5120C95D0
+DietaryCarbohydrates,Loop,107,g,12/30/20 22:58,12/30/20 22:58,12/30/20 22:58,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,C26F2312-46CE-4C47-9AD6-D14600AF9BDA
+DietaryCarbohydrates,Loop,16,g,12/30/20 9:31,12/30/20 9:31,12/30/20 9:32,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,5482BAF4-BB66-43BC-A3D6-4C91F98011B1
+DietaryCarbohydrates,Loop,16,g,12/30/20 6:48,12/30/20 6:48,12/30/20 6:48,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,D3E79F12-CB66-4106-8E06-15189BA42BF4
+DietaryCarbohydrates,Loop,16,g,12/29/20 23:23,12/29/20 23:23,12/29/20 23:23,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,84A08066-68DF-4C5F-A820-4D5E6CC0D9F1
+DietaryCarbohydrates,Loop,108,g,12/29/20 20:29,12/29/20 20:29,12/29/20 20:29,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,7FA58FC7-C509-468D-8808-9A4DD3A7BAEE
+DietaryCarbohydrates,Loop,16,g,12/29/20 11:29,12/29/20 11:29,12/29/20 11:29,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,A1F24037-00E8-4B0D-9212-5B0BE158BFD8
+DietaryCarbohydrates,Loop,16,g,12/29/20 9:31,12/29/20 9:31,12/29/20 9:31,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,0DE33C60-DA23-4F8C-AEA0-FDAD6934E6CC
+DietaryCarbohydrates,Loop,8,g,12/29/20 6:21,12/29/20 6:21,12/29/20 6:22,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,CBEAC108-91AA-4C20-8592-74EC320594DC
+DietaryCarbohydrates,Loop,110,g,12/28/20 20:23,12/28/20 20:23,12/28/20 21:03,,,10800,,1,,57,,,,,,,,,,salad cb fap,,,,,,,B72F6D92-6D87-4FC7-8D33-CCA3A1B93A1C
+DietaryCarbohydrates,Loop,16,g,12/28/20 11:32,12/28/20 11:32,12/28/20 11:33,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,D02AC23E-3419-451C-8E31-F65B201879CF
+DietaryCarbohydrates,Loop,16,g,12/28/20 9:16,12/28/20 9:16,12/28/20 9:16,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,D4052332-7D34-4260-BCE4-1E1415458286
+DietaryCarbohydrates,Loop,110,g,12/27/20 23:12,12/27/20 23:12,12/27/20 23:12,,,10800,,1,,57,,,,,,,,,,salad cb fap,,,,,,,A5CD3FAA-F622-4698-8C94-C40500D2272B
+DietaryCarbohydrates,Loop,105,g,12/26/20 21:08,12/26/20 21:08,12/26/20 21:09,,,10800,,1,,57,,,,,,,,,,eggs cb pbj ,,,,,,,E40CB485-81EA-4BF7-929F-58397B9DBC7B
+DietaryCarbohydrates,Loop,8,g,12/26/20 8:18,12/26/20 8:18,12/26/20 8:18,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,A8B48A6F-A1DF-4079-A70B-BD77E83352B6
+DietaryCarbohydrates,Loop,140,g,12/25/20 21:20,12/25/20 21:20,12/25/20 21:21,,,10800,,1,,57,,,,,,,,,,soup cb  cc,,,,,,,AAB617C2-5A46-4067-83E7-B035395D2AA1
+DietaryCarbohydrates,Loop,16,g,12/25/20 10:27,12/25/20 10:27,12/25/20 10:28,,,7200,,1,,57,,,,,,,,,,grapes cc,,,,,,,29DB662B-C347-4393-97DA-50C35F6DBE14
+DietaryCarbohydrates,Loop,16,g,12/25/20 9:25,12/25/20 9:25,12/25/20 9:26,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,C10763E2-CFC6-405F-A4BA-318AC2EC4F02
+DietaryCarbohydrates,Loop,8,g,12/25/20 9:02,12/25/20 9:02,12/25/20 9:03,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,D2FFC38D-A167-4B2F-9ADB-1832DC4739D3
+DietaryCarbohydrates,Loop,8,g,12/25/20 7:24,12/25/20 7:24,12/25/20 7:24,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,DFCEAF4C-50CF-4182-B0F6-DFE1AEAA1715
+DietaryCarbohydrates,Loop,8,g,12/25/20 6:07,12/25/20 6:07,12/25/20 6:07,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,F2E2D211-F1A4-4876-B292-926AD9774537
+DietaryCarbohydrates,Loop,99,g,12/24/20 20:32,12/24/20 20:32,12/24/20 20:32,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,348E030C-0435-4690-B842-9BBA3954E9CC
+DietaryCarbohydrates,Loop,8,g,12/24/20 18:13,12/24/20 18:13,12/24/20 18:13,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,DC091F1D-FD57-472B-AA28-93CB1484F4E2
+DietaryCarbohydrates,Loop,8,g,12/24/20 9:14,12/24/20 9:14,12/24/20 9:14,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,A7605AD3-6B06-403E-92DB-FD12921A6BF2
+DietaryCarbohydrates,Loop,8,g,12/24/20 6:35,12/24/20 6:35,12/24/20 6:35,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,0ADAEEDC-6826-4C29-A007-820E23173986
+DietaryCarbohydrates,Loop,99,g,12/23/20 22:43,12/23/20 22:43,12/23/20 22:43,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,7CF05DCC-14EA-4421-90DB-7118C0D74BF7
+DietaryCarbohydrates,Loop,8,g,12/23/20 10:26,12/23/20 10:26,12/23/20 10:26,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,93918194-D130-494C-AA0A-E4A18C9E29C0
+DietaryCarbohydrates,Loop,8,g,12/23/20 8:18,12/23/20 8:18,12/23/20 8:19,,,7200,,1,,57,,,,,,,,,,juice bottle,,,,,,,DC9571B0-9D25-4ACB-A63E-BD33F3E9D1B4
+DietaryCarbohydrates,Loop,99,g,12/22/20 21:40,12/22/20 21:40,12/22/20 21:41,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,AF9F1F62-D924-45C3-BDCA-E2CF4A1C74C5
+DietaryCarbohydrates,Loop,8,g,12/22/20 19:59,12/22/20 19:59,12/22/20 20:00,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,023A24F9-7DB9-485E-B4F2-7946CB6A013F
+DietaryCarbohydrates,Loop,16,g,12/22/20 10:14,12/22/20 10:14,12/22/20 10:14,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,98516326-8740-4319-993B-45D62822AAB5
+DietaryCarbohydrates,Loop,8,g,12/22/20 9:10,12/22/20 9:10,12/22/20 9:10,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,59EB7086-32D9-4E4E-9DD9-A34B4C0AE814
+DietaryCarbohydrates,Loop,8,g,12/22/20 7:39,12/22/20 7:39,12/22/20 7:40,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,EDF10E3D-AB6A-446E-80F9-44CD820CD44D
+DietaryCarbohydrates,Loop,95,g,12/21/20 22:06,12/21/20 22:06,12/21/20 22:07,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,9DEABEBE-0BA2-4B7A-921C-82A4DBF10774
+DietaryCarbohydrates,Loop,8,g,12/21/20 20:05,12/21/20 20:05,12/21/20 20:05,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,904C23FE-553D-424C-A8E8-129272B02FFE
+DietaryCarbohydrates,Loop,8,g,12/21/20 8:14,12/21/20 8:14,12/21/20 8:15,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,4A31BE12-B81C-41C7-98DA-25F38E9F0037
+DietaryCarbohydrates,Loop,8,g,12/21/20 7:59,12/21/20 7:59,12/21/20 7:59,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,8C859180-10C2-4143-84A9-9C7C0D0B4FC4
+DietaryCarbohydrates,Loop,96,g,12/20/20 20:45,12/20/20 20:45,12/20/20 20:46,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,117CA433-0793-4CD9-B4EE-5E2795945D99
+DietaryCarbohydrates,Loop,16,g,12/20/20 0:05,12/20/20 0:05,12/20/20 0:05,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,C16A76BA-948D-4D21-A285-EF564CC8C92D
+DietaryCarbohydrates,Loop,91,g,12/19/20 23:07,12/19/20 23:07,12/19/20 23:08,,,10800,,1,,57,,,,,,,,,,eggs  cb pbj ,,,,,,,084B2156-1CB7-45E3-860C-EE521732973C
+DietaryCarbohydrates,Loop,8,g,12/19/20 8:45,12/19/20 8:45,12/19/20 8:45,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,C9430811-43B6-4EF2-A4E0-FE20E3F07334
+DietaryCarbohydrates,Loop,8,g,12/19/20 6:58,12/19/20 6:58,12/19/20 6:58,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,5A8B06CC-2763-47D5-B41F-AA4269860E7F
+DietaryCarbohydrates,Loop,101,g,12/18/20 20:38,12/18/20 20:38,12/18/20 20:39,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,2DC51BDB-7C6B-4125-A270-7EF35519DDD6
+DietaryCarbohydrates,Loop,8,g,12/18/20 12:20,12/18/20 12:20,12/18/20 12:20,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,B7771FF3-29CC-470C-9ADA-21F548C58BA9
+DietaryCarbohydrates,Loop,8,g,12/17/20 23:24,12/17/20 23:24,12/17/20 23:24,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,3E0125A1-F8A8-4DC7-B8C9-5AC50F50BB49
+DietaryCarbohydrates,Loop,102,g,12/17/20 22:07,12/17/20 22:07,12/17/20 22:08,,,14400,,1,,57,,,,,,,,,,salad cb ,,,,,,,29831912-4C09-498D-BA84-6741BAFA0198
+DietaryCarbohydrates,Loop,8,g,12/17/20 11:54,12/17/20 11:54,12/17/20 11:54,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,9F791A58-258E-49FF-9012-BF68E77D6554
+DietaryCarbohydrates,Loop,8,g,12/17/20 9:24,12/17/20 9:24,12/17/20 9:25,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,0E3BA29B-364C-4A49-B521-D5D1E01E5EE7
+DietaryCarbohydrates,Loop,8,g,12/17/20 9:01,12/17/20 9:01,12/17/20 9:01,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,D197977F-0AB1-42BD-990B-5F547E56DAF1
+DietaryCarbohydrates,Loop,8,g,12/17/20 7:18,12/17/20 7:18,12/17/20 7:19,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,BF0CD8DF-0349-48A3-BE77-3D9DEF85CC84
+DietaryCarbohydrates,Loop,102,g,12/16/20 20:16,12/16/20 20:16,12/17/20 2:58,,,14400,,2,,57,,,,,,,,,,salad cb ,,,,,,,BB99E54F-2889-46FB-90E1-F04ED0A321B6
+DietaryCarbohydrates,Loop,8,g,12/16/20 9:36,12/16/20 9:36,12/16/20 9:36,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,199191E8-C40D-4F6F-BEDA-64DD6D5BF341
+DietaryCarbohydrates,Loop,8,g,12/15/20 23:54,12/15/20 23:54,12/15/20 23:54,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,1F5E7542-6482-4F01-874F-634016147563
+DietaryCarbohydrates,Loop,99,g,12/15/20 23:14,12/15/20 23:14,12/15/20 23:15,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,38B31C3A-25EC-41F2-BE39-6831C0C7B19C
+DietaryCarbohydrates,Loop,8,g,12/15/20 10:08,12/15/20 10:08,12/15/20 10:09,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,F4FA2127-E505-4DEF-AC2F-062EAE7C3097
+DietaryCarbohydrates,Loop,99,g,12/14/20 22:59,12/14/20 22:59,12/14/20 23:00,,,10800,,1,,57,,,,,,,,,,salad cb,,,,,,,00EE388D-6A9C-4720-99C2-8DA4BE7D7A87
+DietaryCarbohydrates,Loop,8,g,12/14/20 11:05,12/14/20 11:05,12/14/20 11:06,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,AD5D948D-12AF-4FFF-BACF-E1CA8CB2E353
+DietaryCarbohydrates,Loop,8,g,12/14/20 8:45,12/14/20 8:45,12/14/20 8:45,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,461BC251-2B9A-49BC-9BEF-C2426B38475C
+DietaryCarbohydrates,Loop,96,g,12/13/20 20:42,12/13/20 20:42,12/13/20 20:43,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,4B2B770A-7D26-4314-8516-20EC6E7BB1C0
+DietaryCarbohydrates,Loop,87,g,12/12/20 22:56,12/12/20 22:56,12/12/20 22:57,,,10800,,1,,57,,,,,,,,,,eggs cb pbj,,,,,,,B9E06C6F-35D4-4C57-9BE5-A27F2432BCE9
+DietaryCarbohydrates,Loop,8,g,12/12/20 12:44,12/12/20 12:44,12/12/20 12:45,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,3B91F5FB-84CE-43A0-AA59-0F9A6F06FC66
+DietaryCarbohydrates,Loop,8,g,12/12/20 10:48,12/12/20 10:48,12/12/20 10:48,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,2A0B99F3-7A16-4890-AF97-02802E7FF445
+DietaryCarbohydrates,Loop,98,g,12/11/20 23:28,12/11/20 23:28,12/11/20 23:29,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,EB1DF715-57E0-4C59-8A9D-D93CD74FA61E
+DietaryCarbohydrates,Loop,8,g,12/11/20 11:11,12/11/20 11:11,12/11/20 11:11,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,22E90494-4A99-4370-9C53-CCDB488A9B29
+DietaryCarbohydrates,Loop,8,g,12/11/20 8:34,12/11/20 8:34,12/11/20 8:34,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,A28DA3B6-E87A-4A3B-A749-43A9F94C82EA
+DietaryCarbohydrates,Loop,8,g,12/11/20 8:19,12/11/20 8:19,12/11/20 8:19,,,10800,,1,,57,,,,,,,,,,juice bottle ,,,,,,,2C41260B-4B84-4FCD-BD6B-D663402E10F4
+DietaryCarbohydrates,Loop,99,g,12/10/20 20:48,12/10/20 20:48,12/10/20 20:49,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,F3F38578-CEA4-49C8-97F1-EDCB9F066C32
+DietaryCarbohydrates,Loop,8,g,12/10/20 12:45,12/10/20 12:45,12/10/20 12:45,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,57B5B118-5BDA-4BC7-809C-B2428CBE7113
+DietaryCarbohydrates,Loop,8,g,12/10/20 9:53,12/10/20 9:53,12/10/20 9:53,,,7200,,1,,57,,,,,,,,,,grapes c&c ,,,,,,,B794042C-F030-42EC-8152-C8E45BCAADEE
+DietaryCarbohydrates,Loop,8,g,12/10/20 9:30,12/10/20 9:30,12/10/20 9:30,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,E7D45161-B54E-456D-96CF-DF3177791E6E
+DietaryCarbohydrates,Loop,8,g,12/9/20 23:47,12/9/20 23:47,12/9/20 23:47,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,2CC33350-C9BE-47FC-AD07-0CB92C55B205
+DietaryCarbohydrates,Loop,16,g,12/9/20 23:31,12/9/20 23:31,12/9/20 23:32,,,7200,,1,,57,,,,,,,,,,juice grapes ,,,,,,,2D554E13-DD9D-4EA8-8EF6-7D9A6F357611
+DietaryCarbohydrates,Loop,100,g,12/9/20 22:46,12/9/20 22:46,12/9/20 22:46,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,9DB1AD77-1983-4E1E-AD45-04E38765BBFC
+DietaryCarbohydrates,Loop,8,g,12/9/20 9:21,12/9/20 9:21,12/9/20 9:21,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,164C218D-D2EC-4BFE-AA65-5F0E9F0678B2
+DietaryCarbohydrates,Loop,16,g,12/9/20 8:42,12/9/20 8:42,12/9/20 8:42,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,3004E9F7-648E-481C-B308-A34681581A64
+DietaryCarbohydrates,Loop,8,g,12/9/20 6:35,12/9/20 6:35,12/9/20 6:35,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,78FDF52A-ACEB-4DDD-AAF0-A6F83FE9D6AA
+DietaryCarbohydrates,Loop,16,g,12/8/20 21:54,12/8/20 21:54,12/8/20 21:55,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,8E0A2EDD-3073-4DB1-A409-E264734E8AEC
+DietaryCarbohydrates,Loop,101,g,12/8/20 21:02,12/8/20 21:02,12/8/20 21:03,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,78D573F0-3358-4F6E-AAC0-7DC242F62725
+DietaryCarbohydrates,Loop,8,g,12/8/20 16:38,12/8/20 16:38,12/8/20 16:38,,,7200,,1,,57,,,,,,,,,,grapes c&c,,,,,,,E5661466-AF50-4DD6-B15B-E962B05890F3
+DietaryCarbohydrates,Loop,16,g,12/8/20 0:10,12/8/20 0:10,12/8/20 0:10,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,209F82AD-1CF9-4E9D-BB11-550F964C4067
+DietaryCarbohydrates,Loop,85,g,12/7/20 23:14,12/7/20 23:14,12/7/20 23:15,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,CFC44775-EA8B-4355-A91B-0F59DF1AB710
+DietaryCarbohydrates,Loop,8,g,12/7/20 19:45,12/7/20 19:45,12/7/20 19:46,,,7200,,1,,57,,,,,,,,,,grapes c&c,,,,,,,39FD64A7-FD5A-4DDA-9781-872E17FA9EED
+DietaryCarbohydrates,Loop,8,g,12/7/20 10:56,12/7/20 10:56,12/7/20 10:57,,,7200,,1,,57,,,,,,,,,,juice bottle cc,,,,,,,5EA947E2-36A6-4D2F-B135-9673947DE076
+DietaryCarbohydrates,Loop,8,g,12/7/20 8:55,12/7/20 8:55,12/7/20 8:55,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,C7182CAA-FBA9-48EB-8AED-4CB9A250A434
+DietaryCarbohydrates,Loop,8,g,12/7/20 8:44,12/7/20 8:44,12/7/20 8:45,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,1ACE4E25-55BE-4C97-8480-1E9AE5658FAD
+DietaryCarbohydrates,Loop,5,g,12/7/20 7:54,12/7/20 7:54,12/7/20 8:56,,,7200,,2,,57,,,,,,,,,,juice bottle ,,,,,,,BEA35ED4-7D28-4290-801D-6263DD3C861E
+DietaryCarbohydrates,Loop,8,g,12/6/20 23:25,12/6/20 23:25,12/6/20 23:25,,,7200,,1,,57,,,,,,,,,,grapes ,,,,,,,C050BC1C-4FC2-4031-95CF-C56EABD2F49E
+DietaryCarbohydrates,Loop,8,g,12/6/20 21:32,12/6/20 21:32,12/6/20 21:32,,,7200,,1,,57,,,,,,,,,,ðŸ,,,,,,,C8C0431A-3583-44F4-8A44-5C8BDA37D639
+DietaryCarbohydrates,Loop,8,g,12/6/20 21:25,12/6/20 21:25,12/6/20 21:26,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,465BA1FC-C71D-4154-A1F5-27AB74E10B24
+DietaryCarbohydrates,Loop,97,g,12/6/20 20:41,12/6/20 20:41,12/6/20 20:42,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,EB2F8BFD-103F-4176-8919-280A1174AFDF
+DietaryCarbohydrates,Loop,8,g,12/6/20 19:38,12/6/20 19:38,12/6/20 19:39,,,7200,,1,,57,,,,,,,,,,"c&c,grapes",,,,,,,9206557E-B48B-4694-B36B-77E2AAC10029
+DietaryCarbohydrates,Loop,88,g,12/5/20 22:52,12/5/20 22:52,12/5/20 22:53,,,10800,,1,,57,,,,,,,,,,eggs cb pbj,,,,,,,93875A9E-ADE0-492B-85B3-B58EC7740BDD
+DietaryCarbohydrates,Loop,8,g,12/5/20 11:24,12/5/20 11:24,12/5/20 11:24,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,5A48D6DD-FBCC-41C8-BC87-6A04AF45FD32
+DietaryCarbohydrates,Loop,8,g,12/5/20 11:05,12/5/20 11:05,12/5/20 11:06,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,AD555DB4-180B-4554-A809-0D2314CDDDF7
+DietaryCarbohydrates,Loop,16,g,12/5/20 8:21,12/5/20 8:21,12/5/20 8:21,,,7200,,1,,57,,,,,,,,,,grapes cc,,,,,,,387B405F-1FE2-48B1-A693-078018179190
+DietaryCarbohydrates,Loop,8,g,12/5/20 8:18,12/5/20 8:18,12/5/20 8:19,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,F1437DA4-9221-4587-9409-9BF0650545AF
+DietaryCarbohydrates,Loop,16,g,12/4/20 23:26,12/4/20 23:26,12/4/20 23:27,,,7200,,1,,57,,,,,,,,,,grapes cc,,,,,,,8CD3B72B-EC07-45D7-8B5F-26906002FABC
+DietaryCarbohydrates,Loop,8,g,12/4/20 22:01,12/4/20 22:01,12/4/20 22:01,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,747C8066-724B-4B4D-A2E2-04B929216AE1
+DietaryCarbohydrates,Loop,101,g,12/4/20 20:44,12/4/20 20:44,12/4/20 20:45,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,C36D9B9A-52DB-44CA-9B2A-2CFFC39565B5
+DietaryCarbohydrates,Loop,8,g,12/3/20 23:06,12/3/20 23:06,12/3/20 23:06,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,99A01AE0-B62F-4BD0-8FEA-FBA5EE95E29C
+DietaryCarbohydrates,Loop,102,g,12/3/20 22:16,12/3/20 22:16,12/3/20 22:17,,,10800,,1,,57,,,,,,,,,,salad cb ,,,,,,,E8B716C2-2164-4F2F-B50F-E8BB7507E38A
+DietaryCarbohydrates,Loop,8,g,12/3/20 10:10,12/3/20 10:10,12/3/20 10:10,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,52C0901B-8909-4E96-96F0-093B9D7AA37E
+DietaryCarbohydrates,Loop,16,g,12/3/20 7:53,12/3/20 7:53,12/3/20 7:54,,,7200,,1,,57,,,,,,,,,,"c&c,grapes ",,,,,,,28577824-B55D-41BE-A74A-460753BBB0AA
+DietaryCarbohydrates,Loop,8,g,12/3/20 6:52,12/3/20 6:52,12/3/20 6:52,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,FB76F5D6-FF6B-44A1-95E4-478333894DDD
+DietaryCarbohydrates,Loop,8,g,12/2/20 21:31,12/2/20 21:31,12/2/20 21:32,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,F0423934-38FF-4E1D-85FA-65257566BD9E
+DietaryCarbohydrates,Loop,97,g,12/2/20 20:41,12/2/20 20:41,12/2/20 20:42,,,10800,,1,,57,,,,,,,,,,salad cb,,,,,,,C67657F0-73E7-49C6-8B04-F7636D4D5E1B
+DietaryCarbohydrates,Loop,8,g,12/2/20 12:28,12/2/20 12:28,12/2/20 12:29,,,7200,,1,,57,,,,,,,,,,"c&c,grapes",,,,,,,199FB819-AFA9-42A9-B9A2-FA5E93EA7D0B
+DietaryCarbohydrates,Loop,8,g,12/2/20 10:43,12/2/20 10:43,12/2/20 10:44,,,7200,,1,,57,,,,,,,,,,"c&c,grapes ",,,,,,,E9E0E57B-3109-48F1-B11F-1F20164EBF86
+DietaryCarbohydrates,Loop,8,g,12/2/20 9:35,12/2/20 9:35,12/2/20 9:36,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,ACB43E34-7084-4A8C-A9B2-8E6F9FCAA2A4
+DietaryCarbohydrates,Loop,8,g,12/1/20 21:47,12/1/20 21:47,12/1/20 21:48,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,8160B1C4-9CBC-46B2-A49A-C8648EBDD843
+DietaryCarbohydrates,Loop,98,g,12/1/20 20:48,12/1/20 20:48,12/1/20 20:49,,,10800,,1,,57,,,,,,,,,,soup salad cb,,,,,,,5286DAE4-FB9E-450C-B848-07A40DC95180
+DietaryCarbohydrates,Loop,16,g,12/1/20 17:54,12/1/20 17:54,12/1/20 17:55,,,7200,,1,,57,,,,,,,,,,"c&c,grapes",,,,,,,1D24DA0F-5EE3-40F1-9C78-14E4DEF19C48
+DietaryCarbohydrates,Loop,8,g,12/1/20 12:04,12/1/20 12:04,12/1/20 12:07,,,7200,,3,,57,,,,,,,,,,juice bottle ,,,,,,,868DA437-E00F-4471-B132-25B5DE011189
+DietaryCarbohydrates,Loop,8,g,12/1/20 9:51,12/1/20 9:51,12/1/20 12:06,,,7200,,2,,57,,,,,,,,,,juice bottle ,,,,,,,5F51B67A-1813-41B0-9544-2CD4A234D02A
+DietaryCarbohydrates,Loop,16,g,12/1/20 0:13,12/1/20 0:13,12/1/20 0:14,,,7200,,1,,57,,,,,,,,,,cc&grapes,,,,,,,BCBAFDA5-1E1C-47FC-8F5E-2CBB4E16794D
+DietaryCarbohydrates,Loop,16,g,11/30/20 23:50,11/30/20 23:50,11/30/20 23:50,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,81D9DF1E-682C-45D5-B269-4AFE0712E75D
+DietaryCarbohydrates,Loop,81,g,11/30/20 23:10,11/30/20 23:10,11/30/20 23:11,,,10800,,1,,57,,,,,,,,,,salad  cb,,,,,,,0CDB041A-C1AB-413D-BC7A-5E4B958865EB
+DietaryCarbohydrates,Loop,8,g,11/30/20 11:37,11/30/20 11:37,11/30/20 11:37,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,3222F65C-352B-41AA-A173-44F491F249A1
+DietaryCarbohydrates,Loop,16,g,11/30/20 8:16,11/30/20 8:16,11/30/20 8:16,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,0FC4ACE1-B87A-440D-8056-42438B9EADCA
+DietaryCarbohydrates,Loop,16,g,11/30/20 7:34,11/30/20 7:34,11/30/20 7:34,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,B2E35BED-2F99-46C9-B093-86451EAA7664
+DietaryCarbohydrates,Loop,96,g,11/29/20 20:42,11/29/20 20:42,11/29/20 20:43,,,10800,,1,,57,,,,,,,,,,salad cb,,,,,,,74C1E6C4-2102-4D82-913F-5561F121A1D7
+DietaryCarbohydrates,Loop,8,g,11/29/20 12:33,11/29/20 12:33,11/29/20 12:34,,,7200,,1,,57,,,,,,,,,,juice ,,,,,,,2CA85792-45A3-4DC7-9750-EA293F7AF8A4
+DietaryCarbohydrates,Loop,16,g,11/29/20 1:00,11/29/20 1:00,11/29/20 1:01,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,31AD7E3B-8C97-47F0-9D18-F3B62184A9DA
+DietaryCarbohydrates,Loop,87,g,11/28/20 21:11,11/28/20 21:11,11/28/20 21:13,,,10800,,1,,57,,,,,,,,,,"eggs,cb,pbj",,,,,,,A335C007-59CE-4C2D-81DD-5E88BD34FCAE
+DietaryCarbohydrates,Loop,16,g,11/28/20 11:35,11/28/20 11:35,11/28/20 11:38,,,7200,,2,,57,,,,,,,,,,"c&c,grapes",,,,,,,89AC0B0C-EC7F-4233-9C4D-2B8B4A6A59EC
+DietaryCarbohydrates,Loop,16,g,11/28/20 2:43,11/28/20 2:43,11/28/20 2:44,,,7200,,2,,57,,,,,,,,,,juice bottle ,,,,,,,E229A805-4706-4CB5-AB79-7A85F1FB40A0
+DietaryCarbohydrates,Loop,16,g,11/28/20 2:26,11/28/20 2:26,11/28/20 2:27,,,7200,,1,,57,,,,,,,,,,juice bottle ,,,,,,,3DAAE9E6-841C-42BD-B466-F97443A56735
+DietaryCarbohydrates,Loop,16,g,11/27/20 23:50,11/27/20 23:50,11/27/20 23:52,,,7200,,3,,57,,,,,,,,,,juice bottle ,,,,,,,D3570878-C63E-41FC-9B19-873472F5C9DC
+DietaryCarbohydrates,Loop,98,g,11/27/20 23:20,11/27/20 23:20,11/27/20 23:22,,,10800,,1,,57,,,,,,,,,,"salad cornbread 92,111",,,,,,,9D494DA8-6B7E-4544-BC69-57F18DC9392C
+DietaryCarbohydrates,Loop,16,g,11/27/20 21:05,11/27/20 21:05,11/27/20 21:07,,,10800,,1,,57,,,,,,,,,,1/2   juice c&c grapes,,,,,,,B41CEC83-04D5-4D83-AA9C-E3FBAA7C84CB
+DietaryCarbohydrates,Loop,16,g,11/27/20 13:18,11/27/20 13:18,11/27/20 13:27,,,10800,,2,,57,,,,,,,,,,"c&c, grapes",,,,,,,9834704F-BA5C-4DDF-BCB5-29CE2134A291
+DietaryCarbohydrates,Loop,16,g,11/27/20 10:36,11/27/20 10:36,11/27/20 13:27,,,7200,,2,,57,,,,,,,,,,juice bottle ,,,,,,,BDA0B662-6BD4-4398-A21E-27A22558A9DA
+DietaryCarbohydrates,Loop,16,g,11/27/20 8:53,11/27/20 8:53,11/27/20 13:26,,,7200,,2,,57,,,,,,,,,,juice bottle,,,,,,,4CA16060-1449-4CEA-925E-B001F82EF33C
