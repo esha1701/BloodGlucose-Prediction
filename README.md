@@ -2,7 +2,7 @@
  
 
 ### Directory Structure
-    .  
+      
            
     ├── LstmUva              # Notebook with main project code
     ├── UVAPadovaSim         # Code for the UVA/Padova simulator
@@ -29,4 +29,4 @@
 * Matplotlib
 
 
-The project can be run on [Google Colab](https://colab.research.google.com/drive/1pNbD5qW0IJJDNXwz8cLUyG8Z5sHsvVhC#scrollTo=syD02GAmapxx) after uploading all files in data and UVAPadovasim on the notebook.
+The project can be run on [Google Colab](https://colab.research.google.com/drive/1pNbD5qW0IJJDNXwz8cLUyG8Z5sHsvVhC#scrollTo=syD02GAmapxx) after uploading all files in the data and UVAPadovasim folders on the notebook.
