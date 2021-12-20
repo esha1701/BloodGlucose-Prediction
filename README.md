@@ -1,5 +1,10 @@
 # Comparing a Personalised LSTM Model and a Biomedical Model for Blood Glucose Forecasting
  
+ 
+The project can be run on [Google Colab](https://colab.research.google.com/drive/1pNbD5qW0IJJDNXwz8cLUyG8Z5sHsvVhC#scrollTo=syD02GAmapxx) after uploading all files in the [data](https://github.com/esha1701/BloodGlucose-Prediction/tree/main/data)  and [UVAPadovasim](https://github.com/esha1701/BloodGlucose-Prediction/tree/main/UVAPadovaSim) folders on the notebook.
+
+The project report can be found [here](https://github.com/esha1701/BloodGlucose-Prediction/blob/main/Report.pdf)
+ 
 
 ### Directory Structure
       
@@ -27,5 +32,3 @@
 * Scikitlearn
 * Scipy
 * Matplotlib
-
-The project can be run on [Google Colab](https://colab.research.google.com/drive/1pNbD5qW0IJJDNXwz8cLUyG8Z5sHsvVhC#scrollTo=syD02GAmapxx) after uploading all files in the [data](https://github.com/esha1701/BloodGlucose-Prediction/tree/main/data)  and [UVAPadovasim](https://github.com/esha1701/BloodGlucose-Prediction/tree/main/UVAPadovaSim) folders on the notebook.
